@@ -271,7 +271,7 @@ nav a:hover {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid orange;
+  border: 1px solid var(--featured-text);
 }
 
 .dropdown-title {
@@ -285,11 +285,11 @@ nav a:hover {
   left: -1rem;
   padding: 0.5rem;
   display:none; 
-  background-color: white;
+  background-color: #FAF6F0;
   z-index: 2;
   text-align: left;
   min-width: 10rem;
-  border: 1px solid mediumvioletred;
+  border: 1px solid #767964;
 }
 
 .dropdown:hover .dropdown-content{ 
