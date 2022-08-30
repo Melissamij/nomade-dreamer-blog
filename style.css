@@ -110,6 +110,9 @@ section { position: relative; }
     background-position: center; 
     background-repeat: no-repeat;
 }
+.bg-logo {
+  background-image: url('/images/logo-nomade.png');
+}
 
 .bg-overlay::after {
   z-index: 1;
