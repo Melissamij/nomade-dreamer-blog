@@ -168,6 +168,7 @@ a.bg-image { display: block;}
 body {
   font-family: 'Mulish', serif;  /* Add your font here */ 
   color: var(--dark-text);
+  transition: background-color .5s;
 }
 
 h2, h3, h4, h5, h6 {
@@ -248,7 +249,9 @@ p a:hover {
 /* ------------ Header & Hamburger Menu -------------- */
 header {
     padding: 1rem 5%;
+  
 }
+
 
 nav a {
     padding: 0.25rem 0.5rem;
@@ -271,7 +274,6 @@ nav a:hover {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid var(--featured-text);
 }
 
 .dropdown-title {
@@ -280,6 +282,7 @@ nav a:hover {
 }
 
 .dropdown-content {
+  /*
   position: absolute;
   top: 100%;
   left: -1rem;
@@ -289,7 +292,14 @@ nav a:hover {
   z-index: 2;
   text-align: left;
   min-width: 10rem;
-  border: 1px solid #767964;
+  border: 1px solid #767964; */
+  display: none;
+  position: absolute;
+  background-color: #FAF6F0;
+  min-width: 160px;
+  left: 25px;
+  box-shadow: 0px 8px 16px 0px #767964;
+  z-index: 2;
 }
 
 .dropdown:hover .dropdown-content{ 
@@ -298,7 +308,10 @@ nav a:hover {
 
 .dropdown-content a {
   display: block;
-  padding: 0.2rem;
+  /*
+  padding: 12px 16px; */
+  /*
+  padding: 0.2rem; */
 }
 
 .hamburger-button {
@@ -314,33 +327,76 @@ nav a:hover {
     z-index: 4;
   }
   
+  */
   /* Styles when the hamburger button is active  */
+  
   .hamburger-button.active {
     color: white;
   }
   
   
   .mobile-menu {
-    display: none; 
-    background-color: var(--featured);
-    padding: 5%;
+    
     position: fixed; 
-    z-index:3;
+    /* z-index:3;
+    padding: 5%;
+    display: none; 
     top: 0;
     bottom: 0;
     left: 0;
-    right: 0;
     text-align: center;
+    background-color: var(--featured);
+    right: 0; */
+   
+
+    height: 100%;
+    width: 0;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    background-color: #FAF6F0;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
   }
   
   .mobile-menu a {
+    /*
     text-decoration: none; 
     color: inherit; 
     padding: 2%;
     display: block;
-    font-weight: normal;
+    font-weight: normal;*/
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: var(--dark-text);
+    display: block;
+    transition: 0.3s;
   }
 
+
+
+.mobile-menu a:hover {
+  color: #A8AB98;
+}
+
+.mobile-menu .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+@media screen and (max-height: 450px) {
+  .mobile-menu {padding-top: 15px;}
+  .mobile-menu a {font-size: 18px;}
+}
 
 
 /* ------------ Contact Forms  ----------------------- */
