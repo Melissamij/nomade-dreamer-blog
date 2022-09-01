@@ -8,7 +8,7 @@ author: Tina
 featured: true
 categories:
     - life
-    - self care
+    - selfcare
 featured_image: https://source.unsplash.com/random?sig=9
 seo:
     title:
