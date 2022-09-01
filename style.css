@@ -234,7 +234,7 @@ p a:hover {
 }
 
 .button:hover {
-    color: inherit;
+    color:var(--featured-text);
 }
 
 .subtle-button {
