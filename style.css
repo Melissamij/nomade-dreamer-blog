@@ -122,7 +122,7 @@ section { position: relative; }
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(97, 97, 97, 0.5);
 }
 
 
@@ -133,7 +133,7 @@ section { position: relative; }
 /* Add a second class to change the color or style  */
 
 .bg-overlay-gradient::after { 
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(0deg, rgba(175, 173, 173, 0.3), rgba(0, 0, 0, 0));
 } 
 
 .bg-overlay-featured::after { 
