@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Living In Denmark
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
-  ab, eum dolore perspiciatis tenetur alias aspernatur
+title: 'CITY GUIDE: 48H IN COPENHAGEN'
+description: 'I moved to Denmark in 2018, I am sharing with you my must see spot & do. '
 author: Mélissa
 featured: true
 categories:
@@ -22,22 +20,28 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Living in Denmark.
+### CITY GUIDE: 48H IN COPENHAGEN
+{: .center}
 
-I moved to Denmark in 2018, this article is like an open letter to my feelings, the life here from a South of France Women.
+![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: width="3182" height="3181"}
+
+#### INFORMATION
+{: .center}
+
+Copenhagen, the biggest city of Scandinavia. Did you know it was built based on Amsterdam and to become a main harbor in the area.
+
+Called K&oslash;benhavn in Danish which mean "k&oslash;b = to buy" "havn= harbour".
+
+Surrounded by water, beautiful architecture and a great food scene.
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+&nbsp;
 
-> Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est.
+#### TRANSPORT & ITINERARY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+&nbsp;
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .float-left-image width="3182" height="3181"}
+Ho to get there ?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+&nbsp;
