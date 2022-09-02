@@ -7,12 +7,13 @@ layout: default
 
         <h2 class="center">About</h2>  
         <p> Bonjour !</p>
-        <p>To make it short before my travel timeline, I am an Island, Sun, Ocean lover. I dive and freedive, dream of becoming a surfer one day. 
+        <p>To make it short before my travel timeline, I am an Island, Sun, Ocean lover. In love with diving & freediving, dream of becoming a surfer one day. 
             <br>I am a foodie, always looking for the best places to have a food experience. </p>
         <p>Planet lover, so I try to make the most concious choices</p>
         <img src="https://source.unsplash.com/random?sig=7" class="one-half-image">
-        <p> I am 32 years old et I am touch all. I was born in 1990 in Cannes and spend my summer time up in the mountain. <br>
-            At the age of 19 I left to visit Brazil and Israel. My two first major travel, that changed me and made me a travel addict.
+        <p> I am 32 years old et I am touch all. I was born in 1990 in Cannes and spend my summer time up in the mountain. 
+            <br>Full time Barista for now, Web developer / Designer on the side.
+            <br>At the age of 19 I left to visit Brazil and Israel. My two first major travel, that changed me and made me a travel addict.
         </p>
         <img src="https://source.unsplash.com/random?sig=7" class="one-half-image">
         <p>In 2012, after saving money for two years working in restaurants, I left for Australia by my self. I spend a full year there and became a barista while studying Interior Design. 
@@ -24,12 +25,43 @@ layout: default
         <p>Then in 2018, I wanted to learn more about coffee so I left for Colombia & Panama. Well something special happened, I met my current partner in crime, a Danish Men.So 6 months later I moved to Denmark. </p>
         <p>Since 2018, I have been living in Denmark. </p>
         
-        
-    
     </div>
 </section>
 
     
 {% include social-share.html %}
 
-{% include related-posts.html %}
+<section class="padded">
+
+    <div class="capped-width grid-center">
+
+    <div class="col-12 padded-05 center margin-b-1">
+        <h2> Featured Posts </h2>
+    </div>
+
+        {% assign featured_posts = site.posts | where: 'featured', true %}
+
+        {% for post in featured_posts limit:3 %}
+
+            <div class="col-4 post-item padded-05">
+                <a href="{{ post.url }}">
+                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                </a>
+                <div class="padded-t-1">
+                    
+                    {% for item in post.categories %}
+                        <span class="tag"> {{item}} </span>
+                    {% endfor %}
+
+                    <h2 class="margin-t-1"> {{ post.title }} </h2>
+                    <p> {{ post.description }} </p>
+                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+
+                </div>
+            </div>
+
+        {% endfor %}
+
+    </div>
+
+</section>
