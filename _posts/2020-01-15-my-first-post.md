@@ -23,6 +23,8 @@ _comments:
 ### CITY GUIDE:&nbsp; WEEK-END IN COPENHAGEN
 {: .center}
 
+&nbsp;
+
 ![](/uploads/copenhague.jpg){: width="4006" height="2664"}
 
 #### INFORMATION
@@ -54,10 +56,10 @@ Copenhagen is one of the easiest city to access.
 
 <u>To go around:</u> there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
 
-<u>City pass: </u>Dowload the app "DOT" ( add link) and chose what's best for you.
+<u>City pass: </u>Download the app "DOT" ( add link) and chose what's best for you.
 
 Day pass: 80kr ( 12€).
 
-&nbsp;
+![](/uploads/copenhague.jpg){: width="4006" height="2664"}
 
 &nbsp;
