@@ -86,34 +86,72 @@ Walk: For the actives ones you can easily visit the Copenhagen by foot.
 
 ### What to see?
 
-I think 3 days it's the minimum time you need to visit the city.
+I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
+
+![](/uploads/jose-manuel-alonso-de-caso-4YGxHNX2r1Q-unsplash.jpg){: width="2210" height="3929"}
 
 <u>The most popular spots:</u>
 
 * Nyhavn ( the colored houses), use to be the main harbor.
-* Little Mermaid ( she is really little )
+* Little Mermaid ( she is really little ) go walk around the Kastellet next to it.
 * Christiana (the free city).
-* The Royal Palace. Amelienborg
-* Tivoli
+* Amelienborg (The Royal Palace).
+* Tivoli ( oldest attraction park still in use) fee to enter and fee to do attractions.
 
-<u>Places to see:</u>
+<u>Places to see on a sunny day:</u>
 
-* Assistens Kirkeg&aring;rd ( cemetery)
-* F&aelig;lledparken
-* Kastellet
-* Botanic Garden
-* Glypotek Museum
-* Lacs
-* K&oslash;dbyen ( Meat packing district to party)
-* Rundetaarn ( round tour)
-* Street Food Reffen (Summer only)
+* Assistens Kirkeg&aring;rd ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
+* F&aelig;lledparken ( huge park in the city cool for a walk in nature)
+* Lacs ( in the middle of the city)
+* Rundetaarn ( view of the city)
+* Street Food Reffen (Open in Summer only)
 * Copenhill
-* Torvehallerne ( cover food market)
 
-#### ITINERARY
+<u>Places to see on a rainy day ( or not):</u>
 
-###### Day 1: City Center / Indre By
+* Torvehallerne ( cover food market) also super cosy in summer.
+* Glypotek Museum.
+* Botanic Garden ( visit the palm tree house so nice when it's cold outside).
 
-Go early to Nyhavn to avoid a massive flux of tourists.
+#### Going out:
+
+* K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
+* PS Bar
+* Generator
+* Boullebar ( petanque bar in the city)
+
+#### Where to eat ?
+
+Copenhagen has become a huge food city, so I will make a full article for food itself. But here get few nice places around the city.
+
+All the places below offer vegetarian menu. Check it out for Vegan & GF if needed.
+
+<u>Mad &amp; Kaffe: </u>Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
+
+<u>&Oslash;12:</u> Brunch / Lunch all day long.
+
+<u>Union Kitchen:</u> Brunch /Lunch, right behind Nyhavn
+
+<u>Coffee Collective: </u>If you need a nice coffee break during the day.
+
+<u>Original Coffee:</u> Same as good and a lot of places around.
+
+<u>LLama</u>\: Dinner place, High quality, South American fusion cuisine, Lounge later at night. My fav restaurant for a treat.
+
+<u>Keyser Social:</u> Asian Fusion Cuisine, if you like Asian food this will be goood.
+
+Ammas: If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
+
+&nbsp;
+
+I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip\!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
