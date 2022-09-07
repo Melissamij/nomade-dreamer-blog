@@ -20,7 +20,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-### CITY GUIDE: 48H IN COPENHAGEN
+### CITY GUIDE:&nbsp; WEEK-END IN COPENHAGEN
 {: .center}
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: width="3182" height="3181"}
