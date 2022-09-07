@@ -23,7 +23,7 @@ _comments:
 ### CITY GUIDE:&nbsp; WEEK-END IN COPENHAGEN
 {: .center}
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: width="3182" height="3181"}
+![](/uploads/copenhague.jpg){: width="4006" height="2664"}
 
 #### INFORMATION
 {: .center}
