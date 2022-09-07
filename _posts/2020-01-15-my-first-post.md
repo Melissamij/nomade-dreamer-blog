@@ -30,9 +30,17 @@ _comments:
 
 Copenhagen, the biggest city of Scandinavia. Did you know it was built based on Amsterdam and to become a main harbor in the area.
 
-Called K&oslash;benhavn in Danish which mean "k&oslash;b = to buy" "havn= harbour".
+Called K&oslash;benhavn in Danish which mean "k&oslash;b = to buy" "havn= harbor".
 
-Surrounded by water, beautiful architecture and a great food scene.
+The city offers beautiful architecture, great food scene and a unique vibe in the Summer.
+
+<u>Formality:</u> Danemark is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
+
+<u>Currency:</u> Danish Kroner (DKK)
+
+<u>Time:</u> Paris Time.
+
+<u>Electricity:</u> Type E 230V
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
 
@@ -40,8 +48,16 @@ Surrounded by water, beautiful architecture and a great food scene.
 
 #### TRANSPORT & ITINERARY
 
-&nbsp;
+Copenhagen is one of the easiest city to access.
 
-Ho to get there ?
+<u>From the airport</u>, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below).The metro takes you in the heart of Copenhagen.
+
+<u>To go around:</u> there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
+
+<u>City pass: </u>Dowload the app "DOT" ( add link) and chose what's best for you.
+
+Day pass: 80kr ( 12€).
+
+&nbsp;
 
 &nbsp;
