@@ -142,6 +142,7 @@ Ammas: If you want to try the Danish Specialty, I heard it's one of the best for
 &nbsp;
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip\!
+{: .center}
 
 &nbsp;
 
