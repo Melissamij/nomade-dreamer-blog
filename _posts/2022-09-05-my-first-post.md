@@ -20,7 +20,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-### CITY GUIDE:&nbsp; WEEK-END IN COPENHAGEN
+### &nbsp;WEEK-END IN COPENHAGEN
 {: .center}
 
 &nbsp;
