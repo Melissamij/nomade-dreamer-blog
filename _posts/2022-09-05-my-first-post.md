@@ -22,11 +22,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-### &nbsp;WEEK-END IN COPENHAGEN
-{: .center}
-
-&nbsp;
-
 ![](/uploads/copenhague.jpg){: width="4006" height="2664"}
 
 #### INFORMATION
