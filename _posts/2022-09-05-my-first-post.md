@@ -137,7 +137,7 @@ All the places below offer vegetarian menu. Check it out for Vegan & GF if neede
 
 <u>Keyser Social:</u> Asian Fusion Cuisine, if you like Asian food this will be goood.
 
-Ammas: If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
+<u>Ammas:</u> If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
 
 &nbsp;
 
