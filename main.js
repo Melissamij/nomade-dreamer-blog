@@ -1,5 +1,5 @@
 $('.hamburger-button').click(function(){
-    $('.mobile-menu').fadeToggle(300);
+    $('.mobile-menu').fadeToggle(600);
     $(this).toggleClass('active');
 });
 
