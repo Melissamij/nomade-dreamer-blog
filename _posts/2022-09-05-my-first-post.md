@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CITY GUIDE: 48H IN COPENHAGEN'
+title: 'City Guide: 72h in Copenhagen'
 description: 'I moved to Denmark in 2018, I am sharing with you my must see spot & do. '
 author: Mélissa
 featured: true
