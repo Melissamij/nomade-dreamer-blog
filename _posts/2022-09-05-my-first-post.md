@@ -10,11 +10,13 @@ categories:
   - living abroad
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
-  title:
-  description:
+  title: week end in Copenhagen
+  description: >-
+    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
+    end.
   social_image:
   twitter_card:
-  keywords:
+  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
   hide-from-google: false
 _comments:
   title: Max 70 characters
