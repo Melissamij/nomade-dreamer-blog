@@ -54,10 +54,10 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 
 <u>City areas: </u>Copenhagen has four main areas
 
-* Ouest &Oslash;sterbro
-* Est Vesterbro
-* North N&oslash;rrebro
-* Center Indre By
+* Ouest: &Oslash;sterbro
+* Est: Vesterbro
+* North: N&oslash;rrebro
+* Center: Indre By
 * South: Amager ( beach)
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
@@ -68,7 +68,7 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 
 Copenhagen is one of the easiest city to access.
 
-<u>From the airport</u>, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below).The metro takes you in the heart of Copenhagen.
+<u>From the airport</u>, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below). The metro takes you in the heart of Copenhagen.
 
 <u>To go around:</u> there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
 
@@ -88,37 +88,51 @@ Walk: For the actives ones you can easily visit the Copenhagen by foot.
 
 I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
 
-![](/uploads/jose-manuel-alonso-de-caso-4YGxHNX2r1Q-unsplash.jpg){: width="2210" height="3929"}
+![](/uploads/jose-manuel-alonso-de-caso-4YGxHNX2r1Q-unsplash.jpg){: .small-centered-image width="2210" height="3929"}
 
-<u>The most popular spots:</u>
+###### The most popular spots:
 
-* Nyhavn ( the colored houses), use to be the main harbor.
-* Little Mermaid ( she is really little ) go walk around the Kastellet next to it.
-* Christiana (the free city).
-* Amelienborg (The Royal Palace).
-* Tivoli ( oldest attraction park still in use) fee to enter and fee to do attractions.
+<u>Nyhavn</u> ( the colored houses), use to be the main harbor.
 
-<u>Places to see on a sunny day:</u>
+<u>Little Mermaid </u>( she is really little ) go walk around the Kastellet next to it.
 
-* Assistens Kirkeg&aring;rd ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
-* F&aelig;lledparken ( huge park in the city cool for a walk in nature)
-* Lacs ( in the middle of the city)
-* Rundetaarn ( view of the city)
-* Street Food Reffen (Open in Summer only)
-* Copenhill
+<u>Christiana </u>(the free city).
 
-<u>Places to see on a rainy day ( or not):</u>
+<u>Amelienborg </u>(The Royal Palace).
 
-* Torvehallerne ( cover food market) also super cosy in summer.
-* Glypotek Museum.
-* Botanic Garden ( visit the palm tree house so nice when it's cold outside).
+<u>Tivoli </u>( oldest attraction park still in use) fee to enter and fee to do attractions.
+
+###### Places to see on a sunny day:
+
+<u>Assistens Kirkeg&aring;rd</u> ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
+
+<u>F&aelig;lledparken</u> ( huge park in the city cool for a walk in nature)
+
+<u>Lacs </u>( in the middle of the city)
+
+<u>Rundetaarn </u>( view of the city)
+
+<u>Street Food Reffen</u> (Open in Summer only)
+
+<u>Copenhill: </u>Ski Piste, Trail, View over the city..
+
+###### Places to see on a rainy day ( or not):
+
+<u>Torvehallerne</u> ( cover food market) also super cosy in summer.
+
+<u>Glypotek Museum.</u>
+
+<u>Botanic Garden</u> ( visit the palm tree house so nice when it's cold outside).
 
 #### Going out:
 
-* K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
-* PS Bar
-* Generator
-* Boullebar ( petanque bar in the city)
+<u>K&oslash;dbyen </u>( Old Meat packing district now restaurants and bars to party)
+
+<u>PS Bar: </u>You can strat with dinner and than party, be dressed.
+
+<u>Generator:</u> It's an hostel in the city, where you can play games and enjoy drinks. Chill
+
+<u>Boullebar</u> ( petanque bar in the city)
 
 #### Where to eat ?
 
