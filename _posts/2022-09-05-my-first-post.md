@@ -27,7 +27,7 @@ _comments:
 #### INFORMATION
 {: .center}
 
-<u>About: </u>Copenhagen, the biggest city of Scandinavia.
+***About: ***Copenhagen, the biggest city of Scandinavia.
 
 They also have a Royal Family loved by the people.
 
@@ -37,25 +37,29 @@ Called K&oslash;benhavn in Danish which mean "k&oslash;b = to buy" "havn= harbor
 
 The city offers beautiful architecture, great food scene and a unique vibe in the Summer.
 
-<u>Formality:</u> Denmark is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
+***Formality:*** Denmark is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
 
-<u>Currency:</u> Danish Kroner (DKK)
+**Currency:**Danish Kroner (DKK)
 
-<u>Time:</u> Paris Time.
+***Time: ***Paris Time.
 
-<u>Electricity:</u> Type E 230V
+**Electricity:** Type E 230V
 
-<u>Best season: </u>For sure Summer, it will allow you to enjoy the most of the city. But in Denmark you can never be sure of the weather.
+**Best season:** For sure Summer, it will allow you to enjoy the most of the city. But in Denmark you can never be sure of the weather.
 
-<u>Light:</u> Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
+***Light: ***Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
 
-<u>City areas: </u>Copenhagen has four main areas
+**City areas:** Copenhagen has four main areas
 
-* Ouest &Oslash;sterbro
-* Est Vesterbro
-* North N&oslash;rrebro
-* Center Indre By
-* South: Amager ( beach)
+Ouest &Oslash;sterbro
+
+Est Vesterbro
+
+North N&oslash;rrebro
+
+Center Indre By
+
+South: Amager ( beach)
 
 ![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
 
@@ -66,19 +70,19 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 
 Copenhagen is one of the easiest city to access.
 
-<u>From the airport</u>, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below).The metro takes you in the heart of Copenhagen.
+***From the airport***, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below).The metro takes you in the heart of Copenhagen.
 
-<u>To go around:</u> there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
+***To go around:*** there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
 
-And of course by <u>bikes</u>, the most use transport in Cph. You can rent one at your hotel or in a lot of shops except on Sunday where most of businesses are closed.
+And of course by ***bikes,*** the most use transport in Cph. You can rent one at your hotel or in a lot of shops except on Sunday where most of businesses are closed.
 
-<u>Transport: </u>Download the app "DOT" ( add link) and chose what's best for you.
+***Transport:***<u> </u>Download the app "<u>DOT</u>" ( add link) and chose what's best for you.
 
 Day pass: 80kr ( 12€).
 
-<u>City tour bus: </u>
+***City tour bus***\:
 
-Walk: For the actives ones you can easily visit the Copenhagen by foot.
+***Walk**\:* For the actives ones you can easily visit the Copenhagen by foot.
 
 ![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}
 
@@ -89,36 +93,50 @@ I think 3 days it's the minimum time you need to visit the city. Walk around in 
 
 ![](/uploads/jose-manuel-alonso-de-caso-4YGxHNX2r1Q-unsplash.jpg){: width="2210" height="3929"}
 
-<u>The most popular spots:</u>
+***The most popular spots:***
 
-* Nyhavn ( the colored houses), use to be the main harbor.
-* Little Mermaid ( she is really little ) go walk around the Kastellet next to it.
-* Christiana (the free city).
-* Amelienborg (The Royal Palace).
-* Tivoli ( oldest attraction park still in use) fee to enter and fee to do attractions.
+Nyhavn ( the colored houses), use to be the main harbor.
 
-<u>Places to see on a sunny day:</u>
+Little Mermaid ( she is really little ) go walk around the Kastellet next to it.
 
-* Assistens Kirkeg&aring;rd ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
-* F&aelig;lledparken ( huge park in the city cool for a walk in nature)
-* Lacs ( in the middle of the city)
-* Rundetaarn ( view of the city)
-* Street Food Reffen (Open in Summer only)
-* Copenhill
+Christiana (the free city).
 
-<u>Places to see on a rainy day ( or not):</u>
+Amelienborg (The Royal Palace).
 
-* Torvehallerne ( cover food market) also super cosy in summer.
-* Glypotek Museum.
-* Botanic Garden ( visit the palm tree house so nice when it's cold outside).
+Tivoli ( oldest attraction park still in use) fee to enter and fee to do attractions.
+
+***Places to see on a sunny day:***
+
+Assistens Kirkeg&aring;rd ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
+
+F&aelig;lledparken ( huge park in the city cool for a walk in nature)
+
+Lacs ( in the middle of the city)
+
+Rundetaarn ( view of the city)
+
+Street Food Reffen (Open in Summer only)
+
+Copenhill
+
+***Places to see on a rainy day ( or not):***
+
+Torvehallerne ( cover food market) also super cosy in summer.
+
+Glypotek Museum.
+
+Botanic Garden ( visit the palm tree house so nice when it's cold outside).
 
 #### Going out:
 {: .center}
 
-* K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
-* PS Bar
-* Generator
-* Boullebar ( petanque bar in the city)
+K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
+
+PS Bar
+
+Generator
+
+Boullebar ( petanque bar in the city)
 
 #### Where to eat ?
 {: .center}
