@@ -516,7 +516,9 @@ hr.short.center {
 
 	.show-md { display: block; }
 	.hide-md { display: none;  }
-
+  .blog-content h1 {
+    size: 2rem;
+  }
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 
