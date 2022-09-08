@@ -62,6 +62,7 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 &nbsp;
 
 #### TRANSPORT
+{: .center}
 
 Copenhagen is one of the easiest city to access.
 
@@ -82,6 +83,7 @@ Walk: For the actives ones you can easily visit the Copenhagen by foot.
 ![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}
 
 ### What to see?
+{: .center}
 
 I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
 
@@ -111,6 +113,7 @@ I think 3 days it's the minimum time you need to visit the city. Walk around in 
 * Botanic Garden ( visit the palm tree house so nice when it's cold outside).
 
 #### Going out:
+{: .center}
 
 * K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
 * PS Bar
@@ -118,6 +121,7 @@ I think 3 days it's the minimum time you need to visit the city. Walk around in 
 * Boullebar ( petanque bar in the city)
 
 #### Where to eat ?
+{: .center}
 
 Copenhagen has become a huge food city, so I will make a full article for food itself. But here get few nice places around the city.
 
