@@ -61,7 +61,7 @@ Center Indre By
 
 South: Amager ( beach)
 
-![](/uploads/city-2-1.JPG){: .small-centered-image width="3024" height="4032"}![](/uploads/city.JPG){: .one-half-image width="3024" height="4032"}
+![](/uploads/city-2-1.JPG){: .one-half-image width="3024" height="4032"}![](/uploads/city.JPG){: .one-half-image width="3024" height="4032"}
 
 &nbsp;
 
@@ -84,7 +84,7 @@ Day pass: 80kr ( 12€).
 
 ***Walk**\:* For the actives ones you can easily visit the Copenhagen by foot.
 
-![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}![](/uploads/copenhague.jpg){: .one-half-image width="4006" height="2664"}
+![](/uploads/city-1-1.JPG){: .one-half-image}
 
 ### What to see?
 {: .center}
