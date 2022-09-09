@@ -8,7 +8,7 @@ categories:
   - travel
   - life
   - living abroad
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /uploads/copenhague-1.jpg
 seo:
   title: week end in Copenhagen
   description: >-
