@@ -41,13 +41,13 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 
 **Currency:**Danish Kroner (DKK)
 
-***Time: ***Paris Time.
+*\*\*Time: \*\**Paris Time.
 
 **Electricity:** Type E 230V
 
 **Best season:** For sure Summer, it will allow you to enjoy the most of the city. But in Denmark you can never be sure of the weather.
 
-***Light:&nbsp; ***Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
+*\*\*Light:&nbsp; \*\**Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
 
 **City areas:** Copenhagen has four main areas
 
