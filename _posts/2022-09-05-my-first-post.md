@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/uploads/copenhague.jpg){: width="4006" height="2664"}
+![](/uploads/copenhague-1.jpg){: width="4006" height="2664"}
 
 #### INFORMATION
 {: .center}
@@ -61,7 +61,7 @@ Center Indre By
 
 South: Amager ( beach)
 
-![](/uploads/city-2-1.JPG){: .one-half-image width="3024" height="4032"}![](/uploads/city.JPG){: .one-half-image width="3024" height="4032"}
+![](/uploads/city-2.jpeg){: .one-half-image width="3024" height="4032"}![](/uploads/city.jpeg){: .one-half-image width="3024" height="4032"}
 
 &nbsp;
 
@@ -84,14 +84,14 @@ Day pass: 80kr ( 12€).
 
 ***Walk**\:* For the actives ones you can easily visit the Copenhagen by foot.
 
-![](/uploads/city-1-1.JPG){: .one-half-image}
+&nbsp;
 
 ### What to see?
 {: .center}
 
 I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
 
-![](/uploads/jose-manuel-alonso-de-caso-4YGxHNX2r1Q-unsplash.jpg){: width="2210" height="3929"}
+![](/uploads/topview.jpeg){: .one-half-image width="2268" height="4032"}![](/uploads/copenhill.jpeg){: .one-half-image width="2268" height="4032"}
 
 ***The most popular spots:***
 
@@ -119,6 +119,8 @@ Street Food Reffen (Open in Summer only)
 
 Copenhill
 
+![](/uploads/tour-1.jpeg){: .one-half-image width="3024" height="4032"}![](/uploads/park.jpeg){: .one-half-image width="3024" height="4032"}
+
 ***Places to see on a rainy day ( or not):***
 
 Torvehallerne ( cover food market) also super cosy in summer.
@@ -138,12 +140,18 @@ Generator
 
 Boullebar ( petanque bar in the city)
 
+Reffen Street Food to watch the sunset & enjoy drinks.
+
+![](/uploads/sunset.jpeg){: width="1440" height="1800"}
+
 #### Where to eat ?
 {: .center}
 
 Copenhagen has become a huge food city, so I will make a full article for food itself. But here get few nice places around the city.
 
 All the places below offer vegetarian menu. Check it out for Vegan & GF if needed.
+
+![](/uploads/reffen.jpeg){: width="1440" height="1800"}
 
 <u>Mad &amp; Kaffe: </u>Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
 
