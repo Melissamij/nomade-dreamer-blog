@@ -61,7 +61,7 @@ Center Indre By
 
 South: Amager ( beach)
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
+![](/uploads/city-1.HEIC){: .one-half-image}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
 
 &nbsp;
 
