@@ -1,7 +1,4 @@
-$('.hamburger-button').click(function(){
-    $('.mobile-menu').fadeToggle(600);
-    $(this).toggleClass('active');
-});
+
 
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
