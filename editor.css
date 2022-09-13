@@ -12,7 +12,7 @@ img.one-third-image {
     margin: 0.5rem;
   }
   
-img.one-half-image {
+img.-image {
     display: inline-block;
     width: calc(50% - 1rem);
     margin: 0.5rem;
