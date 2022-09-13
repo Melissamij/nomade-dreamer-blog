@@ -105,7 +105,7 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--light); /* Set a fall-back color while images are loading */ 
-    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
+    background-image: url('/images/usa.jpg');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
