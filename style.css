@@ -331,7 +331,7 @@ nav a:hover {
     left: 0;
     background-color: #FAF6F0;
     overflow-x: hidden;
-    transition: 0.5s;
+    /*transition: 0.5s;*/
     padding-top: 60px;
   }
   
