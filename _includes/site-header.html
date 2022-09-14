@@ -39,20 +39,16 @@
           <a href="/about"> About </a>
     </nav>
   </div> ---->
-
-
     <nav>
-      <ul>
-        <li><a href="/blog.html">Blog</a></li>
-        <li><a href="/blog-archive.html">Archives</a></li>
-        <li><a>Categories</a></li>
-        <ul class="submenu">
+      <a href="/blog.html">Blog</a>
+      <a href="/blog-archive.html">Archives</a>
+      <a>Categories</a>
+        <div class="submenu dropdown-content">
             {% for cat in site.archives %}
             <a href="{{cat.url}}"> {{cat.category}} </a>
             {% endfor %}
-        </ul>
-        <li><a href="/about.html">About</a></li>
-      </ul>
+        </div>
+      <a href="/about.html">About</a>
     </nav>
   </div>
 </header>
