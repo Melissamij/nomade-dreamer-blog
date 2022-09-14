@@ -279,7 +279,6 @@ nav a:hover {
 .dropdown-title {
   padding: 0.25rem 0.5rem;
   display: inline-block;
-  cursor: pointer;
 }
 
 .dropdown-content {
@@ -314,20 +313,20 @@ nav a:hover {
     z-index: 4;
   }
   
-  
+  */
   /* Styles when the hamburger button is active  */
   
   .hamburger-button.active {
     color: white;
   }
-
+  
   
   .mobile-menu {
-    display:none;
+    
     position: fixed; 
     height: 100%;
     width: 0;
-    z-index: 1;
+    z-index: 3;
     top: 0;
     left: 0;
     background-color: #FAF6F0;
@@ -351,14 +350,14 @@ nav a:hover {
   color: #A8AB98;
 }
 
-/*.mobile-menu .closebtn {
+.mobile-menu .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
 }
-*/
+
 #main {
   transition: margin-left .5s;
   padding: 16px;
