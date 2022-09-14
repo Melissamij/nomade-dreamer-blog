@@ -294,6 +294,7 @@ nav a:hover {
 .dropdown:hover .dropdown-title:hover .dropdown-content{ 
   display: block;
 }
+.dropdownn:active { display:block;}
 
 .dropdown-content a {
   display: block;
