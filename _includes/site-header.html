@@ -20,32 +20,34 @@
       <a href="/about.html"> About </a>
     </nav> 
 
-      <!------- Mobile Menu-------->
+  
+      <!------- Mobile Menu--->
   <div class="col-7 right show-sm">
-    <div class="hamburger-button mob-show">
-      <i class="fas fa-bars"></i>
+      <a class="hamburger-button"> &#9776; </a>
   </div>
+</header>
+
   <div class="mobile-menu" id="mySidenav"> 
     <nav> 
-      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <!--<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>-->
       <a href="/blog"> Blog </a>
       <a href="/blog-archive"> Archives </a>
     </nav>
       <div class="dropdown">
-    <nav>
-        <a class="dropdown-title button" onclick="myFunction()" > Categories</a> <!-- span before-->
-        <div class="dropdown-content">
+        <nav>
+          <a class="dropdown-title button" onclick="myFunction()" > Categories</a> <!-- span before--->
+          <div class="dropdown-content">
           {% for cat in site.archives %}
-          <a href="{{cat.url}}"> {{cat.category}} </a>
+            <a href="{{cat.url}}"> {{cat.category}} </a>
           {% endfor %}
-    </nav>
-          </div>
+        </nav>
+      </div>
     <nav>
-          <a href="/about"> About </a>
+        <a href="/about"> About </a>
     </nav>
   </div> 
 
-</header>
+
 
   
   
