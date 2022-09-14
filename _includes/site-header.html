@@ -42,12 +42,16 @@
     <nav>
       <a href="/blog.html">Blog</a>
       <a href="/blog-archive.html">Archives</a>
-      <a class="dropdown">Categories</a>
-        <div class="submenu dropdown-content">
-            {% for cat in site.archives %}
-            <a href="{{cat.url}}"> {{cat.category}} </a>
-            {% endfor %}
-        </div>
+      <div class="dropdown">
+        <span class="dropdown-title"> Catgeories </span>
+        <div class="dropdown-content submenu">
+          {% for cat in site.archives %}
+          <a href="{{cat.url}}"> {{cat.category}} </a>
+          {% endfor %}
+          <!-- <a href="/bali"> Bali </a>
+          <a href="/self-care"> Self Care </a>
+          <a href="/travel"> Travel </a> -->
+        </div> 
       <a href="/about.html">About</a>
     </nav>
   </div>
