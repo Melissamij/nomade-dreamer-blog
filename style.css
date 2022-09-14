@@ -311,7 +311,6 @@ nav a:hover {
 .dropdown:hover .dropdown-title:hover .dropdown-content{ 
   display: block;
 }
-.dropdownn:active { display:block;}
 
 .dropdown-content a {
   display: block;
@@ -331,7 +330,7 @@ nav a:hover {
     z-index: 4;
   }
   
-  */
+
   /* Styles when the hamburger button is active  */
   
   .hamburger-button.active {
@@ -340,7 +339,6 @@ nav a:hover {
   
   
   .mobile-menu {
-    
     position: fixed; 
     height: 100%;
     width: 0;
