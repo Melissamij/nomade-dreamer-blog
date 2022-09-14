@@ -25,3 +25,9 @@ function openNav() {
       submenu.classList.toggle("is-visible");
     });
   });
+
+
+  $('.dropdown-title').click(function(){
+    $('.dropdown-content').fadeToggle(600);
+    $(this).toggleClass('active');
+});

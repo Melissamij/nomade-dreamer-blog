@@ -251,21 +251,8 @@ header {
     padding: 1rem 5%;
   
 }
-/* Test Menu */
-nav ul {
-  list-style: none;
-}
-nav li a{
-  padding: 0.25rem 0.5rem;
-  display: inline-block;
-  text-decoration: none;
-  text-transform: capitalize;
-  cursor:pointer;
-  position: relative;
 
-}
-
-nav li .submenu.is-visible {
+nav .submenu.is-visible {
 display: block;
 }
 
