@@ -1,7 +1,7 @@
 
  // hamburger 
  $('.hamburger-button').click(function(){
-  $('.mobile-menu').slideToggle(500);
+  $('.mobile-menu').fadeToggle(100);
   $(this).toggleClass('active');
 });
 
@@ -12,8 +12,4 @@ function openNav() {
     document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
   }
   
-  function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-    document.getElementById("main").style.marginLeft= "0";
-    document.body.style.backgroundColor = "white";
-  }
+  
