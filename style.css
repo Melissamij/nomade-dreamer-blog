@@ -279,7 +279,6 @@ nav a:hover {
 .dropdown-title {
   padding: 0.25rem 0.5rem;
   display: inline-block;
-  cursor: pointer;
 }
 
 .dropdown-content {
