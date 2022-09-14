@@ -22,7 +22,8 @@
 
       <!------- Mobile Menu-------->
   <div class="col-7 right show-sm">
-      <a class="hamburger-button" id="main" style="font-size:30px;cursor:pointer" onclick="openNav()" > &#9776; </a>
+    <div class="hamburger-button mob-show">
+      <i class="fas fa-bars"></i>
   </div>
   <div class="mobile-menu" id="mySidenav"> 
     <nav> 
@@ -32,7 +33,7 @@
     </nav>
       <div class="dropdown">
     <nav>
-        <span><a class="dropdown-title button" > Categories</a></span> <!-- span before-->
+        <a class="dropdown-title button" onclick="myFunction()" > Categories</a> <!-- span before-->
         <div class="dropdown-content">
           {% for cat in site.archives %}
           <a href="{{cat.url}}"> {{cat.category}} </a>

@@ -1,5 +1,11 @@
 
+ // hamburger 
+ $('.hamburger-button').click(function(){
+  $('.mobile-menu').slideToggle(500);
+  $(this).toggleClass('active');
+});
 
+// side nav
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
     document.getElementById("main").style.marginLeft = "250px";
