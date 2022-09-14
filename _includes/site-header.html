@@ -29,17 +29,13 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <a href="/blog"> Blog </a>
       <a href="/blog-archive"> Archives </a>
-    </nav>
       <div class="dropdown">
-        <nav>
-          <a class="dropdown-title button" > Categories +</a> <!-- span before-->
-          <div class="dropdown-content">
+      <a class="dropdown-title button" > Categories +</a> <!-- span before-->
+      <div class="dropdown-content">
             {% for cat in site.archives %}
             <a href="{{cat.url}}"> {{cat.category}} </a>
             {% endfor %}
-        </nav>
        </div>
-    <nav>
           <a href="/about"> About </a>
     </nav>
   </div> 
