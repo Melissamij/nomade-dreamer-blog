@@ -270,7 +270,7 @@ display: block;
 }
 
 
-/* nav a {
+nav a {
     padding: 0.25rem 0.5rem;
     display: inline-block;
     text-decoration: none;
@@ -279,7 +279,7 @@ display: block;
 nav a:hover {
   color: var(--featured-text);
 }
-*/
+
 .logo {
   text-decoration: none;
   font-size: 2.5rem;

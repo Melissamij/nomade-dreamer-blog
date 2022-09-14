@@ -42,7 +42,7 @@
     <nav>
       <a href="/blog.html">Blog</a>
       <a href="/blog-archive.html">Archives</a>
-      <a>Categories</a>
+      <a class="dropdown">Categories</a>
         <div class="submenu dropdown-content">
             {% for cat in site.archives %}
             <a href="{{cat.url}}"> {{cat.category}} </a>
