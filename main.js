@@ -26,7 +26,7 @@ function openNav() {
     });
   });
 
-
+// dropdown menu
   $('.dropdown-title').click(function(){
     $('.dropdown-content').fadeToggle(600);
     $(this).toggleClass('active');
