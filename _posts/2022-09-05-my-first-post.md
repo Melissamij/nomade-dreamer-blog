@@ -41,25 +41,21 @@ The city offers beautiful architecture, great food scene and a unique vibe in th
 
 **Currency:**Danish Kroner (DKK)
 
-*\*\*Time: \*\**Paris Time.
+***Time:*** Paris Time.
 
 **Electricity:** Type E 230V
 
 **Best season:** For sure Summer, it will allow you to enjoy the most of the city. But in Denmark you can never be sure of the weather.
 
-*\*\*Light:&nbsp; \*\**Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
+Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
 
 **City areas:** Copenhagen has four main areas
 
-Ouest &Oslash;sterbro
-
-Est Vesterbro
-
-North N&oslash;rrebro
-
-Center Indre By
-
-South: Amager ( beach)
+* Ouest &Oslash;sterbro
+* Est Vesterbro
+* North N&oslash;rrebro
+* Center Indre By
+* South: Amager ( beach)
 
 ![](/uploads/city-2.jpeg){: .one-half-image width="3024" height="4032"}![](/uploads/city.jpeg){: .one-half-image width="3024" height="4032"}
 
@@ -70,17 +66,17 @@ South: Amager ( beach)
 
 Copenhagen is one of the easiest city to access.
 
-***From the airport***, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below).The metro takes you in the heart of Copenhagen.
+***From the airport***, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below). The metro takes you in the heart of Copenhagen.
 
 ***To go around:*** there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
 
 And of course by ***bikes,*** the most use transport in Cph. You can rent one at your hotel or in a lot of shops except on Sunday where most of businesses are closed.
 
-***Transport:***<u> </u>Download the app "<u>DOT</u>" ( add link) and chose what's best for you.
+***Transport:***<u> </u>Download the app "[<u>DOT</u>](https://dinoffentligetransport.dk/tourist/tickets/){: target="_blank" rel="noopener"}"&nbsp; and chose what's best for you.
 
 Day pass: 80kr ( 12€).
 
-***City tour bus***\:
+***City tour bus***\: My grand mother tried it when she visit and told me it was really easy and practical. [Link here](https://city-sightseeing.com/en/16/copenhagen?utm_medium=cpc&amp;utm_source=google&amp;utm_campaign=ads-copenhagen-en&amp;utm_content=copenhagen_city_english&amp;utm_term=copenhagen&amp;gclid=EAIaIQobChMI043ntriW-gIVlBWLCh20kQSEEAAYASAAEgISU_D_BwE){: target="_blank" rel="noopener"}.
 
 ***Walk**\:* For the actives ones you can easily visit the Copenhagen by foot.
 
@@ -90,6 +86,8 @@ Day pass: 80kr ( 12€).
 {: .center}
 
 I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
+
+You can follow me on [Mapster](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noopener"} and access my map of Copenhagen with all those address saved and more.
 
 ![](/uploads/topview.jpeg){: .one-half-image width="2268" height="4032"}![](/uploads/copenhill.jpeg){: .one-half-image width="2268" height="4032"}
 
