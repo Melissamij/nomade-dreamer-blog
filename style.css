@@ -463,7 +463,13 @@ nav a:hover {
 .social-share a {
   padding: 0.25rem 0.5rem;
 }
+.e-mail:hover {
+  color:#767964;
+}
 
+.fab {
+  font-size: 20px;
+}
 /* Miscelaneous elements  */
 
 hr.short {
