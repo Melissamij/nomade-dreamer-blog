@@ -87,7 +87,7 @@ Day pass: 80kr ( 12€).
 
 I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
 
-You can follow me on [Mapster](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noopener"} and access my map of Copenhagen with all those address saved and more.
+You can follow me on [Mapstr](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noopener"} and access my map of Copenhagen with all those address saved and more.
 
 ![](/uploads/topview.jpeg){: .one-half-image width="2268" height="4032"}![](/uploads/copenhill.jpeg){: .one-half-image width="2268" height="4032"}
 
