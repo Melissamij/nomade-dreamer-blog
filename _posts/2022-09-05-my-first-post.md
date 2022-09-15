@@ -130,15 +130,15 @@ Botanic Garden ( visit the palm tree house so nice when it's cold outside).
 #### Going out:
 {: .center}
 
-K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party)
+K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party).
 
-PS Bar
+PS Bar ( Dinner & Club, get dressed ).
 
-Generator
+Generator ( Hostel in the city with cool bar and petanque fields).
 
-Boullebar ( petanque bar in the city)
+Boullebar ( petanque bar in the city).
 
-Reffen Street Food to watch the sunset & enjoy drinks.
+Reffen Street Food (to watch the sunset, eat & enjoy drinks.)
 
 ![](/uploads/sunset.jpeg){: width="1440" height="1800"}
 
@@ -151,21 +151,21 @@ All the places below offer vegetarian menu. Check it out for Vegan & GF if neede
 
 ![](/uploads/reffen.jpeg){: width="1440" height="1800"}
 
-<u>Mad &amp; Kaffe: </u>Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
+*Mad & Kaffe:* Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
 
-<u>&Oslash;12:</u> Brunch / Lunch all day long.
+*&Oslash;12:* Brunch / Lunch all day long.
 
-<u>Union Kitchen:</u> Brunch /Lunch, right behind Nyhavn
+*Union Kitchen:* Brunch /Lunch, right behind Nyhavn
 
-<u>Coffee Collective: </u>If you need a nice coffee break during the day.
+*Coffee Collective:* If you need a nice coffee break during the day.
 
-<u>Original Coffee:</u> Same as good and a lot of places around.
+*Original Coffee:* Same as good and a lot of places around.
 
-<u>LLama</u>\: Dinner place, High quality, South American fusion cuisine, Lounge later at night. My fav restaurant for a treat.
+*LLama:* Dinner place, High quality, South American fusion cuisine, Lounge later at night. My fav restaurant for a treat.
 
-<u>Keyser Social:</u> Asian Fusion Cuisine, if you like Asian food this will be goood.
+*Keyser Social:* Asian Fusion Cuisine, if you like Asian food this will be goood.
 
-<u>Ammas:</u> If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
+*Ammas:* If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
 
 &nbsp;
 
