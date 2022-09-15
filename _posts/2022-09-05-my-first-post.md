@@ -6,8 +6,8 @@ author: Mélissa
 featured: true
 categories:
   - travel
-  - life
   - city trip
+  - Europe
 featured_image: /uploads/copenhague-1.jpg
 seo:
   title: week end in Copenhagen
