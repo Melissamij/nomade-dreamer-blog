@@ -345,7 +345,7 @@ nav a:hover {
     font-size: 25px;
     color: var(--dark-text);
     display: block;
-    transition: 0.3s;
+    /*transition: 0.3s;*/
   }
 
 
@@ -363,7 +363,7 @@ nav a:hover {
 }
 
 #main {
-  transition: margin-left .5s;
+ /* transition: margin-left .5s;*/
   padding: 16px;
 }
 @media screen and (max-height: 450px) {
