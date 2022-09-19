@@ -1,23 +1,25 @@
-seo: 
+seo:
   site_name: Nomade Dreamer Blog
   title: Nomade Dreamer Blog
-  description: 
-  keywords: 
-  social_image: 
-  author: 
-  favicon_image: 
-social: 
+  description: |-
+    Blog made for travelers, foodies & life lover. 
+    Get travel tips, routes, restaurants, spa's ..
+  keywords: travel blog, wellbeing, copenhagen, foodies blog,
+  social_image:
+  author:
+  favicon_image:
+social:
   instagram_username:
   facebook_url:
-  twitter_username: 
-design: 
+  twitter_username:
+design:
   dark-text_color: '#545454'
-  medium-text_color: 'rgb(90,90,95)'
+  medium-text_color: rgb(90,90,95)
   light-text_color: '#f7f5f3'
   featured-text_color: '#767964'
-  dark_color: 'rgb(60,60,65)'
+  dark_color: rgb(60,60,65)
   medium_color: '#ede8e4'
   light_color: '#FAF6F0 '
   v-light_color: '#f9f9f9'
   featured_color: '#767964'
-  accent_color: 'rgb(167, 74, 74)'
+  accent_color: rgb(167, 74, 74)
