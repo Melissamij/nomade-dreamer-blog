@@ -8,13 +8,13 @@
 </head>
 
 <body>
+  {% include inline-styles.html %}
+  {% include site-header.html %}
     <div class="progress-bar"> </div>
     <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
       <!--<button class="back-to-top hidden"><i class="fa-solid fa-circle-arrow-up back-to-top-icon"></i></button>-->
 
-    {% include inline-styles.html %}
-    
-    {% include site-header.html %}
+   
 
     {{content}}
 
