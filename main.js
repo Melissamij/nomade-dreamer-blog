@@ -1,4 +1,9 @@
+//hamburger button
 
+$('.hamburger-button').click(function(){
+  $('.mobile-menu').slideToggle();
+  $(this).toggleClass('active');
+});
 
 // side nav
 function openNav() {

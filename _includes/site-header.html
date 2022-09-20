@@ -20,11 +20,12 @@
       <a href="/about"> About </a>
       <a href="/contact"> Contact </a>
     </nav> 
-
-      <!------- Mobile Menu-------->
-  <div class="col-7 right show-sm">
-      <a class="hamburger-button" id="main" style="font-size:30px;cursor:pointer" onclick="openNav()"> &#9776; </a>
+    <div class="col-7 right show-sm">
+      <a class="hamburger-button"> &#9776; </a>
     </div>
+  </header>
+      <!------- Mobile Menu-------->
+  
   <div class="mobile-menu" id="mySidenav"> 
     <nav>
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -36,15 +37,12 @@
           {% for cat in site.archives %}
           <a href="{{cat.url}}"> {{cat.category}} </a>
           {% endfor %}
-          <!-- <a href="/bali"> Bali </a>
-          <a href="/self-care"> Self Care </a>
-          <a href="/travel"> Travel </a> -->
         </div> 
       <a href="/about">About</a>
       <a href="/contact"> Contact </a>
     </nav>
   </div>
-</header>
+
 
   
   
