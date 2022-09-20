@@ -1,4 +1,4 @@
-// hamburger
+
 
 // side nav
 function openNav() {
@@ -38,7 +38,7 @@ AOS.init({
 
 // code to show / hide button to top 
 
-const showOnPx = 100;
+const showOnPx = 30;
 const backToTopButton = document.querySelector(".back-to-top")
 
 const scrollContainer = () => {

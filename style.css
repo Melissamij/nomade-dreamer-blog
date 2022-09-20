@@ -271,6 +271,72 @@ nav a:hover {
   text-decoration: none;
   font-size: 2.5rem;
 } 
+.hamburger-button {
+  cursor: pointer;
+  padding: 0.5rem;
+  display: inline-block;
+  font-weight: 200;
+  font-size: 2.5rem;
+  line-height: 0.8;
+  position: fixed;
+  right: 5%;
+  top: 0rem;
+  z-index: 4;
+}
+
+
+/* Styles when the hamburger button is active  */
+
+.hamburger-button.active {
+  color: #A8AB98;
+}
+
+
+.mobile-menu {
+  position: fixed; 
+  height: 100%;
+  width: 0;
+  z-index: 4;
+  top: 0;
+  left: 0;
+  background-color: #FAF6F0;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.mobile-menu a {
+  padding: 8px 8px 8px 32px;
+  margin-bottom: 14px;
+  text-decoration: none;
+  font-size: 25px;
+  color: var(--dark-text);
+  display: block;
+  transition: 0.3s;
+}
+
+
+
+.mobile-menu a:hover {
+color: #A8AB98;
+}
+
+.mobile-menu .closebtn {
+position: absolute;
+top: 0;
+right: 25px;
+font-size: 36px;
+margin-left: 50px;
+}
+
+#main {
+transition: margin-left .5s;
+padding: 16px;
+}
+@media screen and (max-height: 450px) {
+.mobile-menu {padding-top: 15px;}
+.mobile-menu a {font-size: 18px;}
+}
 
 
 /* Dropdown styles */
@@ -304,72 +370,6 @@ nav a:hover {
   
 }
 
-.hamburger-button {
-    cursor: pointer;
-    padding: 0.5rem;
-    display: inline-block;
-    font-weight: 200;
-    font-size: 2.5rem;
-    line-height: 0.8;
-    position: fixed;
-    right: 5%;
-    top: 0rem;
-    z-index: 4;
-  }
-  
-
-  /* Styles when the hamburger button is active  */
-  
-  .hamburger-button.active {
-    color: #A8AB98;
-  }
-  
-  
-  .mobile-menu {
-    position: fixed; 
-    height: 100%;
-    width: 0;
-    z-index: 3;
-    top: 0;
-    left: 0;
-    background-color: #FAF6F0;
-    overflow-x: hidden;
-    transition: 0.5s;
-    padding-top: 60px;
-  }
-  
-  .mobile-menu a {
-    padding: 8px 8px 8px 32px;
-    margin-bottom: 14px;
-    text-decoration: none;
-    font-size: 25px;
-    color: var(--dark-text);
-    display: block;
-    transition: 0.3s;
-  }
-
-
-
-.mobile-menu a:hover {
-  color: #A8AB98;
-}
-
-.mobile-menu .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
-}
-
-#main {
- transition: margin-left .5s;
-  padding: 16px;
-}
-@media screen and (max-height: 450px) {
-  .mobile-menu {padding-top: 15px;}
-  .mobile-menu a {font-size: 18px;}
-}
 
 /*------------BAck to top arrow------------ */
 
