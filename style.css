@@ -334,7 +334,7 @@ nav a:hover {
     left: 0;
     background-color: #FAF6F0;
     overflow-x: hidden;
-    /*transition: 0.5s;*/
+    transition: 0.5s;
     padding-top: 60px;
   }
   
@@ -345,7 +345,7 @@ nav a:hover {
     font-size: 25px;
     color: var(--dark-text);
     display: block;
-    /*transition: 0.3s;*/
+    transition: 0.3s;
   }
 
 
@@ -362,10 +362,10 @@ nav a:hover {
   margin-left: 50px;
 }
 
-#main {
- /* transition: margin-left .5s;*/
+/*#main {
+ transition: margin-left .5s;
   padding: 16px;
-}
+}*/
 @media screen and (max-height: 450px) {
   .mobile-menu {padding-top: 15px;}
   .mobile-menu a {font-size: 18px;}
