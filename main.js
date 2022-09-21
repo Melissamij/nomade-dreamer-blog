@@ -4,27 +4,24 @@ $('.hamburger-button').click(function(){
   $(this).toggleClass('active');
 });
 
-
-
 // dropdown menu
   $('.dropdown-title').click(function(){
     $('.dropdown-content').fadeToggle(600);
     $(this).toggleClass('active');
 });
 
-
-// animate on scroll activate 
-AOS.init({
-  duration: 500
-});
-
 window.addEventListener("DOMContentLoaded", () => {
-  const link = document.querySelector('[data-menu]');
+  const link = document.querySelector('[dropdown-title]');
   
   link.addEventListener("click", (e) => {
     const submenu = e.currentTarget.nextElementSibling
     submenu.classList.toggle("is-visible");
   });
+});
+
+// animate on scroll activate 
+AOS.init({
+  duration: 500
 });
 
 // code to show / hide button to top 
@@ -51,7 +48,7 @@ var mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
   mybutton.style.display = "block";
 } else {
   mybutton.style.display = "none";
