@@ -273,6 +273,47 @@ nav a:hover {
 } 
 .hamburger-button {
   cursor: pointer;
+  padding: 0 0.5rem;
+  display: inline-block;
+  font-weight: 200;  
+  font-size: 2.5rem;
+  line-height: 0.8;
+  margin-top: -0.5rem;
+  position: fixed;
+  right: 1rem;
+  top: 2.1rem;
+  z-index: 3;
+}
+
+.hamburger-button.active {
+  color: #A8AB98;
+}
+
+.mobile-menu {
+  display:none;
+  background-color: #FAF6F0;
+  padding: 4%;
+  margin-left: 40%;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
+
+.mobile-menu a {
+  text-decoration: none;
+  color: var(--dark-text);
+  padding: 5vh 5%;
+  display: block;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+
+.hamburger-button {
+  cursor: pointer;
   padding: 0.5rem;
   display: inline-block;
   font-weight: 200;
@@ -286,7 +327,7 @@ nav a:hover {
 
 
 /* Styles when the hamburger button is active  */
-
+/*
 .hamburger-button.active {
   color: #A8AB98;
 }
@@ -320,8 +361,9 @@ nav a:hover {
 
 .mobile-menu a:hover {
 color: #A8AB98;
-}
+} */
 
+/*
 .mobile-menu .closebtn {
 position: absolute;
 top: 0;
@@ -333,7 +375,7 @@ margin-left: 50px;
 #main {
 transition: margin-left .5s;
 padding: 16px;
-}
+} */
 @media screen and (max-height: 450px) {
 .mobile-menu {padding-top: 15px;}
 .mobile-menu a {font-size: 18px;}

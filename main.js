@@ -1,18 +1,10 @@
 //hamburger button
-
 $('.hamburger-button').click(function(){
   $('.mobile-menu').slideToggle();
   $(this).toggleClass('active');
 });
 
-window.addEventListener("DOMContentLoaded", () => {
-    const link = document.querySelector('[data-menu]');
-    
-    link.addEventListener("click", (e) => {
-      const submenu = e.currentTarget.nextElementSibling
-      submenu.classList.toggle("is-visible");
-    });
-  });
+
 
 // dropdown menu
   $('.dropdown-title').click(function(){
@@ -26,6 +18,14 @@ AOS.init({
   duration: 500
 });
 
+window.addEventListener("DOMContentLoaded", () => {
+  const link = document.querySelector('[data-menu]');
+  
+  link.addEventListener("click", (e) => {
+    const submenu = e.currentTarget.nextElementSibling
+    submenu.classList.toggle("is-visible");
+  });
+});
 
 // code to show / hide button to top 
 
