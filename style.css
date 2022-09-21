@@ -300,6 +300,7 @@ nav a:hover {
   right: 0;
   left: 0;
   text-align: center;
+  z-index: 3;
 }
 
 .mobile-menu a {
@@ -309,6 +310,7 @@ nav a:hover {
   display: block;
   font-weight: normal;
   font-size: 1.5rem;
+
 }
 
 
