@@ -33,8 +33,6 @@ Sustainable travel means finding a way that tourism can be maintained long-term 
 
 ##### My ways the be a Sustainable Traveler:
 
-&nbsp;
-
 ###### TRANSPORT
 
 Depending on where you live you might want to go on the other side of the planet to get some sun ( I feel you ha ha). But let’s be honest taking plans is not the most sustainable way.Few tips to make it better:
@@ -65,9 +63,9 @@ And personal opinion, you don’t experience the country.
 
 8: Go camping, for sure one of the greenest way to travel haha. As long as you bring your trash back with you of course.
 
-###### ACTIVITIES
-
 &nbsp;
+
+###### ACTIVITIES
 
 9: Responsible wildlife tourism
 
@@ -85,9 +83,9 @@ Rule number 1 : TOUCH WITH YOUR EYES\! Do not touch animals, they have a protect
 
 Wear reef-friendly sunscreen ( back in the Vanity section).
 
-###### SUSTAINABLE SHOPPING
-
 &nbsp;
+
+###### SUSTAINABLE SHOPPING
 
 11: Food
 
