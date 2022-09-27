@@ -91,7 +91,7 @@ Wear reef-friendly sunscreen ( back in the Vanity section).
 
 Look for local markets, go shop there, meet the locals, discover new varieties of food. It’s cheaper, good for the local economy and the planet.
 
-![](/sustainable/market-corsica.jpg){: .one-third-image width="3024" height="4032"}![](/sustainable/market-tenerife.jpeg){: .one-third-image width="1536" height="2048"}
+![](/sustainable/market-corsica.jpg){: .-image width="3024" height="4032"}![](/sustainable/market-tenerife.jpeg){: .-image width="1536" height="2048"}
 
 12: Gift, personally I almost don’t buy gift anymore. But if you want some, find local artisans.
 
