@@ -1,22 +1,21 @@
 ---
 layout: post
-title: 5 Ways to Be a Sustainable Traveler
-description: 'I moved to Denmark in 2018, I am sharing with you my must see spot & do. '
+title: 15 Ways to Be a Sustainable Traveler
+description: 'Tips to be a Sustainable Traveler.  '
 author: Mélissa
 featured: true
 categories:
   - travel
-  - city trip
-  - Europe
-featured_image: /uploads/copenhague-1.jpg
+  - sustainable
+featured_image: /sustainable/4X4-brazil.jpeg
 seo:
-  title: week end in Copenhagen
+  title: 15 ways to be a sustainable traveler
   description: >-
-    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
-    end.
-  social_image: /uploads/copenhague-1.jpg
+    You wonder what you can do to travel in a more sustainable way? Well here
+    you go, some easy tips to use. 
+  social_image: /sustainable/4X4-brazil.jpeg
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: travel blog, sustainable travel, how to travel sustainably
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -24,31 +23,37 @@ _comments:
 ---
 # 15 Ways to Be a Sustainable Traveler
 
-What is Sustainable Travel ?
+![](/sustainable/4X4-brazil.jpeg){: width="2155" height="2093"}
+
+##### What is Sustainable Travel ?
 
 Sustainable travel is about valuing the environment and looking after our natural resources.
 
 Sustainable travel means finding a way that tourism can be maintained long-term without harming natural and cultural environments. Sustainable travel should minimize the negative impacts of tourism and ideally be beneficial to the area in which it takes place.
 
-My ways the be a Sustainable Traveler
+##### My ways the be a Sustainable Traveler:
+
+&nbsp;
 
 TRANSPORT
 
-Depending on where you live you might want to go on the other side of the planet to get some sun ( I feel you haha).But let’s be honest taking plans is not the most sustainable way.Few tips to make it better:
+Depending on where you live you might want to go on the other side of the planet to get some sun ( I feel you ha ha). But let’s be honest taking plans is not the most sustainable way.Few tips to make it better:
 
-1: Take direct flights as much as possible.2: Fly economy3: Travel light ( weight use more fuel)4: Be a slow traveller ( spend more time in one country and take buses to cross borders)
+1: Take direct flights as much as possible.
+
+2: Fly economy
+
+3: Travel light ( weight use more fuel)
+
+4: Be a slow traveler ( spend more time in one country and take buses to cross borders)
 
 ACCOMMODATION
 
 Supporting small local business help develop the area and support the community.
 
-5: Stay in local accommodation
+5: Stay in local accommodation (Bed & Breakfast, Guest house, Boutique hotel ….)
 
-Bed & Breakfast, Guest house, Boutique hotel ….
-
-6: Look for Green places
-
-On booking.com you can see places that are sustainable, green hotel…
+6: Look for Green places (find places that are sustainable, green hotel…)
 
 7:Avoid all-inclusive & Large Resorts
 
