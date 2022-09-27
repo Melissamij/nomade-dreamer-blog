@@ -21,7 +21,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-# 15 Ways to Be a Sustainable Traveler
+# &nbsp;
 
 ![](/sustainable/4X4-brazil.jpeg){: width="2155" height="2093"}
 
@@ -32,8 +32,6 @@ Sustainable travel is about valuing the environment and looking after our natura
 Sustainable travel means finding a way that tourism can be maintained long-term without harming natural and cultural environments. Sustainable travel should minimize the negative impacts of tourism and ideally be beneficial to the area in which it takes place.
 
 ##### My ways the be a Sustainable Traveler:
-
-&nbsp;
 
 ###### TRANSPORT
 
@@ -65,9 +63,9 @@ And personal opinion, you don’t experience the country.
 
 8: Go camping, for sure one of the greenest way to travel haha. As long as you bring your trash back with you of course.
 
-###### ACTIVITIES
-
 &nbsp;
+
+###### ACTIVITIES
 
 9: Responsible wildlife tourism
 
@@ -85,15 +83,15 @@ Rule number 1 : TOUCH WITH YOUR EYES\! Do not touch animals, they have a protect
 
 Wear reef-friendly sunscreen ( back in the Vanity section).
 
-###### SUSTAINABLE SHOPPING
-
 &nbsp;
+
+###### SUSTAINABLE SHOPPING
 
 11: Food
 
 Look for local markets, go shop there, meet the locals, discover new varieties of food. It’s cheaper, good for the local economy and the planet.
 
-![](/sustainable/market-corsica.jpg){: .one-third-image width="3024" height="4032"}![](/sustainable/market-tenerife.jpeg){: .one-third-image width="1536" height="2048"}
+![](/sustainable/market-corsica.jpg){: .-image width="3024" height="4032"}![](/sustainable/market-tenerife.jpeg){: .-image width="1536" height="2048"}
 
 12: Gift, personally I almost don’t buy gift anymore. But if you want some, find local artisans.
 
