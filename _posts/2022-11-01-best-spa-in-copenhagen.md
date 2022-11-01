@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Spa Copenhagen
-description: 'If you are a Spa lover, you will love this article. '
+title: Best Spa in Copenhagen
+description: >-
+  I listed the Spa, sauna I loved the most and tried out for you. If you live
+  here or come visit, I am sure it will be useful. 
 author: Mélissa
 featured: true
 categories:
@@ -9,13 +11,16 @@ categories:
   - city trip
   - Europe
   - spa
-featured_image: /uploads/copenhague-1.jpg
+  - Self Care
+featured_image: /Spa/sofiebadet-forside__1366x768.jpg
 seo:
-  title:
-  description:
-  social_image: /uploads/copenhague-1.jpg
+  title: Spa in Copenhagen
+  description: 'I listed my favorite Spa in Copenhagen for you to enjoy. '
+  social_image: /Spa/sofiebadet-forside__1366x768.jpg
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: >-
+    spa, spa in copenhagen, sauna copenhagen, citytrip, visit copenhagen, week
+    end in copenhagen, travel blog
   hide-from-google: false
 _comments:
   title: Max 70 characters
