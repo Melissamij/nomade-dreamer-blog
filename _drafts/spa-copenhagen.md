@@ -89,7 +89,7 @@ I would say I did not have the best experience going there. They did not give us
 
 But the view is amazing, if you go make sure to do the sauna gus\* before the night comes so you can enjoy the Ocean view.
 
-***Price: ***
+***Price:&nbsp; ***They have a lot of different options but it start from 300kr for a spa day. Here is a [link](https://booking.marienlyst.dk/da/standalone-extras){: target="_blank" rel="noopener"} for you.
 
 &nbsp;
 
