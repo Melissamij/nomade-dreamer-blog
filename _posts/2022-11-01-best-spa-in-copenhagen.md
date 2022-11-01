@@ -30,19 +30,19 @@ _comments:
 
 &nbsp;
 
-***About: ***Denmark is quiet different from the other country in Scandinavia. We don't have all those sauna for free around. So you have to find your way around to get cool spot to relax and warm up in the winter.
+*\*\*About: \*\**Denmark is quiet different from the other country in Scandinavia. We don't have all those sauna for free around. So you have to find your way around to get cool spot to relax and warm up in the winter.
 
 I will share with you the spot I tried or recommended places.
 
-***Sauna Gus:&nbsp; ***I never heard of it before trying it out here. It's an aroma therapy in the sauna. Must try \!
+*\*\*Sauna Gus:&nbsp; \*\**I never heard of it before trying it out here. It's an aroma therapy in the sauna. Must try \!
 
 ### CopenHot
 
 &nbsp;
 
-***Location:&nbsp; ***Actually relocating but Here is the link to their [website](https://copenhot.com/){: target="_blank" rel="noopener"} so you can check it out.
+*\*\*Location:&nbsp; \*\**Actually relocating but Here is the link to their [website](https://copenhot.com/){: target="_blank" rel="noopener"} so you can check it out.
 
-***Info: *** They have hot tubes, sauna and hot boat ( small boat with a fireplace to warm up the salty water from the sea).
+*\*\*Info: \*\** They have hot tubes, sauna and hot boat ( small boat with a fireplace to warm up the salty water from the sea).
 
 ***Price: (*** will update as soon as they reopen)
 
@@ -50,11 +50,11 @@ I will share with you the spot I tried or recommended places.
 
 ![](/Spa/flintholm-kurbad.jpeg){: width="874" height="583"}
 
-***Location:&nbsp; ***Bernhard Bangs Alle 41, 2000 Frederiksberg
+*\*\*Location:&nbsp; \*\**Bernhard Bangs Alle 41, 2000 Frederiksberg
 
 To get there you can take a bus from the city and just walk few hundred meters or the train / metro to Flintholm Station and walk for around 15min.
 
-***Info:&nbsp; ***This place is part of a public swimming pool so nothing fancy. But really good price for what you get.
+*\*\*Info:&nbsp; \*\**This place is part of a public swimming pool so nothing fancy. But really good price for what you get.
 
 There is a steambath ( hamman), sauna with a Sauna Gus\*, hot-tub..And you can also access to swimming pool if you want to workout a little.
 
@@ -66,7 +66,7 @@ There is a steambath ( hamman), sauna with a Sauna Gus\*, hot-tub..And you can a
 
 ![](/Spa/Capture-d’écran-2022-10-31-à-11.59.50.png){: width="844" height="924"}
 
-***Location: ***Refshalevej 141, 1432 K&oslash;benhavn
+*\*\*Location: \*\**Refshalevej 141, 1432 K&oslash;benhavn
 
 ***Info:*** One of my favorite place in the city no matter what season.
 
@@ -90,11 +90,11 @@ It's not in Copenhagen, it's 1h drive up north. You get also get there by train.
 
 It's a full spa, with 3 different sauna's, bubble bath, steam room, pool and more.
 
-I would say I did not have the best experience going there. They did not give us any information about the place, it took us a while to realize there was two sauna downstairs connecting to the beach / sea. We did not knew about the sauna gus time... so I have mix feeling.
+I would say I did not have the best experience going there. They did not give us any information about the place, it took us a while to realize there was two sauna downstairs connecting to the beach / sea. We did not knew about the sauna gus time… so I have mix feeling.
 
 But the view is amazing, if you go make sure to do the sauna gus\* before the night comes so you can enjoy the Ocean view.
 
-***Price:&nbsp; ***They have a lot of different options but it start from 300kr for a spa day. Here is a [link](https://booking.marienlyst.dk/da/standalone-extras){: target="_blank" rel="noopener"} for you.
+*\*\*Price:&nbsp; \*\**They have a lot of different options but it start from 300kr for a spa day. Here is a [link](https://booking.marienlyst.dk/da/standalone-extras){: target="_blank" rel="noopener"} for you.
 
 ### Sofiebadet
 
@@ -108,7 +108,7 @@ They kept it as original as possible, you still have the old showers, marble all
 
 On Thursday after 17h it's women only ;), otherwise it's mix.
 
-There is a sauna, steam-bath, cold bath, bathtubes ( extra)... You get a face mask and a body scrub. You can also book a massage on hot stone.
+There is a sauna, steam-bath, cold bath, bathtubes ( extra)… You get a face mask and a body scrub. You can also book a massage on hot stone.
 
 \+++ you can order wine and have your own table for you and your friends in the middle of the spa to enjoy it\!
 
