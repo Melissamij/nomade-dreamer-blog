@@ -21,7 +21,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-&nbsp;
+![](/Spa/copen-hot.jpeg){: .wide-image width="474" height="355"}
 
 &nbsp;
 
@@ -39,11 +39,11 @@ I will share with you the spot I tried or recommended places.
 
 ***Options: *** They have hot tubes, sauna and hot boat ( small boat with a fireplace to warm up the salty water from the sea).
 
-***Prices: (*** will update as soon as they reopen)
+***Price: (*** will update as soon as they reopen)
 
 ### Flintholm Kurbad
 
-&nbsp;
+![](/Spa/flintholm-kurbad.jpeg){: width="874" height="583"}
 
 ***Location:&nbsp; ***Bernhard Bangs Alle 41, 2000 Frederiksberg
 
@@ -53,6 +53,30 @@ To get there you can take a bus from the city and just walk few hundred meters o
 
 There is a steambath ( hamman), sauna with a Sauna Gus\*, hot-tub..And you can also access to swimming pool if you want to workout a little.
 
-***Prices:***
+***Price:***
 
-185dkk/pers.
+185dkk/pers for 1H50 from your booking arrival time.
+
+### La Banchina
+
+![](/Spa/Capture-d’écran-2022-10-31-à-11.59.50.png){: width="844" height="924"}
+
+***Location: ***Refshalevej 141, 1432 K&oslash;benhavn
+
+***Option:*** One of my favorite place in the city no matter what season.
+
+This is not a spa place, it's a café / restaurant in front of the water where we go swimming all year long.
+
+But they have the cutest little sauna with a view on the water.
+
+***Price:*** 1H45 minutes for 400kr. You book the entire sauna for yourself, up to 8people.
+
+&nbsp;
+
+### Marienlyst Spa
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
