@@ -91,6 +91,26 @@ But the view is amazing, if you go make sure to do the sauna gus\* before the ni
 
 ***Price:&nbsp; ***They have a lot of different options but it start from 300kr for a spa day. Here is a [link](https://booking.marienlyst.dk/da/standalone-extras){: target="_blank" rel="noopener"} for you.
 
-&nbsp;
+### Sofiebadet
 
-&nbsp;
+![](/Spa/sofiebadet-forside__1366x768.jpg){: .wide-image width="1366" height="768"}
+
+***Location:*** Sofiegade 15, 1418 K&oslash;benhavn. In the center of Copenhagen.
+
+***Info:*** My favorite one so far. It use to be a public bath for Copenhagen people when there were no bathroom in apartments.
+
+They kept it as original as possible, you still have the old showers, marble all around.
+
+On Thursday after 17h it's women only ;), otherwise it's mix.
+
+There is a sauna, steam-bath, cold bath, bathtubes ( extra)... You get a face mask and a body scrub. You can also book a massage on hot stone.
+
+\+++ you can order wine and have your own table for you and your friends in the middle of the spa to enjoy it\!
+
+***Price:*** Starts from 295kr, check there prices [here](https://www.sofiebadet.dk/spaoplevelser/kurbad){: target="_blank" rel="noopener"}.
+
+![](/Spa/vedtgter-generalforsamling-top.jpg){: .wide-image width="1366" height="768"}
+
+That's all for now, I will make sure to keep it updated when trying new places. I hope you enjoyed it and that makes you want to go and take care of yourself ;).
+
+If you have any question, reach out to me on Instagram [@nomadedreamer](https://www.instagram.com/nomadedreamer/){: target="_blank" rel="noopener"}.
