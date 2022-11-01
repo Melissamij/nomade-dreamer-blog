@@ -37,7 +37,7 @@ I will share with you the spot I tried or recommended places.
 
 ***Location:&nbsp; ***Actually relocating but Here is the link to their [website](https://copenhot.com/){: target="_blank" rel="noopener"} so you can check it out.
 
-***Options: *** They have hot tubes, sauna and hot boat ( small boat with a fireplace to warm up the salty water from the sea).
+***Info: *** They have hot tubes, sauna and hot boat ( small boat with a fireplace to warm up the salty water from the sea).
 
 ***Price: (*** will update as soon as they reopen)
 
@@ -49,7 +49,7 @@ I will share with you the spot I tried or recommended places.
 
 To get there you can take a bus from the city and just walk few hundred meters or the train / metro to Flintholm Station and walk for around 15min.
 
-***Option:&nbsp; ***This place is part of a public swimming pool so nothing fancy. But really good price for what you get.
+***Info:&nbsp; ***This place is part of a public swimming pool so nothing fancy. But really good price for what you get.
 
 There is a steambath ( hamman), sauna with a Sauna Gus\*, hot-tub..And you can also access to swimming pool if you want to workout a little.
 
@@ -63,7 +63,7 @@ There is a steambath ( hamman), sauna with a Sauna Gus\*, hot-tub..And you can a
 
 ***Location: ***Refshalevej 141, 1432 K&oslash;benhavn
 
-***Option:*** One of my favorite place in the city no matter what season.
+***Info:*** One of my favorite place in the city no matter what season.
 
 This is not a spa place, it's a café / restaurant in front of the water where we go swimming all year long.
 
@@ -75,7 +75,21 @@ But they have the cutest little sauna with a view on the water.
 
 ### Marienlyst Spa
 
-&nbsp;
+![](/Spa/marienlyst-strandspa.webp){: width="600" height="607"}
+
+***Location:*** Nordre Strandvej 2A, 3000 Helsing&oslash;r
+
+It's not in Copenhagen, it's 1h drive up north. You get also get there by train.
+
+***Info:*** It takes its name after Marienlyst House , a neighboring former royal summer retreat, which was part of it from its foundation in 1859 until 1896. Facilities include a restaurant, bar, wellness area and a casino. The Danish national football team stays at the hotel in connection with home matches and training sessions.
+
+It's a full spa, with 3 different sauna's, bubble bath, steam room, pool and more.
+
+I would say I did not have the best experience going there. They did not give us any information about the place, it took us a while to realize there was two sauna downstairs connecting to the beach / sea. We did not knew about the sauna gus time... so I have mix feeling.
+
+But the view is amazing, if you go make sure to do the sauna gus\* before the night comes so you can enjoy the Ocean view.
+
+***Price: ***
 
 &nbsp;
 
