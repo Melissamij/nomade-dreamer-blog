@@ -26,7 +26,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/Spa/copen-hot.jpeg){: .wide-image width="474" height="355"}
+![](/Spa/sofiebadet-forside__1366x768.jpg){: .wide-image width="1366" height="768"}
 
 &nbsp;
 
