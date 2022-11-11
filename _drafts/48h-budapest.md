@@ -44,7 +44,7 @@ _comments:
 
 You can also take a bus to the city center for 4€, line No. 100E.
 
-***To go around: ***You have the choice between metro/tram/bus. But honestly we walked a lot and when we needed we just took a taxi. We paid around 50kr ( 6€) per way, which make more sense when you are 3.
+*\*\*To go around: \*\**You have the choice between metro/tram/bus. But honestly we walked a lot and when we needed we just took a taxi. We paid around 50kr ( 6€) per way, which make more sense when you are 3.
 
 You can also get a [**Budapest Card**](https://m.budapestinfo.hu/webshop){: target="_blank" rel="noopener"} with Free public transport, discounts, museum access etc..
 
