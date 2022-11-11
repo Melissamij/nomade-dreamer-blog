@@ -27,46 +27,24 @@ _comments:
 #### INFORMATION
 {: .center}
 
-***About:*** Copenhagen, the biggest city of Scandinavia.
+***About:&nbsp;***Budapest, Hungary’s capital, is bisected by the River Danube.
 
-They also have a Royal Family loved by the people.
+***Formality:***&nbsp; Budapest is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
 
-Did you know it was built based on Amsterdam and to become a main harbor in the area.
+**Currency:** Hungarian forint (HUF)
 
-Called K&oslash;benhavn in Danish which mean "k&oslash;b = to buy" "havn= harbor".
+***Time:***&nbsp; Central European Standard Time
 
-The city offers beautiful architecture, great food scene and a unique vibe in the Summer.
-
-***Formality:*** Denmark is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
-
-**Currency:**Danish Kroner (DKK)
-
-***Time:*** Paris Time.
-
-**Electricity:** Type E 230V
-
-**Best season:** For sure Summer, it will allow you to enjoy the most of the city. But in Denmark you can never be sure of the weather.
-
-Be aware in June the day light last until almost 24h and the sun rise around 4h, on the opposite in winter it gets dark at 15h and rise around 9h.
-
-**City areas:** Copenhagen has four main areas
-
-* Ouest &Oslash;sterbro
-* Est Vesterbro
-* North N&oslash;rrebro
-* Center Indre By
-* South: Amager ( beach)
-
-![](/uploads/city-2.jpeg){: .one-half-image width="3024" height="4032"}![](/uploads/city.jpeg){: .one-half-image width="3024" height="4032"}
+**Best season:** I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
 
 &nbsp;
 
 #### TRANSPORT
 {: .center}
 
-Copenhagen is one of the easiest city to access.
+&nbsp;
 
-***From the airport***, you follow the sign for the metro. Buy a ticket either just to your destination of a city pass ( see below). The metro takes you in the heart of Copenhagen.
+***From the airport***, we took a taxi from the aiport directly to the Gellert Themal and paid around 200kr / 19€
 
 ***To go around:*** there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
 
