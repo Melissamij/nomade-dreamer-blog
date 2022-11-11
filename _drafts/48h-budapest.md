@@ -22,10 +22,9 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/uploads/copenhague-1.jpg){: width="4006" height="2664"}
+&nbsp;
 
 #### INFORMATION
-{: .center}
 
 ***About:&nbsp;***Budapest, Hungary’s capital, is bisected by the River Danube.
 
@@ -37,76 +36,41 @@ _comments:
 
 **Best season:** I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
 
-&nbsp;
-
 #### TRANSPORT
-{: .center}
 
 &nbsp;
 
-***From the airport***, we took a taxi from the aiport directly to the Gellert Themal and paid around 200kr / 19€
+***From the airport***, we took a taxi from the airport directly to the Gellert Thermal and paid around 200kr / 19€
 
-***To go around:*** there are two metro lines in the city that goes pretty much all around the center. Otherwise you have the trains & ferry bus.
+You can also take a bus to the city center for 4€, line No. 100E.
 
-And of course by ***bikes,*** the most use transport in Cph. You can rent one at your hotel or in a lot of shops except on Sunday where most of businesses are closed.
+***To go around: ***You have the choice between metro/tram/bus. But honestly we walked a lot and when we needed we just took a taxi. We paid around 50kr ( 6€) per way, which make more sense when you are 3.
 
-***Transport:***<u> </u>Download the app "[<u>DOT</u>](https://dinoffentligetransport.dk/tourist/tickets/){: target="_blank" rel="noopener"}"&nbsp; and chose what's best for you.
-
-Day pass: 80kr ( 12€).
-
-***City tour bus***\: My grand mother tried it when she visit and told me it was really easy and practical. [Link here](https://city-sightseeing.com/en/16/copenhagen?utm_medium=cpc&amp;utm_source=google&amp;utm_campaign=ads-copenhagen-en&amp;utm_content=copenhagen_city_english&amp;utm_term=copenhagen&amp;gclid=EAIaIQobChMI043ntriW-gIVlBWLCh20kQSEEAAYASAAEgISU_D_BwE){: target="_blank" rel="noopener"}.
-
-***Walk**\:* For the actives ones you can easily visit the Copenhagen by foot.
+You can also get a [**Budapest Card**](https://m.budapestinfo.hu/webshop){: target="_blank" rel="noopener"} with Free public transport, discounts, museum access etc..
 
 &nbsp;
 
 ### What to see?
-{: .center}
 
-I think 3 days it's the minimum time you need to visit the city. Walk around in the center, get lost in smalls streets it's full of hidden gems. Enjoy the colorful buildings.
+Budapest is such a beautiful city, two days was a bit short I must admit. But we managed to walk a lot in the city center.
 
-You can follow me on [Mapstr](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noopener"} and access my map of Copenhagen with all those address saved and more.
+Check my [Mapstr](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noopener"} map, I saved all my addresses there.
 
-![](/uploads/topview.jpeg){: .one-half-image width="2268" height="4032"}![](/uploads/copenhill.jpeg){: .one-half-image width="2268" height="4032"}
+##### Parlamento
 
-***The most popular spots:***
+images
 
-Nyhavn ( the colored houses), use to be the main harbor.
+##### St. Stephen's Basilica
 
-Little Mermaid ( she is really little ) go walk around the Kastellet next to it.
+images
 
-Christiana (the free city).
+##### Liberty Bridge
 
-Amelienborg (The Royal Palace).
+##### Gellért Hill
 
-Tivoli ( oldest attraction park still in use) fee to enter and fee to do attractions.
-
-***Places to see on a sunny day:***
-
-Assistens Kirkeg&aring;rd ( cemetery) Sounds weird I know, but I never seen cemetry like that before. In France they are all grey and concrete, here it's more like small park where life & death cohabit.&nbsp;
-
-F&aelig;lledparken ( huge park in the city cool for a walk in nature)
-
-Lacs ( in the middle of the city)
-
-Rundetaarn ( view of the city)
-
-Street Food Reffen (Open in Summer only)
-
-Copenhill
-
-![](/uploads/tour-1.jpeg){: .one-half-image width="3024" height="4032"}![](/uploads/park.jpeg){: .one-half-image width="3024" height="4032"}
-
-***Places to see on a rainy day ( or not):***
-
-Torvehallerne ( cover food market) also super cosy in summer.
-
-Glypotek Museum.
-
-Botanic Garden ( visit the palm tree house so nice when it's cold outside).
+&nbsp;
 
 #### Going out:
-{: .center}
 
 K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party).
 
@@ -118,16 +82,15 @@ Boullebar ( petanque bar in the city).
 
 Reffen Street Food (to watch the sunset, eat & enjoy drinks.)
 
-![](/uploads/sunset.jpeg){: width="1440" height="1800"}
+&nbsp;
 
 #### Where to eat ?
-{: .center}
 
 Copenhagen has become a huge food city, so I will make a full article for food itself. But here get few nice places around the city.
 
 All the places below offer vegetarian menu. Check it out for Vegan & GF if needed.
 
-![](/uploads/reffen.jpeg){: width="1440" height="1800"}
+&nbsp;
 
 *Mad & Kaffe:* Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
 
@@ -148,7 +111,6 @@ All the places below offer vegetarian menu. Check it out for Vegan & GF if neede
 &nbsp;
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip\!
-{: .center}
 
 &nbsp;
 
