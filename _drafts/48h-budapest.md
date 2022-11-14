@@ -66,51 +66,54 @@ images
 
 ##### Liberty Bridge
 
+&nbsp;
+
 ##### Gellért Hill
+
+Go there at sunset to have the light over the city. Lots of stairs but worth it. Takes around 15min to go up.
+
+You can do it either when you go the the Gellért Bath or another time, it's right next to it.
+
+There is two ways to go up, from Géllert Bath or from the next bridge ( the new one).
+
+At the top you will see the **Liberty Statue.** It was on renovation when we went but I imagine the view must be amazing when open.
 
 &nbsp;
 
 #### Going out:
 
-K&oslash;dbyen ( Old Meat packing district now restaurants and bars to party).
+Budapest is known to go out. Unfortunately it was a busy week-end and long days so we did not go out.
 
-PS Bar ( Dinner & Club, get dressed ).
+We tried a Ruin Bar in the center, which was really nice. In that area you will find lots of bars and clubs.
 
-Generator ( Hostel in the city with cool bar and petanque fields).
-
-Boullebar ( petanque bar in the city).
-
-Reffen Street Food (to watch the sunset, eat & enjoy drinks.)
+* Szimpla Kert
 
 &nbsp;
 
 #### Where to eat ?
 
-Copenhagen has become a huge food city, so I will make a full article for food itself. But here get few nice places around the city.
+Olalala the food places in Budapest \! I was really surprised by the amount of brunch places you can find.
 
-All the places below offer vegetarian menu. Check it out for Vegan & GF if needed.
+I recommend you to check the instagram page of @[budapestfoodguide](https://www.instagram.com/budapestfoodguide/){: target="_blank" rel="noopener"} for inspiration.
 
-&nbsp;
+But here is a list of places we tried and can recommend.
 
-*Mad & Kaffe:* Perfect for Breakfast & Brunch (until 11h30) no bookings and few places in the city.
+###### Brunch:
 
-*&Oslash;12:* Brunch / Lunch all day long.
+* Lion's Locker
+* Cookie Beacon
 
-*Union Kitchen:* Brunch /Lunch, right behind Nyhavn
+###### Dinner:
 
-*Coffee Collective:* If you need a nice coffee break during the day.
+Remember to book if you go on week-ends, Saturday everything was fully booked. I book for Sunday and luckily, when we arrived there was a huge line.
 
-*Original Coffee:* Same as good and a lot of places around.
-
-*LLama:* Dinner place, High quality, South American fusion cuisine, Lounge later at night. My fav restaurant for a treat.
-
-*Keyser Social:* Asian Fusion Cuisine, if you like Asian food this will be goood.
-
-*Ammas:* If you want to try the Danish Specialty, I heard it's one of the best for it. sm&oslash;rbr&oslash;d ( open sandwich). It's not for me but some loves it and well it's part of visiting a country right ?
-
-&nbsp;
+* Karavan (street food)
+* Koll&aacute;zs ( French Bistro)
+* TwentySix ( Mediterranean Food)
+* Mazel Tov (Mediterranean Food)
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip\!
+{: .center}
 
 &nbsp;
 
