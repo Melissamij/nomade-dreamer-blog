@@ -8,15 +8,17 @@ categories:
   - travel
   - city trip
   - Europe
-featured_image: /uploads/copenhague-1.jpg
+featured_image: /uploads/img-7326.JPG
 seo:
-  title: week end in Copenhagen
+  title: Week-end in Budapest
   description: >-
-    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
-    end.
-  social_image: /uploads/copenhague-1.jpg
+    Find the perfect tips for a week-end in Budapest. From what to see, to food
+    places and of course Thermal Bath. 
+  social_image: /uploads/img-7326-1.JPG
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: >-
+    citytrip, visit budapest, week end in budapest, travel blog, budapest,
+    thermal bath, food in budapest
   hide-from-google: false
 _comments:
   title: Max 70 characters
