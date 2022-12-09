@@ -60,17 +60,17 @@ Check my [Mapstr](https://go.mapstr.com/SxSgCvaNulb){: target="_blank" rel="noop
 
 ##### Parlamento
 
-images
+![](/uploads/img-7326-2.JPG){: width="3024" height="4032"}
 
 ##### St. Stephen's Basilica
 
-images
+![](/uploads/img-7373.JPG){: width="3024" height="4032"}
 
 ##### Liberty Bridge
 
-&nbsp;
+![](/uploads/img-7407.JPG){: .one-third-image width="3024" height="4032"}![](/uploads/img-7192.JPG){: .one-third-image width="3024" height="4032"}
 
-##### Gellért Hill
+##### Gellért Hill / Bath
 
 Go there at sunset to have the light over the city. Lots of stairs but worth it. Takes around 15min to go up.
 
@@ -80,9 +80,11 @@ There is two ways to go up, from Géllert Bath or from the next bridge ( the new
 
 At the top you will see the **Liberty Statue.** It was on renovation when we went but I imagine the view must be amazing when open.
 
-&nbsp;
+![](/uploads/img-7385-1.JPG){: width="3024" height="4032"}
 
 #### Going out:
+
+&nbsp;
 
 Budapest is known to go out. Unfortunately it was a busy week-end and long days so we did not go out.
 
@@ -105,6 +107,8 @@ But here is a list of places we tried and can recommend.
 * Lion's Locker
 * Cookie Beacon
 
+![](/uploads/img-0905.JPG){: width="3024" height="4032"}
+
 ###### Dinner:
 
 Remember to book if you go on week-ends, Saturday everything was fully booked. I book for Sunday and luckily, when we arrived there was a huge line.
@@ -113,6 +117,9 @@ Remember to book if you go on week-ends, Saturday everything was fully booked. I
 * Koll&aacute;zs ( French Bistro)
 * TwentySix ( Mediterranean Food)
 * Mazel Tov (Mediterranean Food)
+
+![](/uploads/img-7446.JPG){: width="3024" height="4032"}
+{: .center}
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip\!
 {: .center}
