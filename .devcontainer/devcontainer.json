@@ -13,7 +13,7 @@
 	// "appPort": ["3000:3000"],
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "cd ${input:nomadeDreamerBlog} && bundle install",
+	//"postCreateCommand": "cd ${input:nomadeDreamerBlog} && bundle install",
 
 	// Uncomment the next line to use a non-root user. On Linux, this will prevent
 	// new files getting created as root, but you may need to update the USER_UID
