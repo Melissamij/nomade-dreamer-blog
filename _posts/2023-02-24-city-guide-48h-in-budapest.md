@@ -84,9 +84,35 @@ They are so many options to chose from. For this first trip we chose the two mos
 
 **Széchenyi Thermal Bath&nbsp;**
 
-**Going out:**
+I did not took pictures as we went at night and it was really busy. But I did not like it so much, it's only pools all around and not really clean to be honest.&nbsp;
 
-**Where to eat ?**
+**AIRBNB&nbsp;**
+
+The girls found the most amazing appartement ever. A bit expensive but if you ask me all worth it.&nbsp;[Link&nbsp;](https://fr.airbnb.com/rooms/628940181902144408?adults=1&amp;checkin=&amp;checkout=&amp;children=0&amp;infants=0&amp;pets=0&amp;wishlist_item_id=11001777467668&amp;source_impression_id=p3_1677245141_tHOo3PXmUi4N8mls){: target="_blank" rel="noopener"}
+
+3 bedrooms ( 1 master with bathtube) .
+
+![](/uploads/airbnb.webp){: .-image width="1200" height="800"}![](/uploads/airbnb2.webp){: .-image width="1200" height="800"}
+
+**LET'S TALK ABOUT FOOD & DRINKS**
+
+**![](/budapest/IMG_7446.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_0905.JPG){: .-image width="3024" height="4032"}**
+
+Here are places we tried and liked.&nbsp;
+
+If you go during the week-end, book in advance as all the places where full.&nbsp;
+
+Dinner at Kollázs, restaurant of the four season hôtel, French bistrot. €€
+
+Dinner at Twentysix, méditeranéen food. This place is amazing, indoor jungle, great food to share and drinks. €€
+
+Cookie Beacon, if you are in for a treat during the long walks. €
+
+Lion's locker for a good brunch ( you can also leave your bags there for the day by the way.€
+
+Karavan street food, great to try some traditional food and more. In the party street ;). €
+
+Szimpla Kert for drinks, it's a ruin bar. Famous bars in Budapest, we really liked the vibe of this one. This street is where you have all the bars and clubs!
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip!
 
