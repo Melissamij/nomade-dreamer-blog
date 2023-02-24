@@ -80,6 +80,10 @@ They are so many options to chose from. For this first trip we chose the two mos
 
 ![](/budapest/IMG_7177.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_7174.JPG){: .-image width="3010" height="4013"}
 
+***Entrance:&nbsp; ***Around 200dkk/pers ( 25€), [book here](https://tickets.gellertbath.hu/){: target="_blank" rel="noopener"}. It has been ma favorite one. It's really nice to take the cabine if you come straight from the airport so you can leave all your laguages in.&nbsp;
+
+**Széchenyi Thermal Bath&nbsp;**
+
 **Going out:**
 
 **Where to eat ?**
