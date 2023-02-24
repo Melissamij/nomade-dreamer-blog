@@ -115,5 +115,3 @@ Karavan street food, great to try some traditional food and more. In the party s
 Szimpla Kert for drinks, it's a ruin bar. Famous bars in Budapest, we really liked the vibe of this one. This street is where you have all the bars and clubs!
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip!
-
-{: .center}
