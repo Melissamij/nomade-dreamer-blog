@@ -12,13 +12,15 @@ categories:
   - Europe
 featured_image: /budapest/IMG_7385.JPG
 seo:
-  title: week end in Copenhagen
+  title: 'week end in Budapest '
   description: >-
-    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
+    Planning a trip inBudapest Get all the infos you need to enjoy your week
     end.
-  social_image: /uploads/copenhague-1.jpg
+  social_image: /uploads/img-7177.JPG
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: >-
+    citytrip, visit budapest, week end in budapest, travel blog, thermal bath,
+    what to see in budapest
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -28,27 +30,27 @@ _comments:
 
 **INFORMATION**
 
-***About:&nbsp;***Budapest, Hungary’s capital, is bisected by the River Danube.
+***About:***&nbsp;Budapest, Hungary’s capital, is bisected by the River Danube.
 
 ***Formality:***&nbsp; Budapest is part of Europe, so for Europeans you need a valid ID of 6months before return. For non EU resident check depending of your country.
 
-**Currency:** Hungarian forint (HUF)
+***Currency:*** Hungarian forint (HUF)
 
 ***Time:***&nbsp; Central European Standard Time
 
-**Best season:** I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
+***Best season: ***I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
 
 **TRANSPORT**
 
-***From the airport***, we took a taxi from the airport directly to the Gellert Thermal and paid around 200kr / 19€.
+From the airport, we took a taxi from the airport directly to the Gellert Thermal and paid around 200kr / 19€.
 
 You can also take a bus to the city center for 4€, line No. 100E.
 
-***To go around:&nbsp;**&nbsp;*You have the choice between metro/tram/bus. But honestly we walked a lot and when we needed we just took a taxi. We paid around 50kr ( 6€) per way, which make more sense when you are 3.
+***To go around:***&nbsp; You have the choice between metro/tram/bus. But honestly we walked a lot and when we needed we just took a taxi. We paid around 50kr ( 6€) per way, which make more sense when you are 3.
 
-You can also get a [**Budapest Card**](https://m.budapestinfo.hu/webshop) with Free public transport, discounts, museum access etc..
+You can also get a [Budapest Card](https://m.budapestinfo.hu/webshop) with Free public transport, discounts, museum access etc..
 
-**WHAT TO SEE?**
+#### **WHAT TO SEE?**
 
 Budapest is such a beautiful city, two days was a bit short I must admit. But we managed to walk a lot in the city center.
 
@@ -56,21 +58,21 @@ Check my [Mapstr](https://go.mapstr.com/SxSgCvaNulb) map, I saved all my address
 
 **Parlamento**
 
-![](/budapest/IMG_7326.JPG){: width="3024" height="4032"}
+**![](/budapest/IMG_7326.JPG){: width="3024" height="4032"}**
 
 **St. Stephen's Basilica**
 
-![](/budapest/IMG_7373.JPG){: width="3024" height="4032"}
+**![](/budapest/IMG_7373.JPG){: width="3024" height="4032"}**
 
 **Liberty Bridge / Gellért Hill**
 
-![](/budapest/IMG_7407.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_7385.JPG){: .-image width="3024" height="4032"}
+**![](/budapest/IMG_7407.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_7385.JPG){: .-image width="3024" height="4032"}**
 
 Gellért Hill, is a 15min walk up, lots of stairs but best view of the city and the bridge. Go at sunset time for great pictures.&nbsp;
 
 It's also right next to the Spa.&nbsp;
 
-**THERMAL BATH:**
+#### **THERMAL BATH:**
 
 They are so many options to chose from. For this first trip we chose the two most known.&nbsp;
 
@@ -78,9 +80,9 @@ They are so many options to chose from. For this first trip we chose the two mos
 
 **![](/budapest/IMG_7170.JPG){: width="3024" height="4032"}**
 
-![](/budapest/IMG_7177.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_7174.JPG){: .-image width="3010" height="4013"}
+**![](/budapest/IMG_7177.JPG){: .-image width="3024" height="4032"}![](/budapest/IMG_7174.JPG){: .-image width="3010" height="4013"}**
 
-*\*\*Entrance:&nbsp; \*\**Around 200dkk/pers ( 25€), [book here](https://tickets.gellertbath.hu/){: target="_blank" rel="noopener"}. It has been ma favorite one. It's really nice to take the cabine if you come straight from the airport so you can leave all your laguages in.&nbsp;
+***Entrance:**&nbsp;* Around 200dkk/pers ( 25€), [book here](https://tickets.gellertbath.hu/){: target="_blank" rel="noopener"}. It has been ma favorite one. It's really nice to take the cabine if you come straight from the airport so you can leave all your laguages in.&nbsp;
 
 **Széchenyi Thermal Bath&nbsp;**
 
@@ -102,16 +104,16 @@ Here are places we tried and liked.&nbsp;
 
 If you go during the week-end, book in advance as all the places where full.&nbsp;
 
-Dinner at Kollázs, restaurant of the four season hôtel, French bistrot. €€
+Dinner at [Kollázs](https://www.fourseasons.com/budapest/dining/restaurants/kollazs_brasserie_and_bar/){: target="_blank" rel="noopener"}, restaurant of the four season hôtel, French bistrot. *€€*
 
-Dinner at Twentysix, méditeranéen food. This place is amazing, indoor jungle, great food to share and drinks. €€
+Dinner at [Twentysix,](https://twentysixbudapest.com/){: target="_blank" rel="noopener"} méditerranéen food. This place is amazing, indoor jungle, great food to share and drinks. *€€*
 
-Cookie Beacon, if you are in for a treat during the long walks. €
+[Cookie Beacon](https://www.cookiebeacon.com/){: target="_blank" rel="noopener"}, if you are in for a treat during the long walks or a brunch. *€*
 
-Lion's locker for a good brunch ( you can also leave your bags there for the day by the way.€
+[Lion's locker](https://www.lockerbudapest.com/){: target="_blank" rel="noopener"} for a good brunch ( you can also leave your bags there for the day by the way.€
 
-Karavan street food, great to try some traditional food and more. In the party street ;). €
+[Karavan street food](https://www.tripadvisor.com/Restaurant_Review-g274887-d10678078-Reviews-Street_Food_Karavan-Budapest_Central_Hungary.html){: target="_blank" rel="noopener"}, great to try some traditional food and more. In the party street ;). €
 
-Szimpla Kert for drinks, it's a ruin bar. Famous bars in Budapest, we really liked the vibe of this one. This street is where you have all the bars and clubs!
+[Szimpla Kert](https://www.szimpla.eu/about-us#!){: target="_blank" rel="noopener"} for drinks, it's a ruin bar. Famous bars in Budapest, we really liked the vibe of this one. This street is where you have all the bars and clubs!
 
 I think with that you have all you need to start planing your week end, send me a DM on insta if you have any questions. And have a great trip!
