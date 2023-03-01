@@ -38,7 +38,7 @@ _comments:
 
 ***Time:***&nbsp; Central European Standard Time
 
-***Best season: ***I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
+***Best season: &nbsp;***I would not go in summer as I imagined it gets hot. I think spring and fall are perfect.&nbsp;
 
 **TRANSPORT**
 
