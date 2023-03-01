@@ -5,7 +5,7 @@ description: >-
   Visit one of the most iconic city of the Eastern world. Thermal spa, food
   places ...
 author: Mélissa
-featured: false
+featured: true
 categories:
   - travel
   - city trip
