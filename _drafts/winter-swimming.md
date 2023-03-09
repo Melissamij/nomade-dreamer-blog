@@ -31,27 +31,27 @@ So let’s dive into this crazy idea…
 
 ![](/winter-swimming/IMG_8531.webp){: .wide-image width="2116" height="2822"}
 
-**What is Winter Swimming ? **
+##### WHAT IS WINTER SWIMMING?
 
 Called: cold dip, ice bath, cold water swimming… so many version. But the main idea is to challenge your body and mind to go swim in cold waters.
 
-I discover that living in Copenhagen, DK.
+I discovered that when I moved in Copenhagen, DK.
 
-**Where does it comes from?**
+##### **WHERE DOES IT COMES FROM?**
 
 Has been part of the culture in the nordics for ages now, mostly in Finland, but it has gained a lot of popularity in Scandinavia and around the world.
 
 In Copenhagen it started in the end of the 19th century, when the first establishment opened( Helgoland Badeanstalt).
 
-How cold the water should be?
+##### How cold the water should be?
 
 It does not really matter, if where you live it’s at 20 during winter, well it’s still good.
 
-The water in Denmark never freeze but from December to March it’s between 2 to 4 degree .
+The water in Denmark "never" freeze but from December to March it’s between 2 to 4 degree .In 2021 the sea got frozen, and yes we did go for a dip ;).&nbsp;
 
-**Photo **
+![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: .wide-image width="900" height="899"}
 
-**Why is winter swimming good for you ? **
+##### **WHY IS WINTER SWIMMING GOOD FOR YOU? **
 
 Apart from being fun and challenging, studies show that cold water swimming has a lot of different health benefits.
 
@@ -81,25 +81,20 @@ After a cold swim, you feel so relaxed.
 
 It helps you to get more challenged in your daily life.
 
-**PHOTO**
+![](/winter-swimming/IMG_E6355.webp){: width="579" height="935"}
 
-**Best season ? **
+**BEST SEASON ? **
 
 But the best is to start around October until the end of winter, so for us it’s al year long as we have water near us at all time in Copenhagen.
 
-**How to start ? **
+**HOW TO START? **
 
-Get a friend, partner to go with you. Yes you never go alone !
-
-Start early in the season.
-
-All you need it’s an access to water
-
-Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.
-
-Listen to your body
-
-If you can just dip half your body the first times, it’s all good.
+* Get a friend, partner to go with you. Yes you never go alone !
+* Start early in the season.
+* All you need it’s an access to water
+* Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.
+* Listen to your body
+* If you can just dip half your body the first times, it’s all good.
 
 **Now where to swim (Copenhagen) ? **
 
