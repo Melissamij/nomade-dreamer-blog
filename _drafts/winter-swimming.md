@@ -89,6 +89,8 @@ But the best is to start around October until the end of winter, so for us it’
 
 **WHERE TO SWIM (Copenhagen) ? **
 
+![](/winter-swimming/IMG_5437.webp){: .-image width="2116" height="2822"}![](/winter-swimming/IMG_1818.webp){: .-image width="2116" height="2822"}
+
 You just need access to water, a lake, a river, the sea, the ocean what’s near you. You don’t need to be part of a swimming club to start.
 
 In Copenhagen you have a lot of areas where you can go.
@@ -97,52 +99,47 @@ All the beaches for exemple, but also in the city in the canals.
 
 Few swimming spot for you:
 
-* Amager snail
+* [Amager snail](https://www.rundtidanmark.dk/sneglen-soebad-kastrup-amager/){: target="_blank" rel="noopener"}
 * Nordhavn
 * Sydhavn
 * Island Brygge
 * Reffen
-* Kalvebod Brygge
+* [Kalvebod Brygge](https://www.visitcopenhagen.com/copenhagen/planning/kalvebod-bolge-gdk723272){: target="_blank" rel="noopener"}
 
-**What about Sauna? **
+**WHAT ABOUT SAUNA? **
+
+![](/winter-swimming/IMG_4164.webp){: width="3024" height="4032"}
 
 Well it’s not necessary, we actually did winter swimming at the beginning of the pandemic and we had no access to sauna.
 
 Now we do, so I will not lie to you it’s nicer but not a must.
 
-If you visit the city and would like to try with a sauna session, I can recommend you La Banchina or Cpenhot
+If you visit the city and would like to try with a sauna session, I can recommend you [La Banchina](https://www.labanchina.dk/cafe/){: target="_blank" rel="noopener"} or [Copenhot](https://copenhot.com/){: target="_blank" rel="noopener"}.
 
 But unfortunately the Sauna culture in DK is not like Finland or Iceland. Hopefully it will change, but for now most places are member places with long waiting list.
 
-**How long time, How many times a week&nbsp; to have the best result ?**
+**HOW TO START? **
+
+​​​**Manual :**
+
+* Get a swim partner, never go alone!
+* Find your swimming spot
+* Start early season and go step by step
+* Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.Winter swimming is like training for a Marathon ( one step at the time)
+* Listen to your body
+* If you can just dip half your body the first times, it’s all good.
+* Go 2 or 3 times / week if you can
+* Always end on a cold swim to benefit the most
+* Get warm clothe to warm up faster
+* Keep moving after a swim
+
+**BASED ON STUDY**
 
 Based on a study, it shows you need to swim 17min / week and do 57min of sauna in order to benefit the most of it.
 
 Study’s made in Finland shows that staying over 30min / session in the sauna reverse the benefits.
 
 If you interested I recommend you this podcast ;).
-
-**HOW TO START? **
-
-* Get a friend, partner to go with you. Yes you never go alone !
-* Start early in the season.
-* All you need it’s an access to water
-* Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.
-* Listen to your body
-* If you can just dip half your body the first times, it’s all good.
-
-To resume :
-
-* Get a swim partner
-* Find your swimming spot
-* Go 2 or 3 times / week if you can
-* Swim for 17min / week
-* Stay max 30min at a time in the sauna
-* Always end on a cold swim to benefit the most
-* Get warm clothe to warm up faster
-* Keep moving after a swim
-* Start early season and go step by step
-* Winter swimming is like training for a Marathon ( one step at the time)
 
 I tried to share my experience and few facts from study to provide you the best infos to start your journey.
 
