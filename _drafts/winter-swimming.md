@@ -83,20 +83,11 @@ It helps you to get more challenged in your daily life.
 
 ![](/winter-swimming/IMG_E6355.webp){: width="579" height="935"}
 
-**BEST SEASON ? **
+**BEST SEASON TO START? **
 
 But the best is to start around October until the end of winter, so for us it’s al year long as we have water near us at all time in Copenhagen.
 
-**HOW TO START? **
-
-* Get a friend, partner to go with you. Yes you never go alone !
-* Start early in the season.
-* All you need it’s an access to water
-* Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.
-* Listen to your body
-* If you can just dip half your body the first times, it’s all good.
-
-**Now where to swim (Copenhagen) ? **
+**WHERE TO SWIM (Copenhagen) ? **
 
 You just need access to water, a lake, a river, the sea, the ocean what’s near you. You don’t need to be part of a swimming club to start.
 
@@ -106,17 +97,12 @@ All the beaches for exemple, but also in the city in the canals.
 
 Few swimming spot for you:
 
-Amager snail
-
-Nordhavn
-
-Sydhavn
-
-Island Brygge
-
-Reffen
-
-Kalvebod Brygge
+* Amager snail
+* Nordhavn
+* Sydhavn
+* Island Brygge
+* Reffen
+* Kalvebod Brygge
 
 **What about Sauna? **
 
@@ -128,13 +114,22 @@ If you visit the city and would like to try with a sauna session, I can recommen
 
 But unfortunately the Sauna culture in DK is not like Finland or Iceland. Hopefully it will change, but for now most places are member places with long waiting list.
 
-How long time, How many times a week&nbsp; to have the best result ?
+**How long time, How many times a week&nbsp; to have the best result ?**
 
 Based on a study, it shows you need to swim 17min / week and do 57min of sauna in order to benefit the most of it.
 
 Study’s made in Finland shows that staying over 30min / session in the sauna reverse the benefits.
 
 If you interested I recommend you this podcast ;).
+
+**HOW TO START? **
+
+* Get a friend, partner to go with you. Yes you never go alone !
+* Start early in the season.
+* All you need it’s an access to water
+* Enter the water slowly, keep breathing, and stay as long as the water temperature. ( 3 degrees = 3min ). There are no studies on that, is my own experience, but&nbsp; I think it’s a good rule to follow to stay safe.
+* Listen to your body
+* If you can just dip half your body the first times, it’s all good.
 
 To resume :
 
