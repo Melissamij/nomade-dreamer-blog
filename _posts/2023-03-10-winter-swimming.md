@@ -60,7 +60,7 @@ It does not really matter, if where you live it’s at 20 during winter, well it
 
 The water in Denmark "never" freeze but from December to March it’s between 2 to 4 degree .In 2021 the sea got frozen, and yes we did go for a dip ;).&nbsp;
 
-##### ![](/winter-swimming/IMG_E6355.webp){: .small-centered-image width="579" height="935"}
+##### ![](/winter-swimming/IMG_E6355.webp){: .-image width="579" height="935"}
 
 ##### WHY IS WINTER SWIMMING GOOD FOR YOU?&nbsp;
 
@@ -92,19 +92,19 @@ After a cold swim, you feel so relaxed.
 
 It helps you to get more challenged in your daily life.
 
+#####
+
 ##### BEST SEASON TO START?&nbsp;
 
 But the best is to start around October until the end of winter, so for us it’s al year long as we have water near us at all time in Copenhagen.
 
 ##### WHERE TO SWIM (Copenhagen) ?&nbsp;
 
-![](/winter-swimming/IMG_8488.webp){: .-image width="2116" height="2822"}![](/winter-swimming/IMG_5159.webp){: .-image width="2116" height="2822"}
-
 You just need access to water, a lake, a river, the sea, the ocean what’s near you. You don’t need to be part of a swimming club to start.
 
-In Copenhagen you have a lot of areas where you can go.
+In Copenhagen you have a lot of areas where you can go.All the beaches for exemple, but also in the city in the canals.
 
-All the beaches for exemple, but also in the city in the canals.
+![](/winter-swimming/IMG_8488.webp){: .-image width="2116" height="2822"}![](/winter-swimming/IMG_5159.webp){: .-image width="2116" height="2822"}<br>​​​​​​
 
 Few swimming spot for you:
 
@@ -112,6 +112,10 @@ Few swimming spot for you:
 * [Nordhavn](https://goo.gl/maps/pMjTctG4QyPAqzFfA){: target="_blank" rel="noopener"}
 * [Reffen](https://goo.gl/maps/UegvzThDAZ9wyJxU9){: target="_blank" rel="noopener"}
 * [Kalvebod Brygge](https://www.visitcopenhagen.com/copenhagen/planning/kalvebod-bolge-gdk723272){: target="_blank" rel="noopener"}
+
+#####
+
+#####
 
 ##### WHAT ABOUT SAUNA?&nbsp;
 
@@ -124,6 +128,10 @@ Now we do, so I will not lie to you it’s nicer but not a must.
 If you visit the city and would like to try with a sauna session, I can recommend you [La Banchina](https://www.labanchina.dk/cafe/){: target="_blank" rel="noopener"} or [Copenhot](https://copenhot.com/){: target="_blank" rel="noopener"}.
 
 But unfortunately the Sauna culture in DK is not like Finland or Iceland. Hopefully it will change, but for now most places are member places with long waiting list.
+
+#####
+
+#####
 
 ##### HOW TO START?&nbsp;
 
