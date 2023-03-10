@@ -50,9 +50,7 @@ In Copenhagen it started in the end of the 19th century, when the first establis
 
 ##### ![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: width="900" height="899"}
 
-#####
 
-#####
 
 ##### How cold the water should be?
 
@@ -92,7 +90,7 @@ After a cold swim, you feel so relaxed.
 
 It helps you to get more challenged in your daily life.
 
-#####
+
 
 ##### BEST SEASON TO START?&nbsp;
 
@@ -113,9 +111,7 @@ Few swimming spot for you:
 * [Reffen](https://goo.gl/maps/UegvzThDAZ9wyJxU9){: target="_blank" rel="noopener"}
 * [Kalvebod Brygge](https://www.visitcopenhagen.com/copenhagen/planning/kalvebod-bolge-gdk723272){: target="_blank" rel="noopener"}
 
-#####
 
-#####
 
 ##### WHAT ABOUT SAUNA?&nbsp;
 
@@ -129,9 +125,7 @@ If you visit the city and would like to try with a sauna session, I can recommen
 
 But unfortunately the Sauna culture in DK is not like Finland or Iceland. Hopefully it will change, but for now most places are member places with long waiting list.
 
-#####
 
-#####
 
 ##### HOW TO START?&nbsp;
 
