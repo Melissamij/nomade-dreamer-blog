@@ -27,10 +27,8 @@ _comments:
   social_image: landscape 1200 x 600px
 ---
 You may ask yourself, but why on earth would I go in cold, dark water when it’s freezing outside? Fair enough I was one of those. Remember I am from Cannes in the south of France, when we see people swimming in November we think they are crazy and the water is still at 20 degrees hahaha. I had that picture of Danish winter being all "Hygge", you know candle, cosy inside in the warm drinking a coffee.But there is the other side, what’s left of the viking people.
-{: .center}
 
 So let’s dive into this crazy idea…
-{: .center}
 
 ![](/uploads/img-8531.webp){: .wide-image width="500" height="667"}
 
