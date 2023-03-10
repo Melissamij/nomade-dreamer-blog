@@ -189,6 +189,7 @@ p, li {
   font-weight: 200;
   font-size: 1rem;
 }
+li {margin-left: 5%;}
 
 h2:last-child, 
 h3:last-child, 
