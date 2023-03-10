@@ -30,7 +30,7 @@ You may ask yourself, but why on earth would I go in cold, dark water when it’
 
 So let’s dive into this crazy idea…
 
-![](/uploads/img-8531.webp){: .center width="500" height="667"}
+![](/uploads/img-8531.webp){: .wide-image width="500" height="667"}
 
 ##### WHAT IS WINTER SWIMMING?
 
@@ -134,7 +134,7 @@ Based on a study, it shows you need to swim 17min / week and do 57min of sauna i
 
 Study’s made in Finland shows that staying over 30min / session in the sauna reverse the benefits.
 
-If you interested I recommend you this[podcast](https://open.spotify.com/episode/3iWIAFfzzHWuYCVKvA5VJc?si=aE1l32gyTzW5MgyY78NSSA){: target="_blank" rel="noopener"} ;).
+If you interested I recommend you this&nbsp;[podcast](https://open.spotify.com/episode/3iWIAFfzzHWuYCVKvA5VJc?si=aE1l32gyTzW5MgyY78NSSA){: target="_blank" rel="noopener"} ;).
 
 I tried to share my experience and few facts from study to provide you the best infos to start your journey.
 
