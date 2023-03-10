@@ -5,7 +5,7 @@ description: >-
   Sharing with you my personal experience and some facts about winter swimming /
   cold dip benefits for your health. 
 author: Mélissa
-featured: false
+featured: true
 categories:
   - travel
   - Self Care
