@@ -46,15 +46,17 @@ It has been part of the culture in the nordics for ages now, mostly in Finland, 
 
 In Copenhagen it started in the end of the 19th century, when the first establishment opened ( Helgoland Badeanstalt).
 
+##### ![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: width="900" height="899"}
+
+#####
+
 ##### How cold the water should be?
 
 It does not really matter, if where you live it’s at 20 during winter, well it’s still good.
 
 The water in Denmark "never" freeze but from December to March it’s between 2 to 4 degree .In 2021 the sea got frozen, and yes we did go for a dip ;).&nbsp;
 
-![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: .wide-image width="900" height="899"}
-
-#####
+##### ![](/winter-swimming/IMG_E6355.webp){: .-image width="579" height="935"}
 
 ##### WHY IS WINTER SWIMMING GOOD FOR YOU?&nbsp;
 
@@ -92,7 +94,7 @@ But the best is to start around October until the end of winter, so for us it’
 
 ##### WHERE TO SWIM (Copenhagen) ?&nbsp;
 
-![](/winter-swimming/IMG_5437.webp){: .-image width="2116" height="2822"}![](/winter-swimming/IMG_1818.webp){: .-image width="2116" height="2822"}
+![](/winter-swimming/IMG_8488.webp){: .-image width="2116" height="2822"}![](/winter-swimming/IMG_5159.webp){: .-image width="2116" height="2822"}
 
 You just need access to water, a lake, a river, the sea, the ocean what’s near you. You don’t need to be part of a swimming club to start.
 
@@ -111,7 +113,7 @@ Few swimming spot for you:
 
 ##### WHAT ABOUT SAUNA?&nbsp;
 
-![](/winter-swimming/IMG_4164.webp){: width="3024" height="4032"}
+![](/winter-swimming/IMG_4164.webp){: .-image width="3024" height="4032"}![](/winter-swimming/IMG_8531.webp){: .-image width="2116" height="2822"}
 
 Well it’s not necessary, we actually did winter swimming at the beginning of the pandemic and we had no access to sauna.
 
