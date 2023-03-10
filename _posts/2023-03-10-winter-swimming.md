@@ -32,7 +32,7 @@ You may ask yourself, but why on earth would I go in cold, dark water when it’
 So let’s dive into this crazy idea…
 {: .center}
 
-![](/winter-swimming/IMG_8531.webp){: .wide-image width="2116" height="2822"}
+![](/winter-swimming/IMG_8531.webp){: .-image width="2116" height="2822"}
 
 ##### WHAT IS WINTER SWIMMING?
 
