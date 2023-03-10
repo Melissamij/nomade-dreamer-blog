@@ -32,13 +32,15 @@ You may ask yourself, but why on earth would I go in cold, dark water when it’
 So let’s dive into this crazy idea…
 {: .center}
 
-![](/winter-swimming/IMG_8531.webp){: .-image width="2116" height="2822"}
+![](/winter-swimming/IMG_8531.webp){: .wide-image width="2116" height="2822"}
 
 ##### WHAT IS WINTER SWIMMING?
 
 Called: cold dip, ice bath, winter swimming… . The main idea is to challenge your body and mind to go swim in cold waters.
 
 I discovered that when I moved in Copenhagen, DK.
+
+#####
 
 ##### **WHERE DOES IT COMES FROM?**
 
@@ -56,7 +58,7 @@ It does not really matter, if where you live it’s at 20 during winter, well it
 
 The water in Denmark "never" freeze but from December to March it’s between 2 to 4 degree .In 2021 the sea got frozen, and yes we did go for a dip ;).&nbsp;
 
-##### ![](/winter-swimming/IMG_E6355.webp){: .-image width="579" height="935"}
+##### ![](/winter-swimming/IMG_E6355.webp){: .small-centered-image width="579" height="935"}
 
 ##### WHY IS WINTER SWIMMING GOOD FOR YOU?&nbsp;
 
