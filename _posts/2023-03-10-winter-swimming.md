@@ -32,15 +32,13 @@ You may ask yourself, but why on earth would I go in cold, dark water when it’
 So let’s dive into this crazy idea…
 {: .center}
 
-![](/winter-swimming/IMG_8531.webp){: .wide-image width="2116" height="2822"}
+![](/uploads/img-8531.webp){: .wide-image width="500" height="667"}
 
 ##### WHAT IS WINTER SWIMMING?
 
 Called: cold dip, ice bath, winter swimming… . The main idea is to challenge your body and mind to go swim in cold waters.
 
 I discovered that when I moved in Copenhagen, DK.
-
-#####
 
 ##### **WHERE DOES IT COMES FROM?**
 
@@ -49,8 +47,6 @@ It has been part of the culture in the nordics for ages now, mostly in Finland, 
 In Copenhagen it started in the end of the 19th century, when the first establishment opened ( Helgoland Badeanstalt).
 
 ##### ![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: width="900" height="899"}
-
-
 
 ##### How cold the water should be?
 
@@ -90,8 +86,6 @@ After a cold swim, you feel so relaxed.
 
 It helps you to get more challenged in your daily life.
 
-
-
 ##### BEST SEASON TO START?&nbsp;
 
 But the best is to start around October until the end of winter, so for us it’s al year long as we have water near us at all time in Copenhagen.
@@ -111,8 +105,6 @@ Few swimming spot for you:
 * [Reffen](https://goo.gl/maps/UegvzThDAZ9wyJxU9){: target="_blank" rel="noopener"}
 * [Kalvebod Brygge](https://www.visitcopenhagen.com/copenhagen/planning/kalvebod-bolge-gdk723272){: target="_blank" rel="noopener"}
 
-
-
 ##### WHAT ABOUT SAUNA?&nbsp;
 
 ![](/winter-swimming/IMG_4164.webp){: .-image width="3024" height="4032"}![](/winter-swimming/IMG_8531.webp){: .-image width="2116" height="2822"}
@@ -124,8 +116,6 @@ Now we do, so I will not lie to you it’s nicer but not a must.
 If you visit the city and would like to try with a sauna session, I can recommend you [La Banchina](https://www.labanchina.dk/cafe/){: target="_blank" rel="noopener"} or [Copenhot](https://copenhot.com/){: target="_blank" rel="noopener"}.
 
 But unfortunately the Sauna culture in DK is not like Finland or Iceland. Hopefully it will change, but for now most places are member places with long waiting list.
-
-
 
 ##### HOW TO START?&nbsp;
 
