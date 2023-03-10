@@ -9,15 +9,18 @@ featured: false
 categories:
   - travel
   - Self Care
-featured_image: /uploads/copenhague-1.jpg
+featured_image: /winter-swimming/IMG_8531.webp
 seo:
-  title: week end in Copenhagen
+  title: Winter Swimming Guide
   description: >-
-    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
-    end.
-  social_image: /uploads/copenhague-1.jpg
+    Curious about winter swimming ? You want to start but don't know how... then
+    this is for you. If you plan a trip in Copenhagen, few adresses for you to
+    go for a swim. 
+  social_image: /winter-swimming/IMG_8531.webp
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: >-
+    citytrip, visit copenhagen, week end in copenhagen, travel blog, winter
+    swimming, vinterbad, 
   hide-from-google: false
 _comments:
   title: Max 70 characters
