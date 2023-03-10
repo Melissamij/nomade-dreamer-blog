@@ -5,6 +5,9 @@ img.wide-image {
     /*margin-left: -5%;*/
     margin-right: -5%;
 }
+img.center {
+    margin-left: 15%;
+}
 
 img.one-third-image {
     display: inline-block;
