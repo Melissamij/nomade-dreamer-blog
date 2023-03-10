@@ -30,7 +30,7 @@ You may ask yourself, but why on earth would I go in cold, dark water when it’
 
 So let’s dive into this crazy idea…
 
-![](/uploads/img-8531.webp){: .wide-image width="500" height="667"}
+![](/uploads/img-8531.webp){: .center width="500" height="667"}
 
 ##### WHAT IS WINTER SWIMMING?
 
@@ -44,15 +44,13 @@ It has been part of the culture in the nordics for ages now, mostly in Finland, 
 
 In Copenhagen it started in the end of the 19th century, when the first establishment opened ( Helgoland Badeanstalt).
 
-##### ![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: width="900" height="899"}
-
 ##### How cold the water should be?
 
 It does not really matter, if where you live it’s at 20 during winter, well it’s still good.
 
 The water in Denmark "never" freeze but from December to March it’s between 2 to 4 degree .In 2021 the sea got frozen, and yes we did go for a dip ;).&nbsp;
 
-##### ![](/winter-swimming/IMG_E6355.webp){: .-image width="579" height="935"}
+##### ![](/winter-swimming/5B21914E-C24C-42C5-9AF4-D218A20E.webp){: width="900" height="899"}
 
 ##### WHY IS WINTER SWIMMING GOOD FOR YOU?&nbsp;
 
