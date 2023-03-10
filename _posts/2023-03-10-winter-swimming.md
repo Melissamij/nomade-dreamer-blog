@@ -105,10 +105,8 @@ All the beaches for exemple, but also in the city in the canals.
 Few swimming spot for you:
 
 * [Amager snail](https://www.rundtidanmark.dk/sneglen-soebad-kastrup-amager/){: target="_blank" rel="noopener"}
-* Nordhavn
-* Sydhavn
-* Island Brygge
-* Reffen
+* [Nordhavn](https://goo.gl/maps/pMjTctG4QyPAqzFfA){: target="_blank" rel="noopener"}
+* [Reffen](https://goo.gl/maps/UegvzThDAZ9wyJxU9){: target="_blank" rel="noopener"}
 * [Kalvebod Brygge](https://www.visitcopenhagen.com/copenhagen/planning/kalvebod-bolge-gdk723272){: target="_blank" rel="noopener"}
 
 ##### WHAT ABOUT SAUNA?&nbsp;
@@ -144,7 +142,7 @@ Based on a study, it shows you need to swim 17min / week and do 57min of sauna i
 
 Study’s made in Finland shows that staying over 30min / session in the sauna reverse the benefits.
 
-If you interested I recommend you this podcast ;).
+If you interested I recommend you this[podcast](https://open.spotify.com/episode/3iWIAFfzzHWuYCVKvA5VJc?si=aE1l32gyTzW5MgyY78NSSA){: target="_blank" rel="noopener"} ;).
 
 I tried to share my experience and few facts from study to provide you the best infos to start your journey.
 
