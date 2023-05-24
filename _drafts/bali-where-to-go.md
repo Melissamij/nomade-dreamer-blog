@@ -25,7 +25,7 @@ _comments:
 ---
 Planning vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
 
-
+![](/uploads/minimalist-world-map-pin-timeline.png){: width="1024" height="768"}
 
 ( Note: related post will be added about each areas with hotels, restaurants and what to see … )&nbsp;
 
