@@ -26,6 +26,8 @@ _comments:
 ---
 How is Canggu ? a question I got many times now, so let me give you my opinion.&nbsp;
 
+This article is to give you an idea of the area, for stays and food check related articles.&nbsp;
+
 First you need to know, when I came in 2013 Canggu did not exist ..and in the past 4 years it has grown a lot.&nbsp;
 
 But you can get the best (ish) of everything Bali has to offer. Surf, Yoga, Food heaven, Beach, Party's...&nbsp;
@@ -57,13 +59,7 @@ The beach is also perfect to surf from Beginner to more.. check Surf Camp.&nbsp;
 
 * Kosta Hostel, hostel & private room, chill place, close to the beach.&nbsp;
 * Wave House Surf Camp
-*
-
-**Eat:**
-
-**Party:**
-
-
+* Villa putih Berawa&nbsp;
 
 Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
 
@@ -75,13 +71,13 @@ It's also a really nice beach where you can chill, watch sunsets and surf. Perfe
 
 Another shortcut will lead you to Pererenan.&nbsp;
 
-**Eat:&nbsp;**
-
 ECHO BEACH&nbsp;
 
 JL. Pantai Batu Mejan.
 
 Find the famous La Brisa beach club, bohemian vibe, deep house music.
+
+
 
 PERERENAN
 
@@ -90,3 +86,5 @@ Geographically not part of Canggu but common knowledge that it is.&nbsp;
 Much more quiet and new, you will find beautiful private villas and new cafés popping up.
 
 If you want quiet and serene vibe, this is for you.&nbsp;
+
+&nbsp;
