@@ -1,0 +1,88 @@
+---
+layout: post
+title: 'Bali, where to go ? '
+description:
+author: Mélissa
+featured: true
+categories:
+  - travel
+  - city trip
+  - bali
+featured_image: /uploads/copenhague-1.jpg
+seo:
+  title:
+  description:
+  social_image: /uploads/copenhague-1.jpg
+  twitter_card:
+  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  hide-from-google: false
+_comments:
+  title: Max 70 characters
+  social_image: landscape 1200 x 600px
+---
+Planning vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
+
+( Note: related post will be added about each areas with hotels, restaurants and what to see ... )&nbsp;
+
+Let's start with an overall idea of the different areas.
+
+* Canggu&nbsp;
+* Uluwatu ( The bukit South)
+* Ubud ( Center)&nbsp;
+* Sidemen ( East)
+* North Bali&nbsp;
+
+Then the other islands around that you should add to your list.&nbsp;
+
+* The Gili Islands
+* Nusa Lembogan, Ceningan & Penida
+* Flores
+* Lombok
+
+
+
+CANGGU&nbsp;
+
+Canggu has became the must place to go to. When I went to Bali 12 years ago for the first time, I did not even heard about it.&nbsp;
+
+But today you cannot miss it. Canggu has it all !
+
+Perfect beaches to learn to surf & chill, yoga centers, the best cafés on the island, beach club, coolest boutique and amazing hotels / villas.&nbsp;
+
+But you need to be ready for heavy trafic, chaos as well haha.&nbsp;
+
+
+
+ULUWATU ( THE BUKIT)
+
+
+
+If you are looking for a place to relax, blue water ... Uluwatu is for you.&nbsp;
+
+I missed it the two times I came to Bali and I can tell you, don't do the same mistake.&nbsp;
+
+Such a cute area, the roads are beautiful, the beach with lagoon area stunning, if you surf you will find some of the best spots here.&nbsp;
+
+The sunsets are epic and there is some really cool places to go party as well.&nbsp;
+
+
+
+UBUD&nbsp;
+
+Probably the most known place of Bali.&nbsp;
+
+Away from the coast, Ubud is known for the yoga retreats, temples & rice fields.&nbsp;
+
+It's a busy town as well, but you can easily find quiet areas.&nbsp;
+
+I would recommend to go for few nights to explore the area.&nbsp;
+
+
+
+SIDEMEN
+
+Are you looking for rice field, no one on the roads, bambou houses & flower bath ?&nbsp;
+
+Well then this is for you 100% !
+
+I drove around Sidemen and I absolutely loved it.&nbsp;
