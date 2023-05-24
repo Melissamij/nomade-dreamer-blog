@@ -1,0 +1,92 @@
+---
+layout: post
+title: 'Canggu & Berawa Guide, Bali '
+description: >-
+  Canggu is the place to go in Bali but it get get overwhelming. Let me help you
+  understand the areas, where to go ..
+author: Mélissa
+featured: true
+categories:
+  - travel
+  - city trip
+  - Europe
+featured_image: /uploads/copenhague-1.jpg
+seo:
+  title: week end in Copenhagen
+  description: >-
+    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
+    end.
+  social_image: /uploads/copenhague-1.jpg
+  twitter_card:
+  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  hide-from-google: false
+_comments:
+  title: Max 70 characters
+  social_image: landscape 1200 x 600px
+---
+How is Canggu ? a question I got many times now, so let me give you my opinion.&nbsp;
+
+First you need to know, when I came in 2013 Canggu did not exist ..and in the past 4 years it has grown a lot.&nbsp;
+
+But you can get the best (ish) of everything Bali has to offer. Surf, Yoga, Food heaven, Beach, Party's...&nbsp;
+
+
+
+How to get around?&nbsp;
+
+It's divided in few areas name after the beaches, to go from one area to the other you have short cuts.&nbsp;
+
+You cannot really walk around, first there are no real sidewalk, second it's queit far from one place to the other.&nbsp;
+
+So either get your own scooter ( send me a dm on insta for a contact, 70k/day) but please don't start driving here as the traffic can get crazy. If you don't know how to drive you can get a Grab ( download the app and just order a drive when you need one).&nbsp;
+
+* Berawa
+* Batu Bolong Beach
+* Echo Beach
+* Pererenan ( new area)
+
+BERAWA
+
+Jl. Raya Pantai Berawa.
+
+Here you will find a lot of restaurants, bars, accommodations from hostels to upper class.&nbsp;
+
+The beach is also perfect to surf from Beginner to more.. check Surf Camp.&nbsp;
+
+**Stays:**
+
+* Kosta Hostel, hostel & private room, chill place, close to the beach.&nbsp;
+* Wave House Surf Camp
+*
+
+**Eat:**
+
+**Party:**
+
+
+
+Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
+
+BATU BOLONG
+
+The heart of Canggu where you find the main street, Jl, Batu Bolong where you find many cafés, restaurants..
+
+It's also a really nice beach where you can chill, watch sunsets and surf. Perfect for all level but if you are beginner be aware of the hidden rocks at high tie.
+
+Another shortcut will lead you to Pererenan.&nbsp;
+
+**Eat:&nbsp;**
+
+ECHO BEACH&nbsp;
+
+JL. Pantai Batu Mejan.
+
+Find the famous La Brisa beach club, bohemian vibe, deep house music.
+
+PERERENAN
+
+Geographically not part of Canggu but common knowledge that it is.&nbsp;
+
+Much more quiet and new, you will find beautiful private villas and new cafés popping up.
+
+If you want quiet and serene vibe, this is for you.&nbsp;
