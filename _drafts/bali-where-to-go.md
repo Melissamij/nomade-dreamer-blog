@@ -107,4 +107,16 @@ LOMBOK
 
 Bali's sister, pretty much the same size but way more wild. I could not go this time but I did 4 years ago and loved it.&nbsp;
 
-Long deserted beach
+Lombok is Bali 20 years ago, more and more cafés and restaurants are opening in the south part.&nbsp;
+
+
+
+FLORES / KOMODO
+
+1 hour away by plane from Bali, you'll find one of the best diving spot in the world and desert beaches.&nbsp;
+
+Been to Komodo twice now, and I can only advice you to go ! Next time I will have to explore Flores island, but each time I went was to dive mostly.&nbsp;
+
+
+
+I hope this helps you to see more clearly what you can do and where, if you have any questions you can always reach out on Instagram.&nbsp;
