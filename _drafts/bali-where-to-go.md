@@ -1,20 +1,23 @@
 ---
 layout: post
 title: 'Bali, where to go ? '
-description:
+description: >-
+  Planning your vacation in Bali, but note sure where to start ? Here get an
+  overview of the places to visit.. 
 author: Mélissa
 featured: true
 categories:
   - travel
-  - city trip
   - bali
-featured_image: /uploads/copenhague-1.jpg
+featured_image: /uploads/minimalist-world-map-pin-timeline.png
 seo:
-  title:
-  description:
-  social_image: /uploads/copenhague-1.jpg
+  title: 'Bali, where to go ? '
+  description: >-
+    Planning your vacation in Bali, but note sure where to start ? Here get an
+    overview of the places to visit.. 
+  social_image: /uploads/minimalist-world-map-pin-timeline.png
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: 'bali ares, where to go Bali, Bali, Bali guide, '
   hide-from-google: false
 _comments:
   title: Max 70 characters
