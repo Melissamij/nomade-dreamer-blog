@@ -85,4 +85,26 @@ Are you looking for rice field, no one on the roads, bambou houses & flower bath
 
 Well then this is for you 100% !
 
-I drove around Sidemen and I absolutely loved it.&nbsp;
+I drove around Sidemen and I absolutely loved it. You will feel away from it all.&nbsp;
+
+
+
+NORHT BALI ( BATUR)
+
+Ready to travel off the beaten path ? Head up to the north part of Bali.&nbsp;
+
+Go hike the volcano Mount Batur, check all the waterfalls, go swim with Dolphins in Lovina, see baby turtle getting released ...&nbsp;
+
+It's an area I will go visit a bit more next time for sure.&nbsp;
+
+AROUND BALI
+
+Are you looking for peace ? Island without trafic ? Blue waters ?&nbsp;
+
+Then you should check the Gili's, Ceningan & Lembongan .
+
+LOMBOK
+
+Bali's sister, pretty much the same size but way more wild. I could not go this time but I did 4 years ago and loved it.&nbsp;
+
+Long deserted beach
