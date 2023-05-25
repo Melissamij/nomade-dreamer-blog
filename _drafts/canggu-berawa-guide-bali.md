@@ -65,7 +65,7 @@ The beach is also perfect to surf from Beginner to more.. check Surf Camp.&nbsp;
 
 * [Kosta Hostel](https://www.booking.com/hotel/id/kosta-hostel-canggu.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank" rel="noopener"}, hostel & private room, chill place, close to the beach.&nbsp;
 * Wave House Surf Camp
-* Villa putih Berawa&nbsp;
+* [Villa putih Berawa&nbsp;](https://www.booking.com/hotel/id/luxury-2-bedrooms-villa-putih-pererenan.fr.html?aid=8018659&amp;sid=ce3bd4bf7cf336fc71dbe18855fa6fa2&amp;dist=0&amp;group_adults=2&amp;keep_landing=1&amp;no_rooms=1&amp;sb_price_type=total&amp;type=total&amp;){: target="_blank" rel="noopener"}
 
 Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
 
