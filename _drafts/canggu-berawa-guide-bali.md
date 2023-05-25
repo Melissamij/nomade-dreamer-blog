@@ -107,8 +107,16 @@ Beside the beach, lots of cafés in the area as well.&nbsp;
 
 **PERERENAN**
 
-Geographically not part of Canggu but common knowledge that it is.&nbsp;
+![](/uploads/img-2408.jpg){: width="1179" height="2027"}
+
+Sunset at Sol rooftop, but you cannot really see much of the sunset so go before or after haha.&nbsp;
+
+Geographically not part of Canggu but common knowledge that it is.
 
 Much more quiet and new, you will find beautiful private villas and new cafés popping up.
 
 If you want quiet and serene vibe, this is for you.&nbsp;
+
+
+
+I hope it will help you find your way around and plan your trip. I personally love Canggu but it can get too busy for some people.&nbsp;
