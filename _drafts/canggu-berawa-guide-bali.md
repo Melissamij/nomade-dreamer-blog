@@ -24,28 +24,34 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-How is Canggu ? a question I got many times now, so let me give you my opinion.&nbsp;
+How is Canggu ? A question I got many times now...
 
-This article is to give you an idea of the area, for stays and food check related articles.&nbsp;
+This article is to give you an idea of the area, for stays and food check related articles or Instagram guides.&nbsp;
 
 First you need to know, when I came in 2013 Canggu did not exist ..and in the past 4 years it has grown a lot.&nbsp;
 
-But you can get the best (ish) of everything Bali has to offer. Surf, Yoga, Food heaven, Beach, Party's...&nbsp;
+But you can get the best (ish) of everything Bali has to offer. Surf, Yoga, Food, Beach, Party's…&nbsp;
 
 
 
-How to get around?&nbsp;
+**How to get around?&nbsp;**
 
-It's divided in few areas name after the beaches, to go from one area to the other you have short cuts.&nbsp;
+You cannot really walk around, first there are no real sidewalk, second it's quiet far from one place to the other.&nbsp;
 
-You cannot really walk around, first there are no real sidewalk, second it's queit far from one place to the other.&nbsp;
+So either, you rent a scooter&nbsp; but please don't start driving here as the traffic can get crazy.&nbsp;
 
-So either get your own scooter ( send me a dm on insta for a contact, 70k/day) but please don't start driving here as the traffic can get crazy. If you don't know how to drive you can get a Grab ( download the app and just order a drive when you need one).&nbsp;
+Either you can get a [Grab](https://www.grab.com/id/en/){: target="_blank" rel="noopener"}&nbsp;or [Gojek](https://www.gojek.com/en-id/){: target="_blank" rel="noopener"} ( download the app and just order a drive when you need one).&nbsp;
+
+**The different areas.**
+
+It's divided in **few areas** name after the beaches, to go from one area to the other you have short cuts.&nbsp;
 
 * Berawa
-* Batu Bolong Beach
+* Batu Bolong Beach ( center)
 * Echo Beach
 * Pererenan ( new area)
+
+![](/uploads/minimalist-world-map-pin-timeline-1.png){: .center width="1024" height="768"}
 
 BERAWA
 
@@ -77,8 +83,6 @@ JL. Pantai Batu Mejan.
 
 Find the famous La Brisa beach club, bohemian vibe, deep house music.
 
-
-
 PERERENAN
 
 Geographically not part of Canggu but common knowledge that it is.&nbsp;
@@ -86,5 +90,3 @@ Geographically not part of Canggu but common knowledge that it is.&nbsp;
 Much more quiet and new, you will find beautiful private villas and new cafés popping up.
 
 If you want quiet and serene vibe, this is for you.&nbsp;
-
-&nbsp;
