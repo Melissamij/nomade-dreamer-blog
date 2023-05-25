@@ -8,11 +8,10 @@ author: Mélissa
 featured: true
 categories:
   - travel
-  - city trip
-  - Europe
-featured_image: /uploads/copenhague-1.jpg
+  - bali
+featured_image: /uploads/img-9851.JPG
 seo:
-  title: week end in Copenhagen
+  title:
   description: >-
     Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
     end.
