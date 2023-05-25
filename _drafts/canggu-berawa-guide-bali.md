@@ -24,6 +24,8 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+![](/uploads/img-9851.JPG){: width="3024" height="4032"}
+
 How is Canggu ? A question I got many times now…
 
 This article is to give you an idea of the area, for stays and food check related articles or Instagram guides.&nbsp;
