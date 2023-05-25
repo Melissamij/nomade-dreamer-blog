@@ -91,11 +91,19 @@ Another shortcut will lead you to Pererenan.&nbsp;
 
 **ECHO BEACH&nbsp;**
 
+![](/uploads/img-9775-jpg.webp){: .one-third-image width="2419" height="3225"}![](/uploads/img-9776.webp){: .one-third-image width="2419" height="3225"}![](/uploads/img-9778-jpg.webp){: .one-third-image width="2419" height="3225"}
 
+Pictures at La Brisa Farmers Market on Sunday ( 10 am to 14pm).
 
 JL. Pantai Batu Mejan.
 
 Find the famous La Brisa beach club, bohemian vibe, deep house music.
+
+I love the vibe and would recommend it if you want to enjoy a good drink at sunset, take a bin bag ( 300k min spend). Food is also really good.&nbsp;
+
+Famous beach for surfing, enjoy the show all day long. A lot of places cheaper where you can chill during the day.&nbsp;
+
+Beside the beach, lots of cafés in the area as well.&nbsp;
 
 **PERERENAN**
 
