@@ -24,7 +24,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-How is Canggu ? A question I got many times now...
+How is Canggu ? A question I got many times now…
 
 This article is to give you an idea of the area, for stays and food check related articles or Instagram guides.&nbsp;
 
@@ -32,15 +32,13 @@ First you need to know, when I came in 2013 Canggu did not exist ..and in the pa
 
 But you can get the best (ish) of everything Bali has to offer. Surf, Yoga, Food, Beach, Party's…&nbsp;
 
-
-
 **How to get around?&nbsp;**
 
 You cannot really walk around, first there are no real sidewalk, second it's quiet far from one place to the other.&nbsp;
 
 So either, you rent a scooter&nbsp; but please don't start driving here as the traffic can get crazy.&nbsp;
 
-Either you can get a [Grab](https://www.grab.com/id/en/){: target="_blank" rel="noopener"}&nbsp;or [Gojek](https://www.gojek.com/en-id/){: target="_blank" rel="noopener"} ( download the app and just order a drive when you need one).&nbsp;
+Either you can get a [Grab](https://www.grab.com/id/en/){: target="_blank"}&nbsp;or [Gojek](https://www.gojek.com/en-id/){: target="_blank"} ( download the app and just order a drive when you need one).&nbsp;
 
 **The different areas.**
 
@@ -63,9 +61,9 @@ The beach is also perfect to surf from Beginner to more.. check Surf Camp.&nbsp;
 
 **Stays:**
 
-* [Kosta Hostel](https://www.booking.com/hotel/id/kosta-hostel-canggu.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank" rel="noopener"}, hostel & private room, chill place, close to the beach.&nbsp;
-* [Wave House Surf Camp](	https://www.booking.com/hotel/id/wave-house.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2){: target="_blank" rel="noopener"}
-* [Villa putih Berawa&nbsp;](https://www.booking.com/hotel/id/luxury-2-bedrooms-villa-putih-pererenan.fr.html?aid=8018659&amp;sid=ce3bd4bf7cf336fc71dbe18855fa6fa2&amp;dist=0&amp;group_adults=2&amp;keep_landing=1&amp;no_rooms=1&amp;sb_price_type=total&amp;type=total&amp;){: target="_blank" rel="noopener"}
+* [Kosta Hostel](https://www.booking.com/hotel/id/kosta-hostel-canggu.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}, hostel & private room, chill place, close to the beach.&nbsp;
+* [Wave House Surf Camp](https://www.booking.com/hotel/id/wave-house.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2){: target="_blank"}
+* [Villa putih Berawa&nbsp;](https://www.booking.com/hotel/id/luxury-2-bedrooms-villa-putih-pererenan.fr.html?aid=8018659&amp;sid=ce3bd4bf7cf336fc71dbe18855fa6fa2&amp;dist=0&amp;group_adults=2&amp;keep_landing=1&amp;no_rooms=1&amp;sb_price_type=total&amp;type=total&amp;){: target="_blank"}
 
 Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
 
@@ -80,8 +78,6 @@ Another shortcut will lead you to Pererenan.&nbsp;
 **Stays:**
 
 * Belajar
-
-
 
 ECHO BEACH&nbsp;
 
