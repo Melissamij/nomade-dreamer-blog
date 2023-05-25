@@ -53,7 +53,7 @@ It's divided in **few areas** name after the beaches, to go from one area to the
 
 ![](/uploads/minimalist-world-map-pin-timeline-1.png){: .center width="1024" height="768"}
 
-BERAWA
+**BERAWA**
 
 Jl. Raya Pantai Berawa.
 
@@ -63,19 +63,25 @@ The beach is also perfect to surf from Beginner to more.. check Surf Camp.&nbsp;
 
 **Stays:**
 
-* Kosta Hostel, hostel & private room, chill place, close to the beach.&nbsp;
+* [Kosta Hostel](https://www.booking.com/hotel/id/kosta-hostel-canggu.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank" rel="noopener"}, hostel & private room, chill place, close to the beach.&nbsp;
 * Wave House Surf Camp
 * Villa putih Berawa&nbsp;
 
 Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
 
-BATU BOLONG
+**BATU BOLONG**
 
 The heart of Canggu where you find the main street, Jl, Batu Bolong where you find many cafés, restaurants..
 
 It's also a really nice beach where you can chill, watch sunsets and surf. Perfect for all level but if you are beginner be aware of the hidden rocks at high tie.
 
 Another shortcut will lead you to Pererenan.&nbsp;
+
+**Stays:**
+
+* Belajar
+
+
 
 ECHO BEACH&nbsp;
 
