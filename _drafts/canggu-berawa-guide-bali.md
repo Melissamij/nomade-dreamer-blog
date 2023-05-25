@@ -12,12 +12,10 @@ categories:
 featured_image: /uploads/img-9851.JPG
 seo:
   title:
-  description: >-
-    Planning a trip in Copenhagen? Get all the infos you need to enjoy your week
-    end.
-  social_image: /uploads/copenhague-1.jpg
+  description:
+  social_image: /uploads/img-9851.JPG
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: ' travel blog'
   hide-from-google: false
 _comments:
   title: Max 70 characters
