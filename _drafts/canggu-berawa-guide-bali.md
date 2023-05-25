@@ -55,6 +55,10 @@ It's divided in **few areas** name after the beaches, to go from one area to the
 
 **BERAWA**
 
+![](/uploads/img-0659.JPG){: width="3024" height="4032"}
+
+Sunset at Caravan.&nbsp;
+
 Jl. Raya Pantai Berawa.
 
 Here you will find a lot of restaurants, bars, accommodations from hostels to upper class.&nbsp;
@@ -71,6 +75,10 @@ Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.
 
 **BATU BOLONG**
 
+![](/uploads/img-0691.webp){: width="2419" height="3225"}
+
+Morning at The Times Warung, my favorite place for morning coffee and post surf relax.
+
 The heart of Canggu where you find the main street, Jl, Batu Bolong where you find many cafés, restaurants..
 
 It's also a really nice beach where you can chill, watch sunsets and surf. Perfect for all level but if you are beginner be aware of the hidden rocks at high tie.
@@ -79,9 +87,9 @@ Another shortcut will lead you to Pererenan.&nbsp;
 
 **Stays:**
 
-* Belajar
+* [Belajar](https://belajarbali.com/){: target="_blank" rel="noopener"}
 
-ECHO BEACH&nbsp;
+**ECHO BEACH&nbsp;**
 
 JL. Pantai Batu Mejan.
 
