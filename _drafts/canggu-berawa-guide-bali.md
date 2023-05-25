@@ -91,11 +91,13 @@ Another shortcut will lead you to Pererenan.&nbsp;
 
 **ECHO BEACH&nbsp;**
 
+
+
 JL. Pantai Batu Mejan.
 
 Find the famous La Brisa beach club, bohemian vibe, deep house music.
 
-PERERENAN
+**PERERENAN**
 
 Geographically not part of Canggu but common knowledge that it is.&nbsp;
 
