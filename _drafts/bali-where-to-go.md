@@ -40,8 +40,9 @@ Let's start with an overall idea of the different areas.
 Then the other islands around that you should add to your list.&nbsp;
 
 * The Gili Islands
-* Nusa Lembogan, Ceningan & Penida
-* Flores
+* Nusa Lembogan, Ceningan
+* Nusa Penida
+* Flores / Komodo&nbsp;
 * Lombok
 
 CANGGU&nbsp;
