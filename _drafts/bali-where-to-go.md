@@ -53,9 +53,9 @@ Canggu has became the must place to go to. When I went to Bali 12 years ago for 
 
 But today you cannot miss it. Canggu has it all !
 
-Perfect beaches to learn to surf & chill, yoga centers, the best cafés on the island, beach club, coolest boutique and amazing hotels / villas.&nbsp;
+Perfect beaches to learn to surf & chill, yoga, the best cafés on the island, beach club, coolest boutique and amazing hotels / villas.&nbsp;
 
-But you need to be ready for heavy trafic, chaos as well haha.&nbsp;
+It's my favorite area of Bali but it's not everyone cup of tea as it's quiet busy.&nbsp;
 
 ![](/uploads/img-9851.JPG){: width="3024" height="4032"}
 
