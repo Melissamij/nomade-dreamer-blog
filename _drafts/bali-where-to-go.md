@@ -23,13 +23,13 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Planning vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
+Planning your vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
 
-![](/uploads/minimalist-world-map-pin-timeline.png){: width="1024" height="768"}
+![](/uploads/img-0691.webp){: width="2419" height="3225"}
 
 ( Note: related post will be added about each areas with hotels, restaurants and what to see … )&nbsp;
 
-Let's start with an overall idea of the different areas.
+Let's start with an overall idea of the **different areas**.
 
 * Canggu&nbsp;
 * Uluwatu ( The bukit South)
@@ -37,15 +37,17 @@ Let's start with an overall idea of the different areas.
 * Sidemen ( East)
 * North Bali&nbsp;
 
+![](/uploads/minimalist-world-map-pin-timeline-1.png){: width="1024" height="768"}
+
 Then the other islands around that you should add to your list.&nbsp;
 
-* The Gili Islands
 * Nusa Lembogan, Ceningan
 * Nusa Penida
-* Flores / Komodo&nbsp;
 * Lombok
+* The Gili Islands
+* Flores / Komodo&nbsp;
 
-CANGGU&nbsp;
+**CANGGU&nbsp;**
 
 Canggu has became the must place to go to. When I went to Bali 12 years ago for the first time, I did not even heard about it.&nbsp;
 
@@ -57,7 +59,7 @@ But you need to be ready for heavy trafic, chaos as well haha.&nbsp;
 
 ![](/uploads/img-9851.JPG){: width="3024" height="4032"}
 
-ULUWATU ( THE BUKIT)
+**ULUWATU ( THE BUKIT)**
 
 If you are looking for a place to relax, blue water … Uluwatu is for you.&nbsp;
 
@@ -71,7 +73,7 @@ Enjoy the steep stairs, narrow street to find the most pretty beaches.&nbsp;
 
 ![](/uploads/img-4764.JPG){: width="3024" height="4032"}
 
-UBUD&nbsp;
+**UBUD&nbsp;**
 
 Probably the most known place of Bali.&nbsp;
 
@@ -83,7 +85,7 @@ I would recommend to go for few nights to explore the area.&nbsp;
 
 ![](/uploads/dji-0130.jpg){: width="1688" height="3000"}
 
-SIDEMEN
+**SIDEMEN**
 
 Are you looking for rice field, no one on the roads, bambou houses & flower bath ?&nbsp;
 
@@ -93,7 +95,7 @@ I drove around Sidemen and I absolutely loved it. You will feel away from it all
 
 ![](/uploads/dji-20230402-152903-363.JPG){: .one-third-image width="2268" height="4032"}![](/uploads/dji-0142.JPG){: .one-third-image width="1688" height="3000"}
 
-NORHT BALI ( BATUR)
+**NORHT BALI ( BATUR)**
 
 Ready to travel off the beaten path ? Head up to the north part of Bali.&nbsp;
 
@@ -103,19 +105,19 @@ It's an area I will go visit a bit more next time for sure.&nbsp;
 
 ![](/uploads/img-0337.JPG){: width="3024" height="4032"}
 
-AROUND BALI
+**AROUND BALI**
 
 Are you looking for peace ? Island without trafic ? Blue waters ?&nbsp;
 
 Then you should check the Gili's, Ceningan & Lembongan .
 
-LOMBOK
+**LOMBOK**
 
 Bali's sister, pretty much the same size but way more wild. I could not go this time but I did 4 years ago and loved it.&nbsp;
 
 Lombok is Bali 20 years ago, more and more cafés and restaurants are opening in the south part.&nbsp;
 
-FLORES / KOMODO
+**FLORES / KOMODO**
 
 1 hour away by plane from Bali, you'll find one of the best diving spot in the world and desert beaches.&nbsp;
 
