@@ -2,7 +2,7 @@
 layout: post
 title: 'Bali, where to go ? '
 description: >-
-  Planning your vacation in Bali, but note sure where to start ? Here get an
+  Planning your vacation in Bali, but not sure where to start ? Here get an
   overview of the places to visit.. 
 author: Mélissa
 featured: true
