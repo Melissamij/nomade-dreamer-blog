@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - bali
-featured_image: /uploads/img-0691.webp
+featured_image: /uploads/Times.webp
 seo:
   title: 'Bali, where to go ? '
   description: >-
@@ -28,7 +28,7 @@ _comments:
 Planning your vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
 {: .center}
 
-![](/uploads/img-0691.webp){: width="2419" height="3225"}
+![](/uploads/Times.webp){: width="2419" height="3225"}
 
 ( Note: related post will be added about each areas with hotels, restaurants and what to see … )&nbsp;
 
