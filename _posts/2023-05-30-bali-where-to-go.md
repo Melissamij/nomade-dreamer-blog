@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - bali
-featured_image: /uploads/minimalist-world-map-pin-timeline.png
+featured_image: /uploads/img-0691.webp
 seo:
   title: 'Bali, where to go ? '
   description: >-
