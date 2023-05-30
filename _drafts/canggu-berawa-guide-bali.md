@@ -11,11 +11,13 @@ categories:
   - bali
 featured_image: /uploads/img-9851.JPG
 seo:
-  title:
-  description:
+  title: Canggu by area
+  description: >-
+    Canggu is the place to go in Bali but it get get overwhelming. Let me help
+    you understand the areas, where to go ..
   social_image: /uploads/img-9851.JPG
   twitter_card:
-  keywords: ' travel blog'
+  keywords: ' travel blog, canggu, berawa, batu bolong, bali blog, '
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -84,7 +86,7 @@ Another shortcut will lead you to Pererenan.&nbsp;
 
 **Stays:**
 
-* [Belajar](https://belajarbali.com/){: target="_blank" rel="noopener"}
+* [Belajar](https://belajarbali.com/){: target="_blank"}
 
 **ECHO BEACH&nbsp;**
 
@@ -113,7 +115,5 @@ Geographically not part of Canggu but common knowledge that it is.
 Much more quiet and new, you will find beautiful private villas and new cafés popping up.
 
 If you want quiet and serene vibe, this is for you.&nbsp;
-
-
 
 I hope it will help you find your way around and plan your trip. I personally love Canggu but it can get too busy for some people.&nbsp;
