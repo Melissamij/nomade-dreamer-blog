@@ -15,9 +15,11 @@ seo:
   description: >-
     Planning your vacation in Bali, but note sure where to start ? Here get an
     overview of the places to visit.. 
-  social_image: /uploads/minimalist-world-map-pin-timeline.png
+  social_image: /uploads/img-0691.webp
   twitter_card:
-  keywords: 'bali ares, where to go Bali, Bali, Bali guide, '
+  keywords: >-
+    bali ares, where to go Bali, Bali, Bali guide, visit bali, bali blog, travel
+    blog
   hide-from-google: false
 _comments:
   title: Max 70 characters
