@@ -26,6 +26,7 @@ _comments:
   social_image: landscape 1200 x 600px
 ---
 Planning your vacation to Bali ? Don't know where to start ? I got you covered.&nbsp;
+{: .center}
 
 ![](/uploads/img-0691.webp){: width="2419" height="3225"}
 
