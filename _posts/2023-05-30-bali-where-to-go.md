@@ -96,7 +96,7 @@ Well then this is for you 100% !
 
 I drove around Sidemen and I absolutely loved it. You will feel away from it all.&nbsp;
 
-![](/uploads/dji-20230402-152903-363.JPG){: .one-third-image width="2268" height="4032"}![](/uploads/dji-0142.JPG){: .one-third-image width="1688" height="3000"}
+![](/uploads/dji-20230402-152903-363.JPG){: .one-third-image width="2268" height="4032"}![](/uploads/dji-0142.JPG){: .one-third-image width="1688" height="3000"}![](/uploads/hideout.webp){: .one-third-image width="1728" height="3072"}
 
 **NORHT BALI ( BATUR)**
 
