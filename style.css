@@ -531,10 +531,13 @@ hr.short.center {
 }
 
 
-/* ------------ Page Name  ----------------------- */
+/* ------------ about Name  ----------------------- */
 
 
-
+/* The following styles should go under the Background Images */
+.profile-image {
+  border-radius: 100%;
+}
 
 
 
