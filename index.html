@@ -10,15 +10,6 @@ seo:
   twitter_card:
   keywords: travel blog, lifestyle blog, life abroad, city trips, photography
   hide-from-google: false
-team:
-  '-name': Mélissa
-  bio: 'Travel & Food '
-  description: >-
-    To make it short before my travel timeline, I am an Island, Sun, Ocean
-    lover. In love with diving & freediving, dream of becoming a surfer one day.
-    I am a foodie, always looking for the best places to have a food experience.
-    Planet lover, so I try to make the most conscious choices...
-  profile_image: images/hideout.jpg
 ---
 <!------------------------ Image Banner  ------------------------>
 <section class="bg-image padded grid bg-overlay tall-90">
@@ -78,36 +69,21 @@ team:
 </section> 
 
 <!------------------------About Banner------->
-<!--<section class="padded">
+<section class="padded grid">
     <div class="capped-width-narrow center">
-
-        <h2 class="center">About</h2>  
-        <p>To make it short before my travel timeline, I am an Island, Sun, Ocean lover. In love with diving & freediving, dream of becoming a surfer one day. 
-            <br />I am a foodie, always looking for the best places to have a food experience. </p>
-        <p>Planet lover, so I try to make the most concious choices</p>
-        <a href="/about.html" class="button">Tell me more</a>
+        <div class="col-5_sm-12">
+            <img src="/images/hideout.JPG" class="profile-image" />
+        </div>
+        <div class="col-7_sm-12">
+            <h2 class="center">About</h2>  
+            <p>To make it short before my travel timeline, I am an Island, Sun, Ocean lover. In love with diving & freediving, dream of becoming a surfer one day. 
+                <br />I am a foodie, always looking for the best places to have a food experience. </p>
+            <p>Planet lover, so I try to make the most concious choices</p>
+            <a href="/about.html" class="button">Tell me more</a>
+        </div>
     </div>
-</section>-->
-
-<!------------------------About Test Banner------->
-<section class="padded">
-    <div class="capped-width center">
-        {% for person in page.team %}
-
-        <div class="grid ">
-            <div class="col-5 padded-2">
-                <img src="{{person.profile_image}}" class="profile-image" />
-               </div>
-               <div class="col-7-middle padded-1">
-                   <h3>About {{person.name}}</h3>
-                   <p><strong>{{person.bio}}</strong></p>
-                   <p>{{person.description}}</p>
-                   <a href="/about.html" class="button">Tell me more</a>
-               </div>
-           </div>
-    
-           {% endfor %}
-           </div>
 </section>
+
+
 
 
