@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surf Camp Bali
+title: Surf, stay & eat at Wave House Bali
 description: You also dream to learn how to surf? Found the perfect place for you.
 author: Mélissa
 featured: true
@@ -22,85 +22,71 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-#### INFORMATION
+####
 
-*If you dream to learn to surf but don't know where to start you are in the right place.&nbsp;*
+Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
-*When I planned my solo trip to Bali, my goal was to learn surfing and meet people. What's best than a surf camp ? But then which one to chose ?&nbsp;*
+If you dream to learn to surf but don't know where to start you are in the right place.&nbsp;
+
+When I planned my solo trip to Bali, my goal was to learn surfing and meet people. What's best then a surf camp ? But then which one to chose ?&nbsp;
 
 I booked at Wave House and let me explain how good it was.&nbsp;
 
+Wave house it's a luxury surf camp at fair price.&nbsp;
+
+#### INFORMATION
+
+You can book either a private room, private loft or a dorm room for smaller budget & solo travelers. All rooms are surrounding the pools and restaurants.&nbsp;
+
+The surf camp includes Surf & Stay, daily surf sessions with instructor, breakfast and additional activities. All included.
+
+**Location:** Wave House is in Canggu area, in Berawa exactly. You are within walking distance to the beach and 5 min drive to lots of cafés and cool places.&nbsp;
+
+**Surf:** You have a 2h surf session every day by group level ( beginner, intermediate & advanced). The spots varies depending on conditions. We had 2 to 3 instructor per group of 6 people so they really had time for each of us.&nbsp;
+
+**Breakfast:**&nbsp; Every morning after our surf sesh you have a choice of à la carte menu breakfast to chose from while watching the video of the day.&nbsp;
+
+#### SURF
+
+Well that's why you come for right?&nbsp;
+
+I tried surfing before one day here and one day there but this time was the best.&nbsp;
+
+Going every day in the water with instructors that have time for you makes a huge dif.
+
+Also the **video / photography** part is amazing because you can really analyse what you need to improve and you get cool memories as well.&nbsp;
+
+You can download them for free daily !&nbsp;
+
+If you still have the energy and want to go for a session during the day you can use the **boards for free**.&nbsp;&nbsp;
+
+#### ACCOMODATION
+
+You have few choices regarding accommodation depending on your budget.&nbsp;
+
+I took a **Girls dorm room** and it was perfect, also mix dorms available.
+
+because I met really cool girls.&nbsp;
+
+Basically it's like a small house with a big room and an amazing bathroom just for the 4 of us. If you ever stayed in Hostels you know that is luxury.&nbsp;
+
+Price starts at 880.000 IDR ( 50€). 4 beds which are super comfortable and steady.&nbsp;
+
+#### **WORKOUT**
+
+####
+
+**Gym:&nbsp;** If you like to train, there is an area for it in the camp but the best part is you have access to Finn's recreation club. Which means an amazing gym, co-working space and the recreation park !&nbsp;
+
+**Yoga:** Five days a week there is a yoga class free to attend.&nbsp; All you need to do is sign up. The teacher was one of the best I tried and it's perfect for your surf practice.&nbsp;
 
 
 
+####
 
-#### TRANSPORT
-
-***From the airport***, we took a taxi from the airport directly to the Gellert Thermal and
-
-##### Parlamento
-
-![](/uploads/img-7326-2.JPG){: width="3024" height="4032"}
-
-#####
-
-
-
-##### Liberty Bridge
-
-![](/uploads/img-7407.JPG){: .one-third-image width="3024" height="4032"}![](/uploads/img-7192.JPG){: .one-third-image width="3024" height="4032"}![](/budapest/IMG_7385.JPG){: .one-third-image width="3024" height="4032"}
-
-##### Gellért Hill / Bath
-
-Go there at sunset to have the light over the city. Lots of stairs but worth it. Takes around 15min to go up.
-
-There is two ways to go up, from Géllert Bath or from the next bridge ( the new one).
-
-At the top you will see the **Liberty Statue.** It was on renovation when we went but I imagine the view must be amazing when open.
-
-You can do it either when you go the the Gellért Bath or another time, it's right next to it.
-
-![](/budapest/IMG_7170.JPG){: .one-third-image width="3024" height="4032"}![](/budapest/IMG_7177.JPG){: .one-third-image width="3024" height="4032"}![](/budapest/IMG_7174.JPG){: .one-third-image width="3010" height="4013"}
-
-#### Going out:
-
-Budapest is known to go out. Unfortunately it was a busy week-end and long days so we did not go out.
-
-We tried a Ruin Bar in the center, which was really nice. In that area you will find lots of bars and clubs.
-
-* Szimpla Kert
-
-
-
-#### Where to eat ?
-
-Olalala the food places in Budapest ! I was really surprised by the amount of brunch places you can find.
-
-I recommend you to check the instagram page of @[budapestfoodguide](https://www.instagram.com/budapestfoodguide/){: target="_blank" rel="noopener"} for inspiration.
-
-But here is a list of places we tried and can recommend.
-
-###### Brunch:
-
-* Lion's Locker
-* Cookie Beacon
-
-![](/uploads/img-0905.JPG){: width="3024" height="4032"}
-
-###### Dinner:
-
-Remember to book if you go on week-ends, Saturday everything was fully booked. I book for Sunday and luckily, when we arrived there was a huge line.
-
-* Karavan (street food)
-* Kollázs ( French Bistro)
-* TwentySix ( Mediterranean Food)
-* Mazel Tov (Mediterranean Food)
-
-![](/uploads/img-7446.JPG){: width="3024" height="4032"}
-{: .center}
+####
 
 I think with that you have all you need to start planing your week end, send me a DM on instagram if you have any questions. And have a great trip!
-{: .center}
 
 But don't miss this city, it's a must see in Europe.
 {: .center}
