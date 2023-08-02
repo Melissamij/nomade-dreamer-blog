@@ -1,28 +1,28 @@
 ---
 layout: post
 title: Surf, stay & eat at Wave House Bali
-description: You also dream to learn how to surf? Found the perfect place for you.
+description: 'Learn how to surf in Bali ! The best stay to do it... '
 author: Mélissa
 featured: true
 categories:
   - travel
   - bali
   - surf
-featured_image: ''
+featured_image: /uploads/surf-camp-bali/63A01FD5-C6DD-43CD-A432-BA36FEF4.webp
 seo:
   title: Surf Camp Bali
   description: >-
     You want to learn how to surf but not sure where to go.. Read that blog post
     and you will be ready to go. 
-  social_image: ''
+  social_image: /uploads/surf-camp-bali/IMG_FEC5C3EC3CD6-1.jpeg
   twitter_card:
-  keywords: 'bali, surf camp, surf, bali surf, '
+  keywords: bali, surf camp, surf, bali surf, surf bali, canggu surf camp
   hide-from-google: false
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/uploads/wavehouse.webp){: .center width="2160" height="3840"}
+#### ![](/uploads/wavehouse.webp){: .center width="2160" height="3840"}
 
 Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
@@ -46,13 +46,13 @@ The surf camp includes Surf & Stay, daily surf sessions with instructor, breakfa
 
 **Breakfast:**&nbsp; Every morning after our surf sesh you have a choice of à la carte menu breakfast to chose from while watching the video of the day.&nbsp;
 
-![](/uploads/img-9863.webp){: .-image width="3024" height="4032"}![](/uploads/img-9726.webp){: .-image width="3024" height="4032"}
+#### ![](/uploads/img-9863.webp){: .-image width="3024" height="4032"}![](/uploads/img-9726.webp){: .-image width="3024" height="4032"}
 
 #### SURF
 
 Well that's why you come for right?&nbsp;
 
-![](/uploads/img-fec5c3ec3cd6-1.jpeg){: .-image width="1179" height="2068"}![](/uploads/img-9945.webp){: .-image width="1179" height="2076"}
+#### ![](/uploads/img-fec5c3ec3cd6-1.jpeg){: .-image width="1179" height="2068"}![](/uploads/img-9945.webp){: .-image width="1179" height="2076"}
 
 I tried surfing before one day here and one day there but this time was the best.&nbsp;
 
@@ -90,10 +90,16 @@ From 136.000 to 248.000 IDR.&nbsp;
 
 The best part is that I met so many nice people, girls that I kept seing during my time in Bali.&nbsp;
 
-![](/uploads/img-3722.webp){: .-image width="3024" height="4032"}![](/uploads/img-3721.webp){: .-image width="3024" height="4032"}
+#### ![](/uploads/img-3722.webp){: .-image width="3024" height="4032"}![](/uploads/img-3721.webp){: .-image width="3024" height="4032"}
 
-![](/uploads/img-8360.webp){: width="3088" height="2320"}
+#### ![](/uploads/img-8360.webp){: width="3088" height="2320"}
 
-I think with that you have all you need to start planing your week end, send me a DM on instagram if you have any questions. And have a great trip!
+#### BUDGET
 
-But don't miss this city, it's a must see in Europe.
+So for a week I spend around 380€ for accommodation, surf lesson, breakfast.&nbsp;
+
+You need to add your laundry 1 or 2 extra meals, scooter. So around 500€ for a full week all included.&nbsp;
+
+Send me a DM on [instagram](https://www.instagram.com/nomadedreamer/){: target="_blank" rel="noopener"} if you have any questions. If you need more tips on Bali check other blog post or get your [**Bali Guide**](https://nomadedreamer.gumroad.com/l/baliguide){: target="_blank" rel="noopener"}&nbsp;(93 pages of content, all my adresses with google map links, itinerary, what to see per area and so much more).
+
+And have a great trip!
