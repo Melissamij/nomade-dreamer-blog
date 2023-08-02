@@ -22,6 +22,8 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+![](/uploads/63a01fd5-c6dd-43cd-a432-ba36fef4.webp){: width="2160" height="3840"}
+
 Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
 If you dream to learn to surf but don't know where to start you are in the right place.&nbsp;
@@ -44,9 +46,13 @@ The surf camp includes Surf & Stay, daily surf sessions with instructor, breakfa
 
 **Breakfast:**&nbsp; Every morning after our surf sesh you have a choice of à la carte menu breakfast to chose from while watching the video of the day.&nbsp;
 
+![](/uploads/img-9863.webp){: .-image width="3024" height="4032"}![](/uploads/img-9726.webp){: .-image width="3024" height="4032"}
+
 #### SURF
 
 Well that's why you come for right?&nbsp;
+
+![](/uploads/img-fec5c3ec3cd6-1.jpeg){: .-image width="1179" height="2068"}![](/uploads/img-9945.webp){: .-image width="1179" height="2076"}
 
 I tried surfing before one day here and one day there but this time was the best.&nbsp;
 
@@ -64,7 +70,9 @@ You have few choices regarding accommodation depending on your budget.&nbsp;
 
 I took a **Girls dorm room** and it was perfect, also mix dorms available.
 
-Basically it's like a small house with a big room and an amazing bathroom just for the 4 of us. If you ever stayed in Hostels you know that is luxury.&nbsp;
+![](/uploads/img-9810.webp){: .-image width="3024" height="4032"}![](/uploads/img-9811.webp){: .-image width="3024" height="4032"}Basically it's like a small house with a big room and an amazing bathroom just for the 4 of us. If you ever stayed in Hostels you know that is luxury.&nbsp;
+
+The cleaning team was coming every day to clean the room, we had a small basket each to put our laundry if needed ( price was fair).&nbsp;
 
 Price starts at 880.000 IDR ( 50€). 4 beds which are super comfortable and steady.&nbsp;
 
@@ -82,7 +90,11 @@ From 136.000 to 248.000 IDR.&nbsp;
 
 
 
-####
+#### PEOPLE
+
+The best part is that I met so many nice people, girls that I kept seing during my time in Bali.&nbsp;
+
+![](/uploads/img-3722.webp){: .-image width="3024" height="4032"}![](/uploads/img-3721.webp){: .-image width="3024" height="4032"}![](/uploads/img-8360.webp){: width="3088" height="2320"}
 
 ####
 
