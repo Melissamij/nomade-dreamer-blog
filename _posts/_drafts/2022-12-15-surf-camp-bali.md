@@ -82,21 +82,19 @@ From 136.000 to 248.000 IDR.&nbsp;
 
 #### **WORKOUT**
 
-####
+\####
 
 **Gym:&nbsp;** If you like to train, there is an area for it in the camp but the best part is you have access to Finn's recreation club. Which means an amazing gym, co-working space and the recreation park !&nbsp;
 
 **Yoga:** Five days a week there is a yoga class free to attend.&nbsp; All you need to do is sign up. The teacher was one of the best I tried and it's perfect for your surf practice.&nbsp;
 
-
-
 #### PEOPLE
 
 The best part is that I met so many nice people, girls that I kept seing during my time in Bali.&nbsp;
 
-![](/uploads/img-3722.webp){: .-image width="3024" height="4032"}![](/uploads/img-3721.webp){: .-image width="3024" height="4032"}![](/uploads/img-8360.webp){: width="3088" height="2320"}
+![](/uploads/img-3722.webp){: .-image width="3024" height="4032"}![](/uploads/img-3721.webp){: .-image width="3024" height="4032"}
 
-####
+![](/uploads/img-8360.webp){: width="3088" height="2320"}
 
 I think with that you have all you need to start planing your week end, send me a DM on instagram if you have any questions. And have a great trip!
 
