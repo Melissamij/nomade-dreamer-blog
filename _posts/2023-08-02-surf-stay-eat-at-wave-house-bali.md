@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-#### ![](/uploads/wavehouse.webp){: .center width="2160" height="3840"}
+#### ![](/uploads/wavehouse.webp){: .wide-image width="2160" height="3840"}
 
 Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
