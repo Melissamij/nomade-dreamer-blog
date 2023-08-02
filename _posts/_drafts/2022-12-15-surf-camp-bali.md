@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/uploads/63a01fd5-c6dd-43cd-a432-ba36fef4.webp){: width="2160" height="3840"}
+![](/uploads/wavehouse.webp){: .center width="2160" height="3840"}
 
 Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
@@ -45,8 +45,6 @@ The surf camp includes Surf & Stay, daily surf sessions with instructor, breakfa
 **Surf:** You have a 2h surf session every day by group level ( beginner, intermediate & advanced). The spots varies depending on conditions. We had 2 to 3 instructor per group of 6 people so they really had time for each of us.&nbsp;
 
 **Breakfast:**&nbsp; Every morning after our surf sesh you have a choice of à la carte menu breakfast to chose from while watching the video of the day.&nbsp;
-
-![](/uploads/img-9863.webp){: .-image width="3024" height="4032"}![](/uploads/img-9726.webp){: .-image width="3024" height="4032"}
 
 #### SURF
 
