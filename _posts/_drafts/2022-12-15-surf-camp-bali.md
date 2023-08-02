@@ -82,8 +82,6 @@ From 136.000 to 248.000 IDR.&nbsp;
 
 #### **WORKOUT**
 
-\####
-
 **Gym:&nbsp;** If you like to train, there is an area for it in the camp but the best part is you have access to Finn's recreation club. Which means an amazing gym, co-working space and the recreation park !&nbsp;
 
 **Yoga:** Five days a week there is a yoga class free to attend.&nbsp; All you need to do is sign up. The teacher was one of the best I tried and it's perfect for your surf practice.&nbsp;
