@@ -22,8 +22,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-####
-
 Surf, stay, eat & repeat for a week. It's all you need to learn how to surf, meet new people and enjoy Bali vibes.&nbsp;
 
 If you dream to learn to surf but don't know where to start you are in the right place.&nbsp;
@@ -66,11 +64,13 @@ You have few choices regarding accommodation depending on your budget.&nbsp;
 
 I took a **Girls dorm room** and it was perfect, also mix dorms available.
 
-because I met really cool girls.&nbsp;
-
 Basically it's like a small house with a big room and an amazing bathroom just for the 4 of us. If you ever stayed in Hostels you know that is luxury.&nbsp;
 
 Price starts at 880.000 IDR ( 50€). 4 beds which are super comfortable and steady.&nbsp;
+
+Standard room, Deluxe room & studio with single or double option.&nbsp;
+
+From 136.000 to 248.000 IDR.&nbsp;
 
 #### **WORKOUT**
 
@@ -89,4 +89,3 @@ Price starts at 880.000 IDR ( 50€). 4 beds which are super comfortable and ste
 I think with that you have all you need to start planing your week end, send me a DM on instagram if you have any questions. And have a great trip!
 
 But don't miss this city, it's a must see in Europe.
-{: .center}
