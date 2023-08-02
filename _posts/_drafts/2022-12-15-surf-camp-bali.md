@@ -46,6 +46,8 @@ The surf camp includes Surf & Stay, daily surf sessions with instructor, breakfa
 
 **Breakfast:**&nbsp; Every morning after our surf sesh you have a choice of à la carte menu breakfast to chose from while watching the video of the day.&nbsp;
 
+![](/uploads/img-9863.webp){: .-image width="3024" height="4032"}![](/uploads/img-9726.webp){: .-image width="3024" height="4032"}
+
 #### SURF
 
 Well that's why you come for right?&nbsp;
