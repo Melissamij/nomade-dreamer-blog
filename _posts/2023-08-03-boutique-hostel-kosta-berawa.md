@@ -1,22 +1,24 @@
 ---
 layout: post
-title: Kosta Berawa & Good Mantra
+title: 'Boutique Hostel, Kosta Berawa '
 description: >-
-  Quiet hostel with hotel vibe in Canggu. I stayed 3 weeks here to explore more
-  the area. Surf, yoga, pool, restaurant...
+  Boutique hostel vibe in Canggu. Colorful, vibrant, quiet, yoga, surf and plat
+  base restaurant....
 author: Mélissa
 featured: true
 categories:
   - travel
   - bali
   - surf
-featured_image: /uploads/copenhague-1.jpg
+featured_image: /uploads/kosta-room.jpeg
 seo:
-  title:
-  description:
-  social_image: /uploads/copenhague-1.jpg
+  title: 'Boutique Hostel, Kosta Berawa '
+  description: >-
+    Boutique hostel vibe in Canggu. Colorful, vibrant, quiet, yoga, surf and
+    plat base restaurant....
+  social_image: /uploads/kosta-room.jpeg
   twitter_card:
-  keywords:
+  keywords: boutique hostel, hostel bali, bali stay, cheap stay bali, plant base food
   hide-from-google: false
 _comments:
   title: Max 70 characters
