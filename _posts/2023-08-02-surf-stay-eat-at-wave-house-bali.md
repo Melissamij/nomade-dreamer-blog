@@ -34,6 +34,8 @@ I booked at Wave House and let me explain how good it was.&nbsp;
 
 Wave house it's a luxury surf camp at fair price.&nbsp;
 
+[Check availabilty at Wave House here!](https://www.booking.com/hotel/id/wave-house.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2){: target="_blank" rel="noopener"}
+
 #### INFORMATION
 
 You can book either a private room, private loft or a dorm room for smaller budget & solo travelers. All rooms are surrounding the pools and restaurants.&nbsp;
