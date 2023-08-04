@@ -33,7 +33,7 @@ Perfect place to either arrive or leave Bali.&nbsp;
 
 #### SUITE
 
-Large beautiful room, they thought of all details ( usb charger next to the bed), storage for your clothing, light blocking curtains ...&nbsp;
+Large beautiful room, they thought of all details ( usb charger next to the bed), storage for your clothing, light blocking curtains …&nbsp;
 
 The bathroom look like an open one but it's closed. Stunning is all I have to say.&nbsp;
 
