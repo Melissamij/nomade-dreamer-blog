@@ -23,9 +23,9 @@ seo:
     Are you a nature enthusiast seeking an unforgettable adventure in Bali? 
 
     Look no further than hiking Mount Batur. 
-  social_image: /uploads/copenhague-1.jpg
+  social_image: /uploads/batur-1.webp
   twitter_card:
-  keywords: citytrip, visit copenhagen, week end in copenhagen, travel blog
+  keywords: 'mount batur, hike batur, bali hike, bali, '
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -43,11 +43,11 @@ This iconic volcano not only offers a challenging trek but also rewards hikers w
 
 In this blog post, I’ll delve into the details of hiking Mount Batur, including the price, the best season to embark on this journey, and the unparalleled beauty that awaits atop this majestic peak
 
-#### Where to Start:
+#### Where to Start?
 
 The Mount Batur hike usually begins from Toya Bungkah village, situated at the base of the volcano. From here, you'll join fellow trekkers and local guides for a memorable journey to the summit. The trek is manageable for hikers of varying fitness levels, making it a popular choice for adventurers of all kinds.
 
-#### Best Season to Hike:
+#### What is the best Season to Hike?
 
 Selecting the right time to hike Mount Batur is crucial for a safe and rewarding journey. Bali's tropical climate offers two distinct seasons: the dry season (April to September) and the wet season (October to March). The dry season is widely considered the best time to hike Mount Batur due to the lower chances of rain and clearer skies. This period ensures better visibility during the ascent and at the summit, allowing trekkers to witness the magnificent sunrise over the surrounding landscapes, which include Lake Batur and Mount Agung in the distance.
 
@@ -55,7 +55,7 @@ It's important to note that while hiking is possible during the wet season (Octo
 
 #### ![](/uploads/img-0342.webp){: .-image width="4032" height="3024"}![](/uploads/img-0347.webp){: .-image width="4032" height="3024"}
 
-#### The Price:
+#### How much does it cost?
 
 The cost of hiking Mount Batur can vary depending on factors such as group size, inclusions, and the negotiation skills of the traveler. On average, you can expect to pay around $40 to $60 USD, which typically covers transportation, a local guide, and breakfast at the summit. It's advisable to book your trek with a reputable tour operator to ensure a safe and well-organized experience.
 
@@ -101,10 +101,8 @@ Hiking Mount Batur is a transformative experience that brings you closer to natu
 
 Beautiful way down, I am super afraid of hight in mountains and it was fine. You'll see monkeys along the way, beautiful views and&nbsp; a temple.
 
-#### ![](/uploads/img-0442.webp){: width="3024" height="4032"}
+#### ![](/uploads/img-0442.webp){: .-image width="3024" height="4032"}![](/uploads/b55c7142-53b8-4b57-bcbc-38913c7d9fd7.jpg){: .-image width="1126" height="1500"}
 
-#### ![](/uploads/img-0441.webp){: .-image width="3024" height="4032"}![](/uploads/img-0459.webp){: .-image width="3024" height="4032"}
+#### ![](/uploads/img-0425.webp){: width="3024" height="4032"}![](/uploads/img-0441.webp){: .-image width="3024" height="4032"}![](/uploads/img-0459.webp){: .-image width="3024" height="4032"}
 
-#### ![](/uploads/img-0425.webp){: width="3024" height="4032"}
-
-#### ![](/uploads/img-0486.webp){: width="4032" height="3024"}
+#### ![](/uploads/img-0486.webp){: .wide-image width="4032" height="3024"}
