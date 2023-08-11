@@ -61,7 +61,7 @@ The cost of hiking Mount Batur can vary depending on factors such as group size,
 
 #### ![](/uploads/batur-2.webp){: width="3024" height="4032"}
 
-####
+\####
 
 #### Pro Tips:
 
@@ -77,7 +77,7 @@ The cost of hiking Mount Batur can vary depending on factors such as group size,
 
 #### ![](/uploads/batur-4.webp){: .-image width="1126" height="1500"}![](/uploads/batur-5.webp){: .-image width="3024" height="4032"}
 
-####
+\####
 
 #### The Journey:
 
@@ -85,7 +85,7 @@ Your adventure begins in the early hours of the morning, usually around 3:00 AM.
 
 The hike is considered **moderate** in terms of difficulty, making it accessible to a wide range of fitness levels.
 
-With a group of friend it's more fun...thank you girls for sharing that together.
+With a group of friend it's more fun…thank you girls for sharing that together.
 
 ![](/uploads/img-0406.webp){: .-image width="1737" height="3088"}![](/uploads/img-0402.webp){: .-image width="1737" height="3088"}
 
@@ -95,7 +95,7 @@ Hiking Mount Batur is a transformative experience that brings you closer to natu
 
 #### ![](/uploads/batur-3.webp){: .wide-image width="4032" height="3024"}
 
-####
+\####
 
 #### The way down:
 
