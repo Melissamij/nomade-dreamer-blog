@@ -1,19 +1,31 @@
 ---
 layout: post
 title: Boutique Hotel Belajar, Canggu
-description: 'The most dreamy stay you can imagine in Canggu. '
+description: >-
+  Escape to the captivating paradise of Canggu, where vibrant landscapes
+  seamlessly blend with serene coastal charm. Nestled within this enchanting
+  locale, this boutique hotel offers a haven of luxury and tranquility. This
+  blog post invites you to uncover the hidden gem that is Belajar in Canggu – a
+  destination where modern elegance meets the lush beauty of nature.
 author: Mélissa
 featured: true
 categories:
   - travel
   - bali
-featured_image: ''
+featured_image: /uploads/img-2117.jpg
 seo:
-  title:
-  description:
+  title: Boutique hotel canggu
+  description: >-
+    Escape to the captivating paradise of Canggu, where vibrant landscapes
+    seamlessly blend with serene coastal charm. Nestled within this enchanting
+    locale, this boutique hotel offers a haven of luxury and tranquility. This
+    blog post invites you to uncover the hidden gem that is Belajar in Canggu –
+    a destination where modern elegance meets the lush beauty of nature.
   social_image: ''
   twitter_card:
-  keywords:
+  keywords: >-
+    canggu, bali, boutique hotel, canggu hotel, bali stays, design bali, travel
+    tips, travel to bali, bali blog 
   hide-from-google: false
 _comments:
   title: Max 70 characters
