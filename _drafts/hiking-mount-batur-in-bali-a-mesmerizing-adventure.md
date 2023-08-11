@@ -106,3 +106,12 @@ Beautiful way down, I am super afraid of hight in mountains and it was fine. You
 #### ![](/uploads/img-0425.webp){: width="3024" height="4032"}![](/uploads/img-0441.webp){: .-image width="3024" height="4032"}![](/uploads/img-0459.webp){: .-image width="3024" height="4032"}
 
 #### ![](/uploads/img-0486.webp){: .wide-image width="4032" height="3024"}
+
+Once again I hope you enjoyed this blog post,&nbsp;
+{: .center}
+
+Send me a DM on&nbsp;[instagram](https://www.instagram.com/nomadedreamer/){: target="_blank" rel="noopener"}&nbsp;if you have any questions. If you need more tips on Bali, check other blog post or get your&nbsp;[**Bali Guide**](https://nomadedreamer.gumroad.com/l/baliguide){: target="_blank" rel="noopener"}&nbsp;(93 pages of content, all my adresses with google map links, itinerary, what to see per area and so much more).
+{: .center}
+
+And have a great trip!
+{: .center}
