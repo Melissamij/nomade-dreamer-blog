@@ -13,7 +13,7 @@ featured: true
 categories:
   - travel
   - bali
-featured_image: ''
+featured_image: /uploads/batur-1.webp
 seo:
   title: 'Hiking Mount Batur in Bali: A Mesmerizing Adventure'
   description: >-
