@@ -95,8 +95,6 @@ Hiking Mount Batur is a transformative experience that brings you closer to natu
 
 #### ![](/uploads/batur-3.webp){: .wide-image width="4032" height="3024"}
 
-\####
-
 #### The way down:
 
 Beautiful way down, I am super afraid of hight in mountains and it was fine. You'll see monkeys along the way, beautiful views and&nbsp; a temple.
