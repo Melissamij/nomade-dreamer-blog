@@ -43,9 +43,13 @@ This iconic volcano not only offers a challenging trek but also rewards hikers w
 
 In this blog post, I’ll delve into the details of hiking Mount Batur, including the price, the best season to embark on this journey, and the unparalleled beauty that awaits atop this majestic peak
 
+####
+
 #### Where to Start?
 
 The Mount Batur hike usually begins from Toya Bungkah village, situated at the base of the volcano. From here, you'll join fellow trekkers and local guides for a memorable journey to the summit. The trek is manageable for hikers of varying fitness levels, making it a popular choice for adventurers of all kinds.
+
+####
 
 #### What is the best Season to Hike?
 
@@ -54,6 +58,10 @@ Selecting the right time to hike Mount Batur is crucial for a safe and rewarding
 It's important to note that while hiking is possible during the wet season (October to March), the trails can be slippery, and visibility may be reduced due to cloud cover.
 
 #### ![](/uploads/img-0342.webp){: .-image width="4032" height="3024"}![](/uploads/img-0347.webp){: .-image width="4032" height="3024"}
+
+####
+
+####
 
 #### How much does it cost?
 
@@ -94,6 +102,8 @@ With a group of friend it's more fun…thank you girls for sharing that together
 Hiking Mount Batur is a transformative experience that brings you closer to nature's wonders and tests your limits in the best possible way. It's a journey that combines physical challenge with the awe-inspiring beauty of Bali's landscapes. So, gear up, prepare for an early morning adventure, and embark on a trek that will leave you with cherished memories for a lifetime.
 
 #### ![](/uploads/batur-3.webp){: .wide-image width="4032" height="3024"}
+
+####
 
 #### The way down:
 
