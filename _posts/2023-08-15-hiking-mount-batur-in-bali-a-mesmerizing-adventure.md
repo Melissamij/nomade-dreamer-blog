@@ -31,7 +31,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-![](/uploads/batur-1.webp){: width="700" height="933"}
+![](/uploads/batur-1.webp){: .wide-image width="700" height="933"}
 
 Bali, often referred to as the "Island of the Gods," is renowned for its stunning landscapes, vibrant culture, and diverse experiences.
 
@@ -61,7 +61,7 @@ The cost of hiking Mount Batur can vary depending on factors such as group size,
 
 #### ![](/uploads/batur-2.webp){: width="3024" height="4032"}
 
-\####
+
 
 #### Pro Tips:
 
@@ -77,7 +77,7 @@ The cost of hiking Mount Batur can vary depending on factors such as group size,
 
 #### ![](/uploads/batur-4.webp){: .-image width="1126" height="1500"}![](/uploads/batur-5.webp){: .-image width="3024" height="4032"}
 
-\####
+
 
 #### The Journey:
 
