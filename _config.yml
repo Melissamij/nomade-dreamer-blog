@@ -5,7 +5,10 @@ collections:
   archives: 
     output: true
     permalink: /:title
-    
+  destinations:
+    output: true
+  indonesia:
+    output: true
     
 _options:
   content:
