@@ -585,9 +585,11 @@ padding: 16px;
 }
 
 .dropdown-title {
-  padding: 0.25rem 0.5rem;
+  padding: 0.25rem 2rem;
   display: inline-block;
+  border: none;
 }
+.arrow { color: #767964}
 
 .dropdown-content {
   display: none;
