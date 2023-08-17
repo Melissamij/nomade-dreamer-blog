@@ -4,9 +4,9 @@ $('.hamburger-button').click(function(){
   $(this).toggleClass('active');
 });
 
-// dropdown menu
+// dropdown menu archive
   $('.dropdown-title').click(function(){
-    $('.dropdown-content').fadeToggle(600);
+    $('.archives').fadeToggle(600);
     $(this).toggleClass('active');
 });
 
@@ -17,6 +17,21 @@ window.addEventListener("DOMContentLoaded", () => {
     const submenu = e.currentTarget.nextElementSibling
     submenu.classList.toggle("is-visible");
   });
+});
+
+// dropdown menu destination
+$('.dropdown-title').click(function(){
+  $('.destinations').fadeToggle(600);
+  $(this).toggleClass('active');
+});
+
+window.addEventListener("DOMContentLoaded", () => {
+const link = document.querySelector('[dropdown-title]');
+
+link.addEventListener("click", (e) => {
+  const submenu = e.currentTarget.nextElementSibling
+  submenu.classList.toggle("is-visible");
+});
 });
 
 // animate on scroll activate 
