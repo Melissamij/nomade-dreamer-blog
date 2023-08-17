@@ -5,8 +5,6 @@ collections:
   archives: 
     output: true
     permalink: /:title
-  Asia:
-    output: true
     
     
 _options:
