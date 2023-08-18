@@ -7,7 +7,7 @@ featured: true
 categories:
   - travel
   - city trip
-  - Europe
+  - Denmark
 featured_image: /uploads/copenhague-1.jpg
 seo:
   title: week end in Copenhagen
