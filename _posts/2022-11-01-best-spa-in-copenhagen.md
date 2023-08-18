@@ -12,6 +12,7 @@ categories:
   - Europe
   - spa
   - Self Care
+  - Denmark
 featured_image: /Spa/sofiebadet-forside__1366x768.jpg
 seo:
   title: Spa in Copenhagen
