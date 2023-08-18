@@ -7,8 +7,8 @@ collections:
     permalink: /:title
   destinations:
     output: true
-  indonesia:
-    output: true
+    permalink: /:title
+  
     
 _options:
   content:

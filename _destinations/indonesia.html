@@ -1,8 +1,18 @@
 ---
-layout: archives
+layout: default
 title: indonesia
 category: bali
 ---
+<section class="padded">
+   <h1>Destinations</h1>
+   {% assign relevant-destinations = site.destinations | where_exp:"destinations", "destinations.categories contains page.category" %}
+   
+   {% for destinations in relevant-destinations %}
+   <a href="{{ destinations.url }}"> {{ destinations.title }} </a>
+   {% endfor %}
+</section>
+
+
 
 <section class="grid padded">
     <div class="capped-width-narrow center">
