@@ -6,7 +6,7 @@ $('.hamburger-button').click(function(){
 
 // dropdown menu archive
   $('.dropdown-title').click(function(){
-    $('.archives').fadeToggle(600);
+    $('.dropdown-content').fadeToggle(600);
     $(this).toggleClass('active');
 });
 
@@ -19,20 +19,7 @@ window.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-// dropdown menu destination
-$('.dropdown-title').click(function(){
-  $('.destinations').fadeToggle(600);
-  $(this).toggleClass('active');
-});
 
-window.addEventListener("DOMContentLoaded", () => {
-const link = document.querySelector('[dropdown-title]');
-
-link.addEventListener("click", (e) => {
-  const submenu = e.currentTarget.nextElementSibling
-  submenu.classList.toggle("is-visible");
-});
-});
 
 // animate on scroll activate 
 AOS.init({
