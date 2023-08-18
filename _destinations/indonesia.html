@@ -1,12 +1,12 @@
 ---
 layout: default
-title: indonesia
+title: Indonesia
 category: bali
 ---
 <section class="padded">
    <h1>Destinations</h1>
    {% assign relevant-destinations = site.destinations | where_exp:"destinations", "destinations.categories contains page.category" %}
-   
+
    {% for destinations in relevant-destinations %}
    <a href="{{ destinations.url }}"> {{ destinations.title }} </a>
    {% endfor %}
