@@ -7,8 +7,8 @@ description: >-
 author: Mélissa
 featured: true
 categories:
-  - travel
   - Self Care
+  - Denmark
 featured_image: /winter-swimming/IMG_8531.webp
 seo:
   title: Winter Swimming Guide
