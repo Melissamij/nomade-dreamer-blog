@@ -20,9 +20,9 @@
 
       <div class="dropdown">
         <span class="dropdown-title button"> Destinations &darr;</span>
-        <div class="dropdown-content  destinations left">
-          {% for destinations in relevant-destinations %}
-          <a href="{{ destinations.url }}"> {{ destinations.title }} </a>
+        <div class="dropdown-content destinations left">
+          {% for cat in site.destinations %}
+          <a href="{{cat.url}}"> {{cat.category}} </a>
           {% endfor %}
           <!-- <a href="/bali"> Bali </a>
           <a href="/self-care"> Self Care </a>
