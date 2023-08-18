@@ -6,7 +6,7 @@ $('.hamburger-button').click(function(){
 
 // dropdown menu archive
   $('.dropdown-title').click(function(){
-    $('.dropdown-content').fadeToggle(600);
+    $(this).next().fadeToggle(600);
     $(this).toggleClass('active');
 });
 
