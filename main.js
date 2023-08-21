@@ -5,13 +5,16 @@ $('.hamburger-button').click(function(){
 });
 
 // dropdown menu archive
-  $('.dropdown-title').click(function(){
+  $('.dropdown-title').click(function() {
     $(this).next().fadeToggle(600);
     $(this).toggleClass('active');
+    $(".dropdown-title").click(function(){
+      $(".dropdown-title").removeClass("active");
     $(".dropdown").not(".active").children(".dropdown-content").slideUp("200");
     $(".dropdown.active")
       .children(".dropdown-content").slideDown("200");
 });
+  });
 
 window.addEventListener("DOMContentLoaded", () => {
   const link = document.querySelector('[dropdown-title]');
