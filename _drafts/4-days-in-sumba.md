@@ -125,7 +125,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Ratenggaro Village:** This picturesque village is famous for its traditional tall-roofed huts and megalithic tombs. It provides a glimpse into the island's rich cultural heritage.
 
-![](/uploads/dji-20230416-104627-456.jpg){: width="2268" height="4032"}
+![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
 
 **Praijing Megalithic Village:** Explore the ancient stone formations and megalithic tombs that offer insights into Sumba's unique ancestral traditions.
 
