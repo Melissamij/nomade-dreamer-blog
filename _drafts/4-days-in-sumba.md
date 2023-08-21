@@ -76,8 +76,6 @@ Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambola
 
 ![](/uploads/img-0741.jpg){: width="3024" height="4032"}
 
-
-
 **Local Transportation:**
 
 * While exploring Sumba, you can use local transportation such as bemos (shared minibuses) or rent a motorbike to get around. Bikes are in pretty bad shape and expensive.
@@ -109,11 +107,49 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 ![](/uploads/img-0850.jpg){: width="3024" height="4032"}
 
-#### ![](/uploads/img-0840.jpg){: width="3024" height="4032"}
+#### ![](/uploads/img-0840.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0837.jpg){: .-image width="3024" height="4032"}
 
-#### **What to Do:**
+**Pantai Kerewei Sumba Barat:** Sunset spot, pack a pic-nic and go enjoy the view. ( Take your trash with you ;) ).
 
-**Explore the Stunning Beaches:** Sumba is renowned for its untouched beaches with golden sands and crystal-clear waters. Nihi Sumba Beach, Pantai Marosi, and Weekuri Lake are must-visit spots for beach lovers.
+**![](/uploads/img-0867-1.jpg){: .-image width="2268" height="4032"}**
+
+#### Day Trip Tour:&nbsp;
+
+On my way back to the airport, I took a day tour to visit this two main spot of the Island. Price: 1.200.000IDR
+
+While just going to the airport is half the price so it's worth it. And I share with two girls to drop them off on the way ;).&nbsp;
+
+While those two places are the most famous one of the Island, they are also my worst memories of the Island.&nbsp;
+
+I do not recommend it for women travelling alone ! ( tell you more bellow if interested).
+
+**Laguna Waikurri, Sumba Barat Daya:**
+
+Entrance fees: 20.000. They say it's free to fly your drone but after my experience I did not feel like it.&nbsp;
+
+The place is really beautiful, but I had few of the local boys following me in the water, looking under the water with their masks.. and I am talking teenager age or older. I was not feeling super confortable to be honest.&nbsp;
+
+They were doing that only to women alone of course ...
+
+![](/uploads/img-0934.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0939.jpg){: .-image width="3024" height="4032"}
+
+![](/uploads/img-0939.jpg){: width="3024" height="4032"}
+
+**Pante Ratenggaro:**
+
+This picturesque village is famous for its traditional tall-roofed huts and megalithic tombs. It provides a glimpse into the island's rich cultural heritage.
+
+Entrance fee: 50.000k&nbsp;
+
+They don't tell you when you come in that you have to pay for the drone, only after. They charged me 75.000k with no choice but to pay ! + 20.000 for that pictures with the kids ( which I ask before hand of course and they tell you after the picture ).&nbsp;
+
+\#### add picture of the village from above&nbsp;
+
+#### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
+
+#### **Other things to Do:**
+
+**Explore the Stunning Beaches:** Sumba is renowned for its untouched beaches with golden sands and crystal-clear waters. Nihi Sumba Beach, Pantai Marosi.
 
 ![](/uploads/img-0763.jpg){: width="3024" height="4032"}
 
@@ -123,17 +159,9 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Visit Traditional Villages:** Immerse yourself in the local culture by visiting traditional Sumbanese villages like Ratenggaro and Praijing. Witness the unique architectural designs and soak in the warm hospitality of the locals.
 
-
-
-#### **What to See:**
-
 **Wairinding Hill:** For breathtaking panoramic views, hike up Wairinding Hill during sunrise or sunset. The vista of rolling hills and the coastline is nothing short of spectacular.
 
-![](/uploads/img-0867.jpg){: .-image width="2268" height="4032"}
 
-**Ratenggaro Village:** This picturesque village is famous for its traditional tall-roofed huts and megalithic tombs. It provides a glimpse into the island's rich cultural heritage.
-
-![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
 
 **Praijing Megalithic Village:** Explore the ancient stone formations and megalithic tombs that offer insights into Sumba's unique ancestral traditions.
 
@@ -147,7 +175,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Yoyos:** A reef break near Tropicana Beach, Yoyos is famous for its consistent waves and suitability for surfers of varying skill levels.
 
-####
+\####
 
 #### **Budget for One Week:**
 
@@ -164,7 +192,5 @@ A budget for a one-week trip to Sumba can vary depending on your travel style. H
 So I was travelling alone in Sumba, while staying in the surf camp in the South of the Island all was good.&nbsp;
 
 But then I went for a day trip to visit the Lake and traditional village
-
-
 
 Sumba Island offers a unique blend of natural beauty, cultural richness, and adventure opportunities. Whether you're a surfer seeking the perfect wave or a traveler looking to immerse yourself in traditional culture, Sumba has something extraordinary to offer. Explore this hidden gem before the rest of the world catches on to its charm.
