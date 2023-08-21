@@ -10,7 +10,7 @@ featured: true
 categories:
   - travel
   - Indonesia
-featured_image: /uploads/copenhague-1.jpg
+featured_image: /uploads/dji-20230416-104655-117-1.jpg
 seo:
   title: 4 Days in Sumba
   description: >-
