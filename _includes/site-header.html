@@ -44,7 +44,7 @@
       <a href="/blog">Blog</a>
       <a href="/blog-archive">Archives</a>
       <div class="dropdown">
-        <span class="dropdown-title button" id="category" style="cursor:pointer" onclick="openNav()"> Categories &darr; </span>
+        <span class="dropdown-title " id="category" style="cursor:pointer" onclick="openNav()"> Categories &darr; </span>
        <!----<a class="dropdown-title" id="category" style="cursor:pointer" onclick="openNav()"> Categories > </a>-->
         <div class="dropdown-content submenu">
           {% for cat in site.archives %}
@@ -52,7 +52,7 @@
           {% endfor %}
         </div> 
         <div class="dropdown">
-          <span class="dropdown-title button" id="category" style="cursor:pointer" onclick="openNav()"> Destinations &darr; </span>
+          <span class="dropdown-title " id="category" style="cursor:pointer" onclick="openNav()"> Destinations &darr; </span>
          <!----<a class="dropdown-title" id="category" style="cursor:pointer" onclick="openNav()"> Categories > </a>-->
           <div class="dropdown-content submenu">
             {% for cat in site.destinations %}
