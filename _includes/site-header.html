@@ -44,8 +44,7 @@
       <a href="/blog">Blog</a>
       <a href="/blog-archive">Archives</a>
       <div class="dropdown">
-        <span class="dropdown-title " id="category" style="cursor:pointer" onclick="openNav()"> Categories &darr; </span>
-       <!----<a class="dropdown-title" id="category" style="cursor:pointer" onclick="openNav()"> Categories > </a>-->
+        <a class="dropdown-title" id="category" style="cursor:pointer" onclick="openNav()"> Categories &darr; </a>
         <div class="dropdown-content submenu">
           {% for cat in site.archives %}
           <a href="{{cat.url}}"> {{cat.category}} </a>
