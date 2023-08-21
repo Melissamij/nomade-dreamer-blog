@@ -33,6 +33,8 @@ _comments:
 
 Nestled in the Indonesian archipelago, Sumba Island is a hidden gem waiting to be discovered. With its pristine beaches, rich culture, and incredible surf breaks, Sumba offers a unique and off-the-beaten-path experience for travelers. In this blog post, we'll take you on a virtual journey to Sumba, sharing insights on the best season to visit, things to do, must-see attractions, top surf breaks, a glimpse into its vibrant culture, and tips for budget travelers planning a one-week adventure.
 
+**If you plan to travel as a solo women, don't miss the part about it !**
+
 #### **Cultural Insights:**
 
 Sumba is rich in culture and traditions. The island is famous for its unique funeral ceremonies, stunning handwoven fabrics (known as "ikat"), and megalithic tombs. Visitors can witness these cultural elements by participating in local ceremonies or visiting traditional villages.
@@ -49,8 +51,6 @@ Sumba is rich in culture and traditions. The island is famous for its unique fun
 #### How To Get There ?&nbsp;
 
 Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambolaka Airport or Waingapu Airport. Here's a step-by-step guide on how to get to Sumba from Bali:
-
-
 
 **Book a Flight from Bali to Sumba:**
 
@@ -70,8 +70,6 @@ Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambola
 
 ![](/uploads/img-0723.jpg){: width="3024" height="4032"}
 
-
-
 **Transportation within Sumba:**
 
 * Upon arriving at Tambolaka Airport or Waingapu Airport, you'll need transportation to reach your desired destination on the island. Options include taxis, car rentals, and local transport. Be sure to negotiate fares or arrange transportation in advance if needed.Best is to arrange with your hotel. Some include it in the price, I paid 700.000IDR.&nbsp;
@@ -79,10 +77,6 @@ Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambola
 ![](/uploads/img-0741.jpg){: width="3024" height="4032"}
 
 
-
-**&nbsp;Accommodation:**
-
-* Sumba offers a range of accommodation options, from luxury resorts to budget guesthouses. Be sure to book your accommodation in advance, especially during peak tourist seasons.
 
 **Local Transportation:**
 
@@ -99,9 +93,21 @@ Sumba Island enjoys a tropical climate, making it a year-round destination. Howe
 
 During this period, you can expect sunny days, calm seas, and pleasant temperatures, making it ideal for outdoor activities and exploration.
 
+#### **&nbsp;Accommodation:**
+
+Sumba offers a range of accommodation options, from luxury resorts to budget guesthouses. Be sure to book your accommodation in advance, especially during peak tourist seasons.
+
+I stayed in a surf camp, will make a post about it asap.&nbsp;
+
+![](/uploads/img-0753.jpg){: width="3024" height="4032"}&nbsp;
+
 #### **What to Do:**
 
 **Explore the Stunning Beaches:** Sumba is renowned for its untouched beaches with golden sands and crystal-clear waters. Nihi Sumba Beach, Pantai Marosi, and Weekuri Lake are must-visit spots for beach lovers.
+
+![](/uploads/img-0763.jpg){: width="3024" height="4032"}
+
+![](/uploads/img-0840.jpg){: width="3024" height="4032"}
 
 **Chase Waterfalls:** Discover the island's hidden waterfalls like Tanggedu Waterfall and Lapopu Waterfall, where you can take a refreshing dip in natural pools.
 
@@ -109,11 +115,13 @@ During this period, you can expect sunny days, calm seas, and pleasant temperatu
 
 **Visit Traditional Villages:** Immerse yourself in the local culture by visiting traditional Sumbanese villages like Ratenggaro and Praijing. Witness the unique architectural designs and soak in the warm hospitality of the locals.
 
+
+
 #### **What to See:**
 
 **Wairinding Hill:** For breathtaking panoramic views, hike up Wairinding Hill during sunrise or sunset. The vista of rolling hills and the coastline is nothing short of spectacular.
 
-![](/uploads/img-0867.jpg){: .-image width="2268" height="4032"}![](/uploads/img-0840.jpg){: width="3024" height="4032"}
+![](/uploads/img-0867.jpg){: .-image width="2268" height="4032"}
 
 **Ratenggaro Village:** This picturesque village is famous for its traditional tall-roofed huts and megalithic tombs. It provides a glimpse into the island's rich cultural heritage.
 
@@ -131,7 +139,7 @@ During this period, you can expect sunny days, calm seas, and pleasant temperatu
 
 **Yoyos:** A reef break near Tropicana Beach, Yoyos is famous for its consistent waves and suitability for surfers of varying skill levels.
 
-####
+
 
 #### **Budget for One Week:**
 
