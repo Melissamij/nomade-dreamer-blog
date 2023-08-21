@@ -101,13 +101,21 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 ![](/uploads/img-0753.jpg){: width="3024" height="4032"}&nbsp;
 
+#### Places I Visited:
+
+**Pantai Watu Belah:** It was few minutes away from the surf camp, here you can path through villages, access the beach. Its if for free !&nbsp;<br>So beautiful.
+
+![](/uploads/img-0833.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0834.jpg){: .-image width="3024" height="4032"}
+
+![](/uploads/img-0850.jpg){: width="3024" height="4032"}
+
+#### ![](/uploads/img-0840.jpg){: width="3024" height="4032"}
+
 #### **What to Do:**
 
 **Explore the Stunning Beaches:** Sumba is renowned for its untouched beaches with golden sands and crystal-clear waters. Nihi Sumba Beach, Pantai Marosi, and Weekuri Lake are must-visit spots for beach lovers.
 
 ![](/uploads/img-0763.jpg){: width="3024" height="4032"}
-
-![](/uploads/img-0840.jpg){: width="3024" height="4032"}
 
 **Chase Waterfalls:** Discover the island's hidden waterfalls like Tanggedu Waterfall and Lapopu Waterfall, where you can take a refreshing dip in natural pools.
 
@@ -139,7 +147,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Yoyos:** A reef break near Tropicana Beach, Yoyos is famous for its consistent waves and suitability for surfers of varying skill levels.
 
-
+####
 
 #### **Budget for One Week:**
 
@@ -150,5 +158,13 @@ A budget for a one-week trip to Sumba can vary depending on your travel style. H
 * Transportation: $20 - $50 (local transportation and motorbike rental)
 * Activities: $50 - $100 (entrance fees, guided tours, and surfboard rental)
 * Total Budget: Approximately $500 - $800 for a week
+
+#### Solo Travel :
+
+So I was travelling alone in Sumba, while staying in the surf camp in the South of the Island all was good.&nbsp;
+
+But then I went for a day trip to visit the Lake and traditional village
+
+
 
 Sumba Island offers a unique blend of natural beauty, cultural richness, and adventure opportunities. Whether you're a surfer seeking the perfect wave or a traveler looking to immerse yourself in traditional culture, Sumba has something extraordinary to offer. Explore this hidden gem before the rest of the world catches on to its charm.
