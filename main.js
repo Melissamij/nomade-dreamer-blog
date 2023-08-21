@@ -6,8 +6,10 @@ $('.hamburger-button').click(function(){
 
 // dropdown menu archive
 $('.dropdown-title').click(function() {
+  // Hide all dropdowns except the one clicked
+  $('.dropdown-content').not($(this).next()).fadeOut(600);
+  // Toggle the clicked dropdown
   $(this).next().fadeToggle(600);
-  $(this).toggleClass('active');
 });
 
  
