@@ -33,7 +33,7 @@ _comments:
 
 Nestled in the Indonesian archipelago, Sumba Island is a hidden gem waiting to be discovered. With its pristine beaches, rich culture, and incredible surf breaks, Sumba offers a unique and off-the-beaten-path experience for travelers. In this blog post, we'll take you on a virtual journey to Sumba, sharing insights on the best season to visit, things to do, must-see attractions, top surf breaks, a glimpse into its vibrant culture, and tips for budget travelers planning a one-week adventure.
 
-**If you plan to travel as a solo women, don't miss the part about it !**
+**If you plan to travel as a solo women,&nbsp; I will share a post about some places I do not recommend !**
 
 #### **Cultural Insights:**
 
@@ -59,6 +59,7 @@ Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambola
 **Airlines That Operate Flights:**
 
 * Several airlines operate flights between Bali and Sumba, including Garuda Indonesia, Wings Air, and Nam Air. These airlines offer daily flights, but schedules and availability may vary, so it's advisable to check with the respective airlines for the most up-to-date information.
+* Use Skyscanner to check the best prices.
 
 **Flight Duration:**
 
@@ -111,7 +112,15 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Pantai Kerewei Sumba Barat:** Sunset spot, pack a pic-nic and go enjoy the view. ( Take your trash with you ;) ).
 
-**![](/uploads/img-0867-1.jpg){: .-image width="2268" height="4032"}**
+Sunsets and sunrise is Sumba are something else...
+
+**![](/uploads/img-0867-1.jpg){: .-image width="2268" height="4032"}![](/uploads/img-0864.jpg){: .-image width="2268" height="4032"}**
+
+#### ![](/uploads/img-0861.jpg){: width="2268" height="4032"}
+
+#### ![](/uploads/img-0705.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0885.jpg){: .-image width="3024" height="4032"}
+
+####
 
 #### Day Trip Tour:&nbsp;
 
@@ -129,7 +138,7 @@ Entrance fees: 20.000. They say it's free to fly your drone but after my experie
 
 The place is really beautiful, but I had few of the local boys following me in the water, looking under the water with their masks.. and I am talking teenager age or older. I was not feeling super confortable to be honest.&nbsp;
 
-They were doing that only to women alone of course ...
+They were doing that only to women alone of course …
 
 ![](/uploads/img-0934.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0939.jpg){: .-image width="3024" height="4032"}
 
@@ -141,11 +150,15 @@ This picturesque village is famous for its traditional tall-roofed huts and mega
 
 Entrance fee: 50.000k&nbsp;
 
-They don't tell you when you come in that you have to pay for the drone, only after. They charged me 75.000k with no choice but to pay ! + 20.000 for that pictures with the kids ( which I ask before hand of course and they tell you after the picture ).&nbsp;
+They don't tell you when you come in that you have to pay for the drone, only after. They charged me 75.000k with no choice but to pay !&nbsp;
 
-\#### add picture of the village from above&nbsp;
+#### ![](/uploads/img-4892.jpg){: width="1179" height="652"}
 
 #### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
+
+####
+
+####
 
 #### **Other things to Do:**
 
@@ -161,8 +174,6 @@ They don't tell you when you come in that you have to pay for the drone, only af
 
 **Wairinding Hill:** For breathtaking panoramic views, hike up Wairinding Hill during sunrise or sunset. The vista of rolling hills and the coastline is nothing short of spectacular.
 
-
-
 **Praijing Megalithic Village:** Explore the ancient stone formations and megalithic tombs that offer insights into Sumba's unique ancestral traditions.
 
 #### **Best Surf Breaks:**
@@ -175,8 +186,6 @@ They don't tell you when you come in that you have to pay for the drone, only af
 
 **Yoyos:** A reef break near Tropicana Beach, Yoyos is famous for its consistent waves and suitability for surfers of varying skill levels.
 
-\####
-
 #### **Budget for One Week:**
 
 A budget for a one-week trip to Sumba can vary depending on your travel style. Here's an approximate budget breakdown for a budget-conscious traveler:
@@ -187,10 +196,6 @@ A budget for a one-week trip to Sumba can vary depending on your travel style. H
 * Activities: $50 - $100 (entrance fees, guided tours, and surfboard rental)
 * Total Budget: Approximately $500 - $800 for a week
 
-#### Solo Travel :
-
-So I was travelling alone in Sumba, while staying in the surf camp in the South of the Island all was good.&nbsp;
-
-But then I went for a day trip to visit the Lake and traditional village
+####
 
 Sumba Island offers a unique blend of natural beauty, cultural richness, and adventure opportunities. Whether you're a surfer seeking the perfect wave or a traveler looking to immerse yourself in traditional culture, Sumba has something extraordinary to offer. Explore this hidden gem before the rest of the world catches on to its charm.
