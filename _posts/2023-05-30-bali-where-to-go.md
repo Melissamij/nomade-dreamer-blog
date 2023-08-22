@@ -9,6 +9,7 @@ featured: true
 categories:
   - travel
   - bali
+  - Indonesia
 featured_image: /uploads/Times.webp
 seo:
   title: 'Bali, where to go ? '

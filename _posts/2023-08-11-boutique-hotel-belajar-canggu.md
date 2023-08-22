@@ -12,6 +12,7 @@ featured: true
 categories:
   - travel
   - bali
+  - Indonesia
 featured_image: /uploads/img-2117.jpg
 seo:
   title: Boutique hotel canggu

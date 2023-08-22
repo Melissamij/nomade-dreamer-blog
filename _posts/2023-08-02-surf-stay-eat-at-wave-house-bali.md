@@ -8,6 +8,7 @@ categories:
   - travel
   - bali
   - surf
+  - Indonesia
 featured_image: /uploads/surf-camp-bali/63A01FD5-C6DD-43CD-A432-BA36FEF4.webp
 seo:
   title: Surf Camp Bali

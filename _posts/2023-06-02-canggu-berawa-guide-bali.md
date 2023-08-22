@@ -7,6 +7,7 @@ featured: true
 categories:
   - travel
   - bali
+  - Indonesia
 featured_image: /uploads/img-9851.JPG
 seo:
   title: Canggu by area
@@ -63,7 +64,7 @@ The beach is also perfect to surf from Beginner to more.. check Surf Camp and fo
 **Stays:**
 
 * [Kosta Hostel](https://www.booking.com/hotel/id/kosta-hostel-canggu.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}, hostel & private room, chill place, close to the beach.&nbsp;
-* [Wave House Surf Camp](https://www.booking.com/hotel/id/wave-house.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2){: target="_blank"}&nbsp; Packages with accommodation, surf lesson ... loved it.
+* [Wave House Surf Camp](https://www.booking.com/hotel/id/wave-house.en.html?aid=8018659&amp;no_rooms=1&amp;group_adults=2){: target="_blank"}&nbsp; Packages with accommodation, surf lesson … loved it.
 * [Villa putih Berawa&nbsp;](https://www.booking.com/hotel/id/luxury-2-bedrooms-villa-putih-pererenan.fr.html?aid=8018659&amp;sid=ce3bd4bf7cf336fc71dbe18855fa6fa2&amp;dist=0&amp;group_adults=2&amp;keep_landing=1&amp;no_rooms=1&amp;sb_price_type=total&amp;type=total&amp;){: target="_blank"}
 
 Take the Canggu Shortcut to cross from Berawa to the other "Canggu areas" north.&nbsp;
@@ -109,8 +110,6 @@ Geographically not part of Canggu but common knowledge that it is.
 Much more quiet, you will find beautiful private villas and new cafés popping up.
 
 If you want quiet and serene vibe, this is for you.&nbsp;
-
-
 
 That's it for now.
 
