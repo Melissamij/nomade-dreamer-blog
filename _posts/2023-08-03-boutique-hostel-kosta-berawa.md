@@ -10,6 +10,7 @@ categories:
   - travel
   - bali
   - surf
+  - Indonesia
 featured_image: /uploads/kosta-room.jpeg
 seo:
   title: 'Boutique Hostel, Kosta Berawa '
