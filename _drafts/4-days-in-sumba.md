@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Days in Sumba
+title: Discover Sumba Island.
 description: >-
   Sumba Island is a hidden gem waiting to be discovered. With its pristine
   beaches, rich culture, and incredible surf breaks, Sumba offers a unique and
@@ -41,12 +41,13 @@ Sumba is rich in culture and traditions. The island is famous for its unique fun
 
 **Unique Architecture:**
 
-* Sumbanese houses are known for their distinctive tall, peaked roofs, which often reach impressive heights. These roofs are typically thatched with alang-alang grass or palm leaves and held up by a complex system of wooden beams and posts.
+Sumbanese houses are known for their distinctive tall, peaked roofs, which often reach impressive heights. These roofs are typically thatched with alang-alang grass or palm leaves and held up by a complex system of wooden beams and posts.
 
 **Ikat Textiles:**
 
-* Sumbanese houses are often adorned with beautifully woven textiles known as "ikat." These textiles are hung as decorative elements and are also used during ceremonies and rituals.
-* Ikat textiles in Sumba are highly regarded for their intricate designs and vibrant colors. They are created using a traditional weaving technique that has been passed down through generations.
+Sumbanese houses are often adorned with beautifully woven textiles known as "ikat." These textiles are hung as decorative elements and are also used during ceremonies and rituals.
+
+Ikat textiles in Sumba are highly regarded for their intricate designs and vibrant colors. They are created using a traditional weaving technique that has been passed down through generations.
 
 #### How To Get There ?&nbsp;
 
@@ -54,37 +55,39 @@ Getting to Sumba from Bali typically involves taking a flight to Sumba's Tambola
 
 **Book a Flight from Bali to Sumba:**
 
-* Start by booking a flight from Ngurah Rai International Airport in Bali to either Tambolaka Airport (TMC) or Waingapu Airport (WGP) in Sumba. Tambolaka Airport is located in West Sumba, while Waingapu Airport is in East Sumba.
+Start by booking a flight from Ngurah Rai International Airport in Bali to either Tambolaka Airport (TMC) or Waingapu Airport (WGP) in Sumba. Tambolaka Airport is located in West Sumba, while Waingapu Airport is in East Sumba.
 
 **Airlines That Operate Flights:**
 
-* Several airlines operate flights between Bali and Sumba, including Garuda Indonesia, Wings Air, and Nam Air. These airlines offer daily flights, but schedules and availability may vary, so it's advisable to check with the respective airlines for the most up-to-date information.
-* Use Skyscanner to check the best prices.
+Several airlines operate flights between Bali and Sumba, including Garuda Indonesia, Wings Air, and Nam Air. These airlines offer daily flights, but schedules and availability may vary, so it's advisable to check with the respective airlines for the most up-to-date information.
+
+Use Skyscanner to check the best prices.
 
 **Flight Duration:**
 
-* The flight duration from Bali to Sumba typically ranges from 1 to 1.5 hours, depending on your destination airport in Sumba.
+The flight duration from Bali to Sumba typically ranges from 1 to 1.5 hours, depending on your destination airport in Sumba.
 
 **Costs:**
 
-* Flight costs can vary significantly depending on the airline, the time of booking, and the class of service. As of my last knowledge update in September 2021, one-way flight tickets from Bali to Sumba could cost anywhere from $50 to $150 or more, depending on these factors.
+Flight costs can vary significantly depending on the airline, the time of booking, and the class of service. As of my last knowledge update in September 2021, one-way flight tickets from Bali to Sumba could cost anywhere from $50 to $150 or more, depending on these factors.
 
 ![](/uploads/img-0723.jpg){: width="3024" height="4032"}
 
 **Transportation within Sumba:**
 
-* Upon arriving at Tambolaka Airport or Waingapu Airport, you'll need transportation to reach your desired destination on the island. Options include taxis, car rentals, and local transport. Be sure to negotiate fares or arrange transportation in advance if needed.Best is to arrange with your hotel. Some include it in the price, I paid 700.000IDR.&nbsp;
+Upon arriving at Tambolaka Airport or Waingapu Airport, you'll need transportation to reach your desired destination on the island. Options include taxis, car rentals, and local transport. Be sure to negotiate fares or arrange transportation in advance if needed.Best is to arrange with your hotel. Some include it in the price, I paid 700.000IDR.&nbsp;
 
 ![](/uploads/img-0741.jpg){: width="3024" height="4032"}
 
 **Local Transportation:**
 
-* While exploring Sumba, you can use local transportation such as bemos (shared minibuses) or rent a motorbike to get around. Bikes are in pretty bad shape and expensive.
-* Keep in mind that road conditions in some areas of Sumba may be basic, so plan your travel routes accordingly.
+While exploring Sumba, you can use local transportation such as bemos (shared minibuses) or rent a motorbike to get around. Bikes are in pretty bad shape and expensive.
+
+Keep in mind that road conditions in some areas of Sumba may be basic, so plan your travel routes accordingly.
 
 **Plan Ahead:**
 
-* Sumba is a relatively remote island, and it's advisable to plan your trip in advance. Consider your interests and the regions you want to explore, as the island is quite large, and attractions are spread out.
+Sumba is a relatively remote island, and it's advisable to plan your trip in advance. Consider your interests and the regions you want to explore, as the island is quite large, and attractions are spread out.
 
 #### **Best Season to Visit:**
 
@@ -120,7 +123,7 @@ Sunsets and sunrise is Sumba are something else…
 
 #### ![](/uploads/img-0705.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0885.jpg){: .-image width="3024" height="4032"}
 
-\####
+
 
 #### Day Trip Tour:&nbsp;
 
@@ -154,11 +157,9 @@ They don't tell you when you come in that you have to pay for the drone, only af
 
 #### ![](/uploads/img-4892.jpg){: width="1179" height="652"}
 
-#### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
+#### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/img-5ea9f9173c33-1.jpeg){: .-image width="1151" height="2089"}
 
-\####
 
-\####
 
 #### **Other things to Do:**
 
