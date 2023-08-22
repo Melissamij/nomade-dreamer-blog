@@ -112,7 +112,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 **Pantai Kerewei Sumba Barat:** Sunset spot, pack a pic-nic and go enjoy the view. ( Take your trash with you ;) ).
 
-Sunsets and sunrise is Sumba are something else...
+Sunsets and sunrise is Sumba are something else…
 
 **![](/uploads/img-0867-1.jpg){: .-image width="2268" height="4032"}![](/uploads/img-0864.jpg){: .-image width="2268" height="4032"}**
 
@@ -120,7 +120,7 @@ Sunsets and sunrise is Sumba are something else...
 
 #### ![](/uploads/img-0705.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0885.jpg){: .-image width="3024" height="4032"}
 
-####
+\####
 
 #### Day Trip Tour:&nbsp;
 
@@ -156,9 +156,9 @@ They don't tell you when you come in that you have to pay for the drone, only af
 
 #### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104655-117-1.jpg){: .-image width="2268" height="4032"}
 
-####
+\####
 
-####
+\####
 
 #### **Other things to Do:**
 
@@ -196,6 +196,13 @@ A budget for a one-week trip to Sumba can vary depending on your travel style. H
 * Activities: $50 - $100 (entrance fees, guided tours, and surfboard rental)
 * Total Budget: Approximately $500 - $800 for a week
 
-####
-
 Sumba Island offers a unique blend of natural beauty, cultural richness, and adventure opportunities. Whether you're a surfer seeking the perfect wave or a traveler looking to immerse yourself in traditional culture, Sumba has something extraordinary to offer. Explore this hidden gem before the rest of the world catches on to its charm.
+
+Once again I hope you enjoyed this blog post,&nbsp;
+{: .center}
+
+Send me a DM on&nbsp;[instagram](https://www.instagram.com/nomadedreamer/){: target="_blank" rel="noopener"}&nbsp;if you have any questions. If you need more tips on Bali, check other blog post or get your&nbsp;[**Bali Guide**](https://nomadedreamer.gumroad.com/l/baliguide){: target="_blank" rel="noopener"}&nbsp;(93 pages of content, all my adresses with google map links, itinerary, what to see per area and so much more).
+{: .center}
+
+And have a great trip!
+{: .center}
