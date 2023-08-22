@@ -153,7 +153,9 @@ This picturesque village is famous for its traditional tall-roofed huts and mega
 
 Entrance fee: 50.000k&nbsp;
 
-They don't tell you when you come in that you have to pay for the drone, only after. They charged me 75.000k with no choice but to pay !&nbsp;
+When you come in, they don't tell you that you have to pay for the drone, only after! They charged me 75.000k with no choice but to pay !&nbsp;
+
+Same if children tell you it's fine to takes pictures, you will have to give money, so be aware!
 
 #### ![](/uploads/img-4892.jpg){: width="1179" height="652"}
 
