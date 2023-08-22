@@ -17,7 +17,7 @@ seo:
     Sumba Island is a hidden gem waiting to be discovered. With its pristine
     beaches, rich culture, and incredible surf breaks, Sumba offers a unique and
     off-the-beaten-path experience for travelers.
-  social_image: /uploads/copenhague-1.jpg
+  social_image: /uploads/sumbavillage.jpg
   twitter_card:
   keywords: >-
     sumba, visit sumba island, sumba indonesia, indonesian hidden gems, off
