@@ -23,6 +23,8 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+![](/uploads/img-5ea9f9173c33-1-1.jpeg){: width="1151" height="2089"}
+
 **Disclaimer:**&nbsp;This post is not to ruin the Island, but simply to share an experience and avoid the same with other women.&nbsp;
 
 Nothing bad happened, but it can be uncomfortable.&nbsp;
@@ -47,11 +49,19 @@ You will soon find out that not many people live here really it's a show. When I
 
 I will of course have given something to the kids, but I don't like to be forced to pay, and even worst they are not happy with what I gave ...&nbsp;
 
+![](/uploads/dji-20230416-104329-344.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104114-809.jpg){: .-image width="2268" height="4032"}
+
+
+
 Then I decide to take my drone out and fly it, only once in the air the same man comes to me and tells me I will have to pay for that as well.&nbsp;
 
 I tell him that he should have said so before and also ask how much, he tells me 7000 and I make sure to ask two times to make sure of the amount.&nbsp;
 
-Anyway seems I did not charge my battery well so it ran out ... ( yeah sucks).&nbsp;
+Anyway seems I did not charge my battery well so it ran out ... ( yeah sucks). Still got those shots, enjoy !
+
+![](/uploads/img-4892-1.jpg){: width="1179" height="652"}
+
+![](/uploads/dji-0020.jpg){: width="4000" height="3000"}
 
 **Time to leave :**
 
@@ -77,7 +87,7 @@ While in the car, I told my driver to just take me to the airport and skip our l
 
 #### Second stop,&nbsp;**Waikurri Laguna:**
 
-
+![](/uploads/img-0939-1.jpg){: width="3024" height="4032"}
 
 But he convinced me to go to the Laguna, that it was not the same ...&nbsp;
 
