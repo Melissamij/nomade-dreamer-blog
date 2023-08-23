@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - city trip
-  - Europe
+  - Budapest
 featured_image: /budapest/IMG_7385.JPG
 seo:
   title: 'week end in Budapest '
