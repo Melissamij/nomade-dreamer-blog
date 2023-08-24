@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - Indonesia
-featured_image: ''
+featured_image: /uploads/img-5ea9f9173c33-1-1.jpeg
 seo:
   title: Solo Travel Sumba
   description: >-
