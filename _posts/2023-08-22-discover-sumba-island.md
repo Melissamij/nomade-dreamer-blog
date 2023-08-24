@@ -10,7 +10,7 @@ featured: true
 categories:
   - travel
   - Indonesia
-featured_image: /uploads/img-5ea9f9173c33-1-1.jpeg
+featured_image: /uploads/dji-20230416-104655-117.jpg
 seo:
   title: 4 Days in Sumba
   description: >-
@@ -157,7 +157,7 @@ Be aware they will ask for money for anything you do beside walking around.&nbsp
 
 #### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/img-5ea9f9173c33-1.jpeg){: .-image width="1151" height="2089"}
 
-####
+\####
 
 #### **Other things to Do:**
 
