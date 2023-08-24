@@ -37,27 +37,25 @@ I wanted to see the&nbsp;**Waikurri Laguna**&nbsp;and the&nbsp;**Ratenggaro vill
 
 #### Frist stop&nbsp;**Ratenggaro village:**
 
-
-
 We arrive at the village with my driver, at the entrance they ask for a fee of 50.000 which I pay.
 
-Once in the village, I go around, look at the houses ...
+Once in the village, I go around, look at the houses …
 
-A few kids&nbsp;**invite**&nbsp;me to come to their houses, I go in, and ask them questions about where they sleep, etc...&nbsp;
+A few kids&nbsp;**invite**&nbsp;me to come to their houses, I go in, and ask them questions about where they sleep, etc…&nbsp;
 
-You will soon find out that not many people live here really it's a show. When I leave the house an older man comes to me and asks me for money for visiting the house and taking pictures with the children.&nbsp;
+You will soon find out that not many people live here really, it's a show! When I leave the house an older man comes to me and asks me for money for visiting the house and taking pictures with the children.&nbsp;
 
-I will of course have given something to the kids, but I don't like to be forced to pay, and even worst they are not happy with what I gave ...&nbsp;
+I would of course have given something to the kids, but I don't like to be forced to pay, and even worst they are not happy with what I gave …&nbsp;
+
+Just makes me sad because, it ruins the human connexion you think you had.
 
 ![](/uploads/dji-20230416-104329-344.jpg){: .-image width="2268" height="4032"}![](/uploads/dji-20230416-104114-809.jpg){: .-image width="2268" height="4032"}
 
+Then I decide to take my drone out and fly it ( I asked if it was ok ), only once in the air the same man comes to me and tells me I will have to pay for that as well.&nbsp;
 
+I tell him that he should have said that before and also ask how much, he tells me 7000 and I make sure to ask two times to make sure of the amount.&nbsp;
 
-Then I decide to take my drone out and fly it, only once in the air the same man comes to me and tells me I will have to pay for that as well.&nbsp;
-
-I tell him that he should have said so before and also ask how much, he tells me 7000 and I make sure to ask two times to make sure of the amount.&nbsp;
-
-Anyway seems I did not charge my battery well so it ran out ... ( yeah sucks). Still got those shots, enjoy !
+Anyway seems I did not charge my battery well so it ran out … ( yeah sucks). Still got those shots, enjoy !
 
 ![](/uploads/img-4892-1.jpg){: width="1179" height="652"}
 
@@ -69,9 +67,11 @@ Get in the car and at the exit, two men block the road and ask me to pay for the
 
 But then he tells me it's 75.000. Just to give you an idea it's the price of a brunch in Canggu Bali.&nbsp;
 
-I refuse to pay that amount, as first they should let people know if they have a drone they need to pay, and give the amount beforehand, and that he told me 7k.&nbsp;
+I refuse to pay that amount, because this is robbery !
 
-**They would not let me leave, my driver left the car and left me alone which became 3 men in their 40's I guess.&nbsp;**
+I try to talk to them and explain, they need to put a sign at the entrance or explain people. They cannot ask for money afterwards.
+
+**They would not let me leave, my driver left the car and left me alone ! End up being alone with 3 men.&nbsp;**
 
 This lasted more than 20 minutes until I had to give in and pay because they were blocking the car and I was left alone.&nbsp;
 
@@ -89,7 +89,7 @@ While in the car, I told my driver to just take me to the airport and skip our l
 
 ![](/uploads/img-0939-1.jpg){: width="3024" height="4032"}
 
-But he convinced me to go to the Laguna, that it was not the same ...&nbsp;
+But he convinced me to go to the Laguna, that it was not the same …&nbsp;
 
 We arrive and pay the entrance of 25.000.&nbsp;
 
@@ -109,7 +109,7 @@ But she also explained to me that this side of the Island is really special and 
 
 At the surf camp, I met two women and we share a ride to the west coast. I texted them what happened so they could be aware.&nbsp;
 
-They answered me back that they also got stopped on the road and forced to pay to pass a road by men...&nbsp;
+They answered me back that they also got stopped on the road and forced to pay to pass a road by men…&nbsp;
 
 So let's just say this side of the Island is not the best.&nbsp;
 
