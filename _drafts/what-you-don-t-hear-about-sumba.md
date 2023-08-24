@@ -75,11 +75,11 @@ I try to talk to them and explain, they need to put a sign at the entrance or ex
 
 This lasted more than 20 minutes until I had to give in and pay because they were blocking the car and I was left alone.&nbsp;
 
-Let me get things straight, I am 32, and I traveled solo a lot and to almost 40 countries, so not so easily intimidated.&nbsp;
+Let me get things straight, I am 32, and I traveled solo a lot and to almost 40 countries, so I am not so easily intimidated.&nbsp;
 
 I left with my hands shaking and tears in my eyes. What if it was a 20-year-old girl on her first trip?&nbsp;
 
-I talk to a few people that went but all as a couple and they had a completely different experience, a nice one!&nbsp;
+I talk to a few people that went as a couple and they had a completely different experience, a nice one!&nbsp;
 
 So either skip this place, either find someone to go with, and no matter what ask for the price before !!!!&nbsp;
 
@@ -93,23 +93,23 @@ But he convinced me to go to the Laguna, that it was not the same …&nbsp;
 
 We arrive and pay the entrance of 25.000.&nbsp;
 
-I went for a swim, and while in the water a group of boys young and some old teenagers kind of followed me swimming.&nbsp;
+I went for a swim, and while in the water a group of boys&nbsp; kind of followed me swimming.&nbsp;
 
 Looking under the water at me with their masks, trying to pretend to touch me by accident.&nbsp;
 
-By the way, before someone asks, I was wearing a swimsuit so nothing provocative and anyway not ok!&nbsp;&nbsp;
+By the way, before someone asks, I was wearing a swimsuit so nothing provocative and anyway, it's not ok!&nbsp;&nbsp;
 
 I met two French women that were with private guides, I started to talk to them about the incident before.&nbsp;
 
-The guide is a local woman, who started her business and working with local men. They were so sweet, thanks to them because they really warm my heart. They offered me to share lunch with them.&nbsp;
+The guide is a local woman, who started her business and work with local men. They were so sweet, thanks to them because they really warm my heart. They offered me to share lunch with them.&nbsp;
 
 But she also explained to me that this side of the Island is really special and it's not the first time that happens.&nbsp;
 
 #### Other experiences:&nbsp;
 
-At the surf camp, I met two women and we share a ride to the west coast. I texted them what happened so they could be aware.&nbsp;
+At the surf camp, I met two women and we shared a ride to the west coast. I texted them about what happened, so they could be aware.&nbsp;
 
-They answered me back that they also got stopped on the road and forced to pay to pass a road by men…&nbsp;
+They answered me back, that they also got stopped on the road and forced to pay to pass a road…&nbsp;
 
 So let's just say this side of the Island is not the best.&nbsp;
 
