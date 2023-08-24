@@ -10,7 +10,7 @@ featured: true
 categories:
   - travel
   - Indonesia
-featured_image: /uploads/dji-20230416-104655-117-1.jpg
+featured_image: /uploads/img-5ea9f9173c33-1-1.jpeg
 seo:
   title: 4 Days in Sumba
   description: >-
@@ -33,7 +33,7 @@ _comments:
 
 Nestled in the Indonesian archipelago, Sumba Island is a hidden gem waiting to be discovered. With its pristine beaches, rich culture, and incredible surf breaks, Sumba offers a unique and off-the-beaten-path experience for travelers. In this blog post, we'll take you on a virtual journey to Sumba, sharing insights on the best season to visit, things to do, must-see attractions, top surf breaks, a glimpse into its vibrant culture, and tips for budget travelers planning a one-week adventure.
 
-**If you plan to travel as a solo women,&nbsp; I will share a post about some places I do not recommend !**
+**If you plan to travel as a solo women,&nbsp; I will share a post about some places I went, and do not recommend because I did not feel safe !**
 
 #### **Cultural Insights:**
 
@@ -105,7 +105,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 #### Places I Visited:
 
-**Pantai Watu Belah:** It was few minutes away from the surf camp, here you can path through villages, access the beach. Its if for free !&nbsp;<br>So beautiful.
+**Pantai Watu Belah:** It was few minutes away from the surf camp, you can pass through villages, access the beach. Its if for free !&nbsp;<br>So beautiful.
 
 ![](/uploads/img-0833.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0834.jpg){: .-image width="3024" height="4032"}
 
@@ -113,7 +113,7 @@ I stayed in a surf camp, will make a post about it asap.&nbsp;
 
 #### ![](/uploads/img-0840.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0837.jpg){: .-image width="3024" height="4032"}
 
-**Pantai Kerewei Sumba Barat:** Sunset spot, pack a pic-nic and go enjoy the view. ( Take your trash with you ;) ).
+**Pantai Kerewei Sumba Barat:** Sunset spot, pack a snack & water to enjoy the view. ( Take your trash with you ;) ).
 
 Sunsets and sunrise is Sumba are something else…
 
@@ -123,8 +123,6 @@ Sunsets and sunrise is Sumba are something else…
 
 #### ![](/uploads/img-0705.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0885.jpg){: .-image width="3024" height="4032"}
 
-
-
 #### Day Trip Tour:&nbsp;
 
 On my way back to the airport, I took a day tour to visit this two main spot of the Island. Price: 1.200.000IDR
@@ -133,15 +131,13 @@ While just going to the airport is half the price so it's worth it. And I share 
 
 While those two places are the most famous one of the Island, they are also my worst memories of the Island.&nbsp;
 
-I do not recommend it for women travelling alone ! ( tell you more bellow if interested).
+I do not recommend this area of the Island for women travelling alone !&nbsp;
 
 **Laguna Waikurri, Sumba Barat Daya:**
 
-Entrance fees: 20.000. They say it's free to fly your drone but after my experience I did not feel like it.&nbsp;
+Entrance fees: 20.000.&nbsp;
 
-The place is really beautiful, but I had few of the local boys following me in the water, looking under the water with their masks.. and I am talking teenager age or older. I was not feeling super confortable to be honest.&nbsp;
-
-They were doing that only to women alone of course …
+The place is really beautiful.
 
 ![](/uploads/img-0934.jpg){: .-image width="3024" height="4032"}![](/uploads/img-0939.jpg){: .-image width="3024" height="4032"}
 
@@ -155,13 +151,13 @@ Entrance fee: 50.000k&nbsp;
 
 When you come in, they don't tell you that you have to pay for the drone, only after! They charged me 75.000k with no choice but to pay !&nbsp;
 
-Same if children tell you it's fine to takes pictures, you will have to give money, so be aware!
+Be aware they will ask for money for anything you do beside walking around.&nbsp;
 
 #### ![](/uploads/img-4892.jpg){: width="1179" height="652"}
 
 #### ![](/uploads/dji-20230416-104627-456.jpg){: .-image width="2268" height="4032"}![](/uploads/img-5ea9f9173c33-1.jpeg){: .-image width="1151" height="2089"}
 
-
+####
 
 #### **Other things to Do:**
 
