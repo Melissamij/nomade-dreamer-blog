@@ -3,7 +3,7 @@ layout: post
 title: 'What you don''t hear about Sumba '
 description: >-
   In this post I will share my personal experience as a solo women. And the
-  places I do not recommend you going to alone and why !
+  places I do not recommend  for you  to go alone and why !
 author: Mélissa
 featured: true
 categories:
