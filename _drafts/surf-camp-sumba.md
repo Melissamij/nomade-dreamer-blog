@@ -22,7 +22,7 @@ _comments:
 ---
 #### ![](/uploads/img-0753-1.jpg){: width="3024" height="4032"}
 
-####
+\####
 
 #### Dreaming to surf in Sumba ?&nbsp;
 
@@ -55,8 +55,6 @@ The bungalows are really stunning but hard to afford if you are solo. You will p
 Founder Arno ( French) and his wife & kids, have been in Sumba for over a decade. For years they builded step by step their dream place, did not have electricity until two years ago.
 
 Dinner is&nbsp; served family style, all together around the dinning table open on the garden. Perfect place to enjoy a beer in the evening and chat about the surf day or life.&nbsp;
-
-
 
 **Sustainable touche.**
 
